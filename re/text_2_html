@@ -1,0 +1,8 @@
+undef $/;
+$text=<>;
+print "Original Text:\n";
+print "$text";
+$text =~ s/^\s*$/<p>/mg;
+print "Modified Text:\n";
+print "$text";
+
