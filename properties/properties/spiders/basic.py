@@ -2,6 +2,7 @@
 import scrapy
 import re
 from properties.items import PropertiesItem
+from scrapy.loader import ItemLoader
 
 class BasicSpider(scrapy.Spider):
     name = "basic"
