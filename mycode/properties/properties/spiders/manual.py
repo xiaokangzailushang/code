@@ -1,17 +1,35 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import re
+import urlparse
 from properties.items import PropertiesItem
 from scrapy.loader import ItemLoader
+from scrapy.http import Request
 
 class BasicSpider(scrapy.Spider):
-    name = "basic"
+    name = "manual"
     allowed_domains = ["web"]
     start_urls = (
-        'http://web:9312/properties/property_000000.html/',
+        'http://web:9312/properties/index_00000.html/',
     )
 
-    def parse(self, response):
+    def parse(self,response):
+        next_selector=response.xpath('//*[@class="next"]//@href')
+        for url in next_selector.extract():
+	    print "-----------------------------------------------------------\n"
+	    print "next link:%s\n"%urlparse.urljoin(response.url,url)
+	    print "-----------------------------------------------------------\n"
+            yield Request(urlparse.urljoin(response.url,url))
+        
+        item_selector=response.xpath('//*[@itemprop="url"]/@href')
+        for url in item_selector.extract():
+	    print "**************************************************************\n"
+	    print "sub link:%s\n"%urlparse.urljoin(response.url,url)
+	    print "**************************************************************\n"
+            #yield Request(urlparse.urljoin(response.url,url),callback=self.parse_item)
+
+
+    def parse_item(self, response):
 	"""
         self.log("title:%s" %response.xpath('//*[@itemprop="name"][1]/text()').extract())
         self.log("price:%s" %response.xpath('//*[@itemprop="price"][1]/text()').re('[.0-9]+'))
