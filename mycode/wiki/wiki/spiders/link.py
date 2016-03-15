@@ -22,6 +22,7 @@ class LinkSpider(scrapy.Spider):
             if link not in pages:
                 pages.add(link)
                 item['link']=link
+		item['parent']=response.url
                 yield Request(link)
 
         yield item
