@@ -4,20 +4,17 @@ import time
 import re
 
 start_url="https://www.google.com/ncr"
-dT=2		#delay time 10s
+dT=10		#delay time 10s
 
-def click_next_page(driver,current_page):
+def click_next_page(driver):
 #find next page link and then click
 #return 1 if next page exists
 #return 0 if next page doesn't exist
 	try:
 		nextPage = driver.find_element_by_xpath('//span[text()="Next"]')
-		if nextPage:
-			nextPage.click()
-			time.sleep(dT)
-			return 1
-		else:
-			return 0
+		nextPage.click()
+		time.sleep(dT)
+		return 1
         except:
                 print "It is done"
                 return 0
@@ -58,7 +55,7 @@ def collect_links(driver):
 					        time.sleep(dT)
 					        linkList.append(driver.current_url)
 					        #获取了实际的地址后，返回到原先的页面
-					        driver.back()
+					        driver.get(current_url)
                                         except:
                                                 print "Error happen in %s" %links[seq].text
                                                 driver.get(current_url)
@@ -68,14 +65,11 @@ def collect_links(driver):
 					h3_tags = driver.find_elements_by_xpath('//h3[@class="r"]')
 				else:
 					linkList.append(links[seq].text)
-        except:
-                print "Error happen in %s" %links[seq].text
-                driver.get(current_url)
-                time.sleep(dT)
-                elementLinks = driver.find_elements_by_xpath('//h3[@class="r"]/a')
-		links = driver.find_elements_by_xpath('//cite[@class="_Rm"]')
-		h3_tags = driver.find_elements_by_xpath('//h3[@class="r"]')
+        
 	finally:
+		#保证是在正确的google搜索页面上，即使抓取子链接错误，但仍能保证程序正确执行
+		driver.get(current_url)
+		time.sleep(4*dT)
 		return linkList
 
 def search_keyword(driver,keyword):
@@ -89,15 +83,16 @@ def search_keyword(driver,keyword):
 
 if __name__ == '__main__':
 	try:
-    		keyword = raw_input("Please input the keyword:")
-    		print "Keyword:%s searching ......\n"%keyword
+		keyword = u'日本 药妆'
+    		#keyword = raw_input("Please input the keyword:")
+    		#print "Keyword:%s searching ......\n"%keyword
 		driver = webdriver.Firefox()
 		search_keyword(driver,keyword)
 		time.sleep(dT)
 		print collect_links(driver)
                 current_page = driver.current_url
                 print current_page
-		while click_next_page(driver,current_page):
+		while click_next_page(driver):
 			time.sleep(dT)
                         current_page = driver.current_url
 			print collect_links(driver)
