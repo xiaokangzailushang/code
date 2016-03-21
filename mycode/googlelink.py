@@ -4,9 +4,9 @@ import time
 import re
 
 start_url="https://www.google.com/ncr"
-dT=10		#delay time 10s
+dT=2		#delay time 10s
 
-def click_next_page(driver):
+def click_next_page(driver,current_page):
 #find next page link and then click
 #return 1 if next page exists
 #return 0 if next page doesn't exist
@@ -18,8 +18,10 @@ def click_next_page(driver):
 			return 1
 		else:
 			return 0
-	finally:
-		pass
+        except:
+                print "It is done"
+                return 0
+
 
 
 def collect_links(driver):
@@ -44,24 +46,35 @@ def collect_links(driver):
 		links = driver.find_elements_by_xpath('//cite[@class="_Rm"]')
 		h3_tags = driver.find_elements_by_xpath('//h3[@class="r"]')
 		length = len(links)
+                current_url = driver.current_url
 		if length != 0:
 			for seq in range(0,length):
         			if pattern_file_extension.match(h3_tags[seq].text):
 					print h3_tags[seq].text
-          				
         			elif pattern.match(links[seq].text):
-					#需要调用webdriver来点击标题链接以获取实际的链接地址，加上time.sleep()，给程序以刷新网页的时间
-					elementLinks[seq].click()
-					time.sleep(dT)
-					linkList.append(driver.current_url)
-					#获取了实际的地址后，返回到原先的页面
-					driver.back()
-					time.sleep(dT)
-					elementLinks = driver.find_elements_by_xpath('//h3[@class="r"]/a')
+                                        try:
+					        #需要调用webdriver来点击标题链接以获取实际的链接地址，加上time.sleep()，给程序以刷新网页的时间
+					        elementLinks[seq].click()
+					        time.sleep(dT)
+					        linkList.append(driver.current_url)
+					        #获取了实际的地址后，返回到原先的页面
+					        driver.back()
+                                        except:
+                                                print "Error happen in %s" %links[seq].text
+                                                driver.get(current_url)
+                                        time.sleep(dT)
+                                        elementLinks = driver.find_elements_by_xpath('//h3[@class="r"]/a')
 					links = driver.find_elements_by_xpath('//cite[@class="_Rm"]')
 					h3_tags = driver.find_elements_by_xpath('//h3[@class="r"]')
 				else:
 					linkList.append(links[seq].text)
+        except:
+                print "Error happen in %s" %links[seq].text
+                driver.get(current_url)
+                time.sleep(dT)
+                elementLinks = driver.find_elements_by_xpath('//h3[@class="r"]/a')
+		links = driver.find_elements_by_xpath('//cite[@class="_Rm"]')
+		h3_tags = driver.find_elements_by_xpath('//h3[@class="r"]')
 	finally:
 		return linkList
 
@@ -82,8 +95,12 @@ if __name__ == '__main__':
 		search_keyword(driver,keyword)
 		time.sleep(dT)
 		print collect_links(driver)
-		while click_next_page(driver):
+                current_page = driver.current_url
+                print current_page
+		while click_next_page(driver,current_page):
 			time.sleep(dT)
+                        current_page = driver.current_url
 			print collect_links(driver)
+                        print current_page
 	finally:
 		driver.quit()
