@@ -6,7 +6,7 @@ import re
 
 class ThreedegreespiderSpider(scrapy.Spider):
     name = "ThreeDegreeSpider"
-    allowed_domains = ["example.webscraping.com"]
+    allowed_domains = []
     start_urls = (
         'http://example.webscraping.com',
     )
@@ -14,18 +14,27 @@ class ThreedegreespiderSpider(scrapy.Spider):
     Space_2nd=[]
     Space_3rd=[]
     pattern = re.compile(r"/+")
+    pattern_url = re.compile(r"http")
 
     def parse(self, response):
-        links = response.xpath('//*[@href]/@href')
-	for link in links.extract():
-	    newUrl = urlparse.urljoin(response.url,link)		
-	    if newUrl not in self.Space_1st:
-	        self.Space_1st.append(newUrl)
-		yield Request(newUrl,callback=self.parse_2nd_degree_space)
+        fn = "google_output"
+	f = open(fn)
 	
+	while True:
+	    line = f.readline()
+	    if len(line) == 0:
+		break
+	    if not self.pattern_url.match(line):
+		line = 'http://' + line
+	    line = line.strip('\n')
+	    if line not in self.Space_1st:
+		self.Space_1st.append(line)
+	        print line
+	        yield Request(line,callback=self.parse_2nd_degree_space)
+	f.close()
 
     def parse_2nd_degree_space(self,response):
-	fn = self.pattern.sub('_',response.url)
+	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
 	    f.write(response.body)
 	f.close()
@@ -38,7 +47,7 @@ class ThreedegreespiderSpider(scrapy.Spider):
 	
 
     def parse_3rd_degree_space(self,response):
-	fn = self.pattern.sub('_',response.url)
+	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
 	    f.write(response.body)
 	f.close()
@@ -50,7 +59,7 @@ class ThreedegreespiderSpider(scrapy.Spider):
 		yield Request(newUrl,callback=self.parse_extreme_space)
 
     def parse_extreme_space(self,response):
-	fn = self.pattern.sub('_',response.url)
+	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
 	    f.write(response.body)
 	f.close()

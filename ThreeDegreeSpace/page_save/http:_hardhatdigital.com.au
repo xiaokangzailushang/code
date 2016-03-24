@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="ie"><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+  <head>
+    <title>Hardhat</title>
+    <meta name="description" content="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- <link rel="shortcut icon" href="/favicon.ico"> -->
+    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />    
+
+    <!-- REMOVE THIS STUFF AND THE FILES AS WELL !!! -->
+    
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571513-1']);
+  _gaq.push(['_trackPageview']);
+    
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+    <link href="/assets/application-4f5208d5c615e21653846596375bf63c.css" media="all" rel="stylesheet" />
+    <script async="async" src="/assets/application-b5a7b775f690b71277b7ae4f49bf4adc.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="sd/5MI+wn/Gw+Nbcg1VvDOFak+wcfSOExOWGEwdG3Ik=" name="csrf-token" />
+
+    <!--[if lt IE 9]>
+    <script src="/html5shiv-respond.js"></script>
+    <![endif]-->
+
+  </head>
+  <body class="nl-blurred">
+    <div class="container ">
+  
+      <section class="hhd-header">
+  <div class="hhd-logo desktop">
+    <a href="/" class="js-animated-link logo-test" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      Hardhat
+    </a>
+  </div>
+
+  <div class="hhd-logo-mobile mobile">
+    <a href="/" class="js-animated-link" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      <i class="icon--circle-hhd header mobile">Hardhat</i>
+    </a>
+  </div>
+  
+  <a class="js-trigger-overlay hhd-menu-hamburger" type="button">
+    <span></span>
+  </a>  
+</section>
+
+
+        
+
+  <section class="hhd-head-banner js-full-height">
+    <!-- <img src="/images/header-placeholder.jpg" alt="PROVV" class="banner-provv"> -->
+    <!-- <div id="helvetica-demo">HARDHAT</div> -->
+    <div class="header-content-wrapper">
+      <div class="header-message">
+        <span class="l1"></span>
+        <span class="l2"></span>
+        <span class="l3"></span>
+        <span class="l4"></span>
+        SMALL TEAMS TAKING <br class="desktop" />
+        ON BIG CHALLENGES
+      </div><!-- end.message -->
+      <div class="icon-swap-container">
+        <i class="icon-hhd-yellow">Hardhat logo</i>
+      </div><!-- end.icon-swap-container -->
+    </div><!-- end.header-content-wrapper -->
+  </section>
+
+  <section class="hhd-about-us no-padding js-variable-height ">
+
+    <div class="left-inner-container">
+      <div class="about-us-content">
+        <h1>THIS IS HOW <br /> WE DO IT.</h1>
+        <p>
+          Deep client immersion, small multidiscipline teams, and one giant desk.
+          This is how we create work with real impact. 
+        </p>
+        <a href="/about-us" class="button jellow js-animated-link no-wrapper">
+          tell me more
+        </a>
+      </div>
+    </div>
+    <div class="swap-gallery js-photo-container right-inner-container photo-container intro-blocks">
+      <div class="grid-sizer"></div>
+      <img alt="Hardhat" class="swap swap-item photo-item first-tablet" id="32-square" src="/system/gallery_images/images/000/000/032/cropped/Stace-adam-sq.jpg?1447378263" />
+      <img alt="sketching" class="swap swap-item photo-item h2" id="32-tall" src="/system/gallery_images/images/000/000/024/cropped/7.jpg?1443677196" />
+      <img alt="meeting" class="swap swap-item photo-item" id="28-square" src="/system/gallery_images/images/000/000/028/cropped/sumo-sq.jpg?1447378075" />
+    </div>
+    
+  </section>
+  <section class="hhd-relationship--home">
+
+    <div class="divider black center"></div>
+
+    <h1>WE BUILD STRONG PARTNERSHIPS.</h1>
+    <p class="center">
+      To us, it’s great relationships that drive great work, and we’ve been building them since 2005. 
+    </p>
+
+    <ul class="client-relationship_list center">
+    <li class="client-relationship_list-item">
+      <a href="/clients/little-creatures" class="client-relationship_link js-animated-link">
+        <img class="client-relationship_link-background" src="/system/clients/thumbnails/000/000/005/large/Little-Creatures-Listing-Small-320x292.jpg?1442470195" alt="Three old kegs on a table">
+        <img class="client-relationship_logo" src="/system/clients/icons/000/000/005/original/little-creatures-logo.png?1442464133" alt="Little Creatures" />
+      </a>
+    </li>
+    <li class="client-relationship_list-item">
+      <a href="/clients/deakin" class="client-relationship_link js-animated-link">
+        <img class="client-relationship_link-background" src="/system/clients/thumbnails/000/000/003/large/deakin.jpg?1442470195" alt="">
+        <img class="client-relationship_logo" src="/system/clients/icons/000/000/003/original/deakin-logo.png?1442534215" alt="Deakin" />
+      </a>
+    </li>
+    <li class="client-relationship_list-item">
+      <a href="/clients/nab" class="client-relationship_link js-animated-link">
+        <img class="client-relationship_link-background" src="/system/clients/thumbnails/000/000/001/large/nab.jpg?1442470194" alt="">
+        <img class="client-relationship_logo" src="/system/clients/icons/000/000/001/original/nab-logo.png?1442534230" alt="NAB" />
+      </a>
+    </li>
+</ul>
+
+
+    <a href="/our-work" class="js-animated-link button black button-partnership no-wrapper">
+      VIEW CLIENT PARTNERSHIPS
+    </a>
+    
+    <div class="js-news-container-grid news-container center news-homepage">
+      <div class="grid-sizer"></div>
+
+        <div class="news-item show no-bg ">
+    <a href="/news/white-night-melbourne-appoints-hardhat-as-lead-agency" class="news-link js-animated-link">
+      <span class="news-info">
+        <span class="news-type_wrapper">
+          <span class="news-type">Work</span> | <span class="date">07.12.2015</span>
+        </span>
+        <span class="news-title">White Night Melbourne appoints Hardhat as lead agency</span>            
+      </span>
+      <span class="news-time_ago">
+        <i class="fa fa-clock-o"></i> <span class='news-time_ago_number'>108</span> days ago
+      </span>          
+    </a>
+  </div>
+  <div class="news-item show  ">
+    <a href="/news/deakin-flight-dx3k-gets-the-hat-tip-from-psfk" class="news-link js-animated-link">
+        <img src="/system/articles/thumbnails/000/000/063/small/Thumb-DX3K.jpg?1448521911" alt="Deakin Flight DX3K gets the hat tip from PSFK thumbnail" class="news-link-background">
+      <span class="news-info">
+        <span class="news-type_wrapper">
+          <span class="news-type">Work</span> | <span class="date">26.11.2015</span>
+        </span>
+        <span class="news-title">Deakin Flight DX3K gets the hat tip from PSFK</span>            
+      </span>
+      <span class="news-time_ago">
+        <i class="fa fa-clock-o"></i> <span class='news-time_ago_number'>119</span> days ago
+      </span>          
+    </a>
+  </div>
+  <div class="news-item show  no-bg h2">
+    <a href="/news/jack-is-back-velocity-tracking-with-agencyagile" class="news-link js-animated-link">
+      <span class="news-info">
+        <span class="news-type_wrapper">
+          <span class="news-type">Events</span> | <span class="date">23.11.2015</span>
+        </span>
+        <span class="news-title">Jack is back. Velocity tracking with AgencyAgile.</span>            
+      </span>
+      <span class="news-time_ago">
+        <i class="fa fa-clock-o"></i> <span class='news-time_ago_number'>122</span> days ago
+      </span>          
+    </a>
+  </div>
+  <div class="news-item show  ">
+    <a href="/news/3d-print-your-own-bling-with-highpoint" class="news-link js-animated-link">
+        <img src="/system/articles/thumbnails/000/000/061/small/highpoint-3D-print-thumb.jpg?1445466723" alt="3D print your own bling with Highpoint thumbnail" class="news-link-background">
+      <span class="news-info">
+        <span class="news-type_wrapper">
+          <span class="news-type">Work</span> | <span class="date">22.10.2015</span>
+        </span>
+        <span class="news-title">3D print your own bling with Highpoint</span>            
+      </span>
+      <span class="news-time_ago">
+        <i class="fa fa-clock-o"></i> <span class='news-time_ago_number'>154</span> days ago
+      </span>          
+    </a>
+  </div>
+  <div class="news-item show  ">
+    <a href="/news/hardhat-teams-up-with-quit-victoria" class="news-link js-animated-link">
+        <img src="/system/articles/thumbnails/000/000/060/small/quit-tile.jpg?1443416064" alt="Hardhat teams up with Quit Victoria thumbnail" class="news-link-background">
+      <span class="news-info">
+        <span class="news-type_wrapper">
+          <span class="news-type">Work</span> | <span class="date">28.09.2015</span>
+        </span>
+        <span class="news-title">Hardhat teams up with Quit Victoria</span>            
+      </span>
+      <span class="news-time_ago">
+        <i class="fa fa-clock-o"></i> <span class='news-time_ago_number'>178</span> days ago
+      </span>          
+    </a>
+  </div>
+
+
+    </div>
+
+    <a href="/news" class="js-animated-link button black see-more-news no-wrapper">
+      view more news
+    </a>
+    
+    <a href="/insights" class="js-animated-link button black desktop no-wrapper">
+      view more insights
+    </a>
+
+  </section>
+
+  <section class="hhd-latest-works-video js-hhd-video no-padding">
+
+    <div class="js-video-container latest-work-video-container">
+
+      <span class="latest-work-video-section-title">
+        Latest work
+      </span>
+      <span class="latest-work-video-title">
+        <h1>SUPER HAPPY PRIZE TIME</h1>
+      </span>
+      <p class="latest-work-video-description">
+        It’s university open day, and you’ve got thousands of potential students in one space at one time. What do you do to create a lasting impression?
+      </p>
+  
+      <a href="#" class="play-vid">  
+        <i class="icon--play"></i>
+      </a>
+    
+    </div>
+    <span class="close-vid">
+      <a href="#" class="close-vid-btn">
+        <i class="icon--stop"></i>
+      </a>
+    </span>
+
+    <div class="player-container" id="ytvideo">
+      <div id="ytvid" data-videoid="s-Q8QNz065s"></div>
+    </div><!--endDiv banner__video-->
+
+  </section>
+
+  <section class="hhd-latest-works no-padding">
+
+    <div class="js-latest-work-container latest-work-container homepage">
+
+      <div class="latest-work-item w2 first">
+        <a href="/our-work/deakin-open-day-2014" class="latest-work-link js-animated-link">
+          <img alt="girl sitting on bench" class="latest-work-background" src="/images/case-studies/deakin-large.jpg" />
+          <span class="latest-work-info">
+            <span class="latest-work-client">Deakin</span>
+            <span class="latest-work-name">open day 2014</span>
+          </span>
+        </a>
+      </div>
+
+      <div class="latest-work-item second">
+        <a href="/our-work/asciano-website-redesign" class="latest-work-link js-animated-link">
+          <img alt="asciano" class="latest-work-background" src="/images/case-studies/asciano-small.jpg" />
+          <span class="latest-work-info">
+            <span class="latest-work-client">Asciano</span>
+            <span class="latest-work-name">website</span>
+          </span>
+        </a>
+      </div>
+
+      <div class="latest-work-item third">
+        <a href="/our-work/leggo-s-loves-italian-app" class="latest-work-link js-animated-link">
+          <img alt="pizza" class="latest-work-background" src="/images/case-studies/leggos-small.jpg" />
+          <span class="latest-work-info">
+            <span class="latest-work-client">Leggo's</span>
+            <span class="latest-work-name">loves italian app</span>
+          </span>
+        </a>
+      </div>
+
+      <div class="latest-work-item fourth desktop">
+        <a href="/our-work/andersens-idesign-app" class="latest-work-link js-animated-link">
+          <img alt="andersen" class="latest-work-background" src="/images/case-studies/andersens-small.jpg" />
+          <span class="latest-work-info">
+            <span class="latest-work-client">Andersens</span>
+            <span class="latest-work-name">idesign</span>
+          </span>
+        </a>
+      </div>
+
+      <div class="latest-work-item fifth desktop">
+        <a href="/our-work/schweppes-swish-app" class="latest-work-link js-animated-link">
+          <img alt="schweppes ipad app" class="latest-work-background" src="/images/case-studies/schweppes-small.jpg" />
+          <span class="latest-work-info">
+            <span class="latest-work-client">Schweppes</span>
+            <span class="latest-work-name">Swish app</span>
+          </span>
+        </a>
+      </div>
+
+    </div>
+    
+    <a href="/our-work" class="js-animated-link button black resize-button aside no-wrapper">
+      view more <span class="desktop">of our </span> work
+    </a>      
+    
+  </section>
+
+  <section class="hhd-banners">
+  <div class="banners-container">
+      <div class="rbt-banner--full">
+        <a href="/real-big-things">
+          <img src="/images/banner-rbt-full.jpg" alt="Real Big Things event">
+        </a>
+      </div> <!--  .rbt-banner--full -->
+
+      <div class="hhd-tip-subscribe">
+  <div class="subscribe-slide-1-wrapper">
+    <div class="subscribe-slide-1">
+      <img src="/images/hat-tip-title.jpg" alt="Hat Tip" />
+      <p>Want more Hardhat in your life? Sign up to Hat Tip to receive your weekly dose of amazing things from the internet, hand picked by the team.</p>
+      <button class="button black hat-tip-subscribe">
+        <a href="#">
+          SUBSCRIBE
+        </a>
+      </button>
+    </div> <!--  .subscribe-slide-1 -->
+  </div> <!--  .subscribe-slide-1-wrapper -->
+
+  <div class="subscribe-slide-2-wrapper">
+    <div class="subscribe-slide-2">
+      <form accept-charset="UTF-8" action="/subscribers" class="new_subscriber" data-remote="true" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+
+        <input id="subscriber_bot_trap" name="subscriber[bot_trap]" type="hidden" value="2016-03-24 11:28:24 +1100" />
+
+        <span class="input-wrapper">
+          <label class="animated-input-label" for="first_name">
+            <span class="animated-input-label-content">First Name*</span>
+          </label>
+          <input class="animated-input-field" id="subscriber_first_name" name="subscriber[first_name]" type="text" />
+        </span>
+
+        <span class="input-wrapper">
+          <label class="animated-input-label" for="last_name">
+            <span class="animated-input-label-content">Last Name*</span>
+          </label>
+          <input class="animated-input-field" id="subscriber_last_name" name="subscriber[last_name]" type="text" />
+        </span>
+
+        <span class="input-wrapper">
+          <label class="animated-input-label" for="email">
+            <span class="animated-input-label-content">Email*</span>
+          </label>
+          <input class="animated-input-field" id="subscriber_email" name="subscriber[email]" type="text" />
+        </span>
+
+        <span class="input-wrapper">
+          <label class="animated-input-label" for="company">
+            <span class="animated-input-label-content">Company</span>
+          </label>
+          <input class="animated-input-field" id="subscriber_company" name="subscriber[company]" type="text" />
+        </span>
+
+        <button class="button black no-anchor">
+          <input name="commit" type="submit" value="Subscribe me now" />  
+        </button>
+
+</form>    </div> <!--  .subscribe-slide-2 -->
+  </div> <!--  .subscribe-slide-2-wrapper -->
+
+</div> <!--  .hhd-tip-subscribe -->
+      
+    <div class="last-tweets">
+  <div class="last-tweets-title">
+    <i class="fa fa-twitter"></i> TWITTER
+  </div>
+  <div class="swiper-container">
+    <ul class="tweets-list swiper-wrapper">
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/711771745233965058">
+            Take a peek into the future of tech with @DanMonheit (no crystal ball needed): https://t.co/Rgz4tvN01L
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/703059876545581056">
+            RT @_rebeccajackson: #Sketchnotes from #RealBigThings HT @HardhatDigital @tweettarzan @ShaeLeeShack https://t.co/ULsHcgNvUu
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/703009323614482434">
+            @tweettarzan #sorrynotsorry
+            </a>
+          </p>
+        </li>
+    </ul>
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
+    </div>
+  </div>
+</section>
+
+
+
+
+       <section class="hhd-footer">
+    <div class="hhd-footer-container">
+      <div class="hhd-footer-container-left">
+        <i class="icon--circle-hhd"></i>
+        <br class="mobile" />
+        <br class="mobile" />
+        HUSTLE. HUMILITY. HEART.
+      </div>
+      <div class="hhd-footer-container-right">
+        <a target="_blank" href="https://www.facebook.com/hardhatdigital">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a target="_blank" href="https://twitter.com/HardhatDigital">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a target="_blank" href="https://instagram.com/hardhatdigital">
+          <i class="fa fa-instagram"></i>
+        </a>
+        <a target="_blank" href="http://www.linkedin.com/company/hardhat-digital">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+    </div>
+
+    <div class="overlay overlay-contentscale">
+  <button type="button" class="js-overlay-close hhd-menu-close">Close</button>
+  <nav>
+    <ul>
+      <li>
+        <a href="/about-us">About Us</a>
+      </li>
+      <li>
+        <a href="/our-work">Our Work</a>
+      </li>
+      <li>
+        <a href="/news">News</a>
+      </li>
+      <li>
+        <a href="/insights">Insights</a>
+      </li>
+      <li>
+        <a href="/careers">Careers</a>
+      </li>
+      <li>
+        <a href="/contact-us">Contact Us</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+    <script>
+      // ShareThis Asynchronous Javascript Loading
+      (function(){
+          window.switchTo5x=true; 
+          var e=document.createElement("script");
+          e.type="text/javascript";
+          e.async=true;
+          e.onload=function(){
+              try{
+                  stLight.options({publisher: "1a3ddf5f-2306-4752-9afa-1be11d9b8812", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+              }catch(e){ /* optionally do something to handle errors here */ }
+          }
+          e.src=('https:' == document.location.protocol ? 'https://ws' : 'http://w') + '.sharethis.com/button/buttons.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(e, s);
+      })();
+    </script>
+    <!-- <script type="text/javascript">var switchTo5x=true;</script> -->
+    <!-- <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script> -->
+    <!-- <script type="text/javascript">stLight.options({publisher: "1a3ddf5f&#45;2306&#45;4752&#45;9afa&#45;1be11d9b8812", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
+    <script src="//use.typekit.net/kip4yxc.js"></script>
+    <script>try{Typekit.load({async: true});}catch(e){}</script>
+  </body>
+</html>

@@ -1,0 +1,738 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25204024-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<head>
+    <title id="ctl00_htmlTitle">Terms Of Use - 
+        MinterEllison
+    </title>
+    
+        
+        
+            <meta name="limitfilter" content="Other" />
+        
+    
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/header.css" type="text/css" />
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/footer.css" type="text/css" />
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/general.css" type="text/css" />
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/ajaxcards.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/developer.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/FCWSite/Include/Client/Styles/jquery.jscrollpane.css" type="text/css" media="screen" /> 
+    <link rel="stylesheet" href="/FCWSite/Include/Client/Styles/print.css" type="text/css" media="print" />
+	
+	
+	
+	<link rel="icon" type="image/png" href="/FCWSite/Img/favicons/favicon-16x16-2015.png" />
+	<link rel="icon" type="image/x-icon" href="/FCWSite/Img/favicons/favicon.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="/FCWSite/Img/favicons/favicon.ico"  />
+	<link rel="apple-touch-icon-precomposed" sizes="32x32" href="/FCWSite/Img/favicons/Favicon-32x32-v2-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/FCWSite/Img/favicons/Favicon-57x57-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="64x64" href="/FCWSite/Img/favicons/Favicon-64x64-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/FCWSite/Img/favicons/Favicon-72x72-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/FCWSite/Img/favicons/Favicon-114x114-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="128x128" href="/FCWSite/Img/favicons/Favicon-128x128-2015.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/FCWSite/Img/favicons/Favicon-144x144-2015.png" />
+
+    <script src="/fcwsite/include/Client/Scripts/changediv.js" language="javascript" type="text/javascript"></script>
+    <script src="/fcwsite/include/Client/Scripts/jquery/jquery-1.5.min.js" language="javascript" type="text/javascript"></script>
+    <script src="/fcwsite/include/Client/Scripts/mainnavigation.js" language="javascript" type="text/javascript"></script>    
+    <script src="/FCWSite/Include/Client/Scripts/jquery/jquery.customselect.js" type="text/javascript" language="javascript"></script>
+    <script src="/fcwsite/include/Client/Scripts/imgOnOff.js" language="javascript" type="text/javascript"></script>    
+	<!--[if lte IE 6]>
+	<script src="/fcwsite/include/Client/Scripts/DD_belatedPNG.js" language="javascript" type="text/javascript"></script>
+	<script>DD_belatedPNG.fix('#new');</script>   
+	<![endif]-->
+    
+        
+
+</head>
+
+
+<body class="general detail generaldetail noBreadcrumbsRightside">
+<form name="aspnetForm" method="post" action="/termsofuse/GeneralContent.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__COMPRESSEDVIEWSTATE" id="__COMPRESSEDVIEWSTATE" value="H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Iv7vX/M3nf2mv+5vuL17/+HB7t79g4N7v+nst/m1zumfXwf//Fq/1q/9m/42v8Ev+PVPqmWbv2v3/qxf59f4NX+NX+PX+L/pwU88vw5++Z1fXzdtvhifVGWZT9uiWjbj11Xd5rPnRdP++mj2Nr9ufr3LrFznza/7+zfFD/Jf/zKvG2r5G0yrxSqr8/rXpyZo/mPcCr/9ur/ur/Fr/Nq/9q/9G/wGv2ME/om+9rtv7PuT30uAfry51U+aLn/s1yJk+R/z/NivjX9+Hfon+c3M578OPtuEFIjyG+ofZ8vz6tdOtfHnZTXJyuIHGdqb5mjxY78u4KKb2w0IPSSN/fjX3jwFP4bmvw66uBERHu5Vsby39/zk7OmvP12X7brOf73F77/MFvmv8Wv8mr/Bb/BjvxG1oP//epjYXzdfbh9/9Rv+gt/sZJ5P3365br9q8voFNc1/wa/zhnjm1/2NvyiIeerTsiyaavkLfuyseZqfZwT1YvZr/VrMY8SDv00CdvsN+Ndfh/79bX6tX/Ab/v6/6xkhelKtl+2v9ev/Nr/JuW37a53/ZjNqzB+c/6bEoL/Lr5n/gt/4uKRellmbc6+//pfn58U0b37Bb3C2yC7yr+ry1/2ld8+LMm/u8gfg6Loq797fy/cnOzsPt8939g629/N8Z/vgfLa7vbO7P9nbPd/bOT84v/tg/+De5ODhve18/wE12s/2qVE+2z7ff5hlD3cfzA6m53df1nmTL1ump/Rxt/z9K8FifFGc/y6/9sVsJkP79X+yaIpJmc8d/r/Lr2tR/l1+vV/3D/o1Y7jO7t87v7efn29PH+afbu9P873th+c759s7ezv5Tn5v/8HDvU+/Pq7Vso/trxXF7g+MIbd773x6/unO7vY+6ZHt/U8/nW4f7BEaO3v797Lpp/ceTHeyD0Cuj9uv/Zv+1r/2zzUmP8cs9XPPJjMRyEGxJMb5rUi3LNbLor1Oi+Vl3rQLAklc9MfEkc+m+f0H9+9t33+w93B7fzKZbD/Mdj7d3rmHiTwAZrOvj/zvPzW4OFRC2fxdfv1QKIew/+Pi2Od5Pp09yLYnu8R1+/fu5dsPJ+dE+v0H2f1sL7+X7e99feyJ9Bvx96R1CO0/Nor2g/vZg53pp4TCvb297f2Hs9l2dk7k37l/sJNNPiXmmR18ANqbsYYc/78Krf83Meb/u9jMN9gD0v5jL/KrJn1VVQvitj84iv3kwf2DB/u72faD/en59v4BDSE72H+4TWSczXYP7h+c7319/Yzu0fs2KanNkh1gGtek90mL3nsI/b07JQbcOd/Znkzu7Wx/mu2fn+f3Z9n5p5NvANNlVIQD/P6QKH7T8+zT3f3dyTb9Qubu0/3Z9uTh9IDwe/gwI6zu3du//w3gR456KK7/b8Dm/wW89XPPNJiOGwTyNzieVOs2/WrYrbw/2ec+tyf37z0gNfspaZN7u+fbDx/sPPx0h7yFnYOdr41wht7Xzc3ieDOe+3s79+4/fLi7Pdm/t0/8Nbm3nU1mU8Jz797edJIdPNj7+n4V47kNROPS6KM3wHqzT/dmu7v3tnfzCbmdu/cOtg8mE6Llw51sZ+d89/7Ova9vICwZe7L4/wJkfu7Z6ueeYWa/1q9zkyT++icUYVPOgzgoGjecZ7P93Z3d3e298/0J6a7swXb28Dwnd+d878Fs//696f70a6NLHob0/sFGcbo72zn/dPfT7d0Z/bP/4JzCq51PKbzJ93fvZ9PzyYOHH+KVLfuIDhnFaPS3t7u3d+9gtr99/2FGnH/vPvU8eUjY7mT3JhPyGXc+/ZDop4/dYBz6Q8Tk55iffu4ZZfZr/bo3id+vd1yuF8uC+OaXxM32bH82odm6d++APIf7kz0y2/fvY7ZmU6Jjfu/+B2D7+2fc+WbhcxhG+enT3ezB+acP72/f2/2U5vPBAcX1Bwc7lLvNd3cfTu/tZg+/vmMBenZx9OTOoRZlNfKtSJ1PH25Ps08RHE0n29kso5nPzh/M7k85WvkA1HqYQeZ+jhH5uWWin2sGmf1av95N8pZ8J1tly/Rp3rwltvmToioizwkX8lMwXUQvwm/7ID/ItncenD94eH86vZdPv/50vc6n1XKW1dfbL7LLbcYGyNzsioaY/4lRzB/u3yP3KkN4Qfm1/Sk5GITN/e0dWkLZu5+R4/Hp1w80BjGP+6a/qcM3hU9GSP/JcZfs3sFu/un9ne17+5MDZEbJOXtwf7K985BQ+/T+wb2d7Ouz5yDSPZf1/4XI/b+PPf9fx3ZhrGn/EQn6NXNevDEsmRML/mHRAdybZJMHpIS3H0zJFdl/uEezPNnZI5I+zKfZgweT84dffwDl789LTUv+LCt9Yfmtf83/d+ADKlrB/U1O5sUySxfFktaDWhDtD48i+enuAQkH6fTdhxPK91Eifzu7t/NgG7Hczu6Dh5N7978+H5JVG6Dar0NU+38JQo75ftPfJvldfo0fLUSbQX/gQvT//xaiRbJ+S1l0TnXVOX1eXVSDmZvsHpmdbJdSdJMHlLickQ06mM1m2zvn5w9p4e7gwe7k6wdqX5xuo/PtvZ3d++PV8kJEC9EK1rl1tfs3+BFL/4ilN7L0r/Xr/nqv86yezsE/pAx/xDI/YpkbWea3FpZJ3+T1Ii2a9HSxaq9/V+Yg8oh+PeWoeKvf6C5ckoa/uqstwx+zX+vXdw7gr/Nr/dq/za93brXaQEz4Gz8rlrP0dV5fFtN8OJX+4OGnBwcZpaunM0oa7U9n97eznBZ1KHt072Dn/s7DgwdffyXpnFBoFIPNcWAP2z8q7kLO9s53d/aRXXtIiMzot4f3yI/c+fQeBfw7Dyaffrr7jWD7+2fESJd5NAbs4Rp3dykBcm9CC2Tbkzyj+GHv/oHkR3YOZpSUz2d7n06+vrsb4OrHqgj6/t+Bz/8L+O3/PUykTjWENIEA/HqiNX4Dy0ViasJI79f5tX6T3+Z3Mn/zV/zhr2liQsg9f/gLfuxp1masyX/d3xUKLW8L4JRmxKhfZPXbvE1f5RfrkjGdCbQbYP4uv8Gv+xsRxZq2Xk/lrV/rdm/92ElVr6o6I/0bhrHDrySkB8vqekG0DBd3Nrzz250uL4u6WuIlHufLMlsui+VFmJ/eAOHXJznOltM8TLBteOE3e7amySWCLmmmBVmjlm+iydmyWdfS2W9wu1d+6zPyqtmgrbMyfVlXq7xur2e/1o/d7vXf9TlxwEVmueBp0azWbU5s0FTlWiY0uR2o3/BVThicNi1P6W94u5d+k1fIcHjc8xvd7r1f+032bvZr/ca3a5y8yafzZVVWF9eYdSNVydlytqauC5WrX1/gCEiG9uv/Nr/JbeSKuvitTpd5fXHNNATt1jVJ660l6LcQFiuIfkbSby1HyefImC2Fz24pSL/5t2mq2jlje3yRszTcUp5+E/KA6kwmjLyeW0vRb/ZlO6foz5H81uK05WZvlH6Rz4qM8X6TE9NXi8V6WUyZfxtl+mAGf63f5tfB3+QH/da/5m98d5o1edOuZ9T93cDB+K1/zd/ohL5LX8uXIL7hkuALddQcQKIAEZ4mrgfwNzxx3/nw/M8ZHAiw0UX7DZ/kKfzOepHPhlaiHtzbuXe+j/TPeU728vw+VvVnB9s7uwcHDz+9d3/n3sH+1zZWE+IQ6X6zd9ZB9I+I+xef7k+yPRj1nfMZrcFSGvfh3kOy7PfvPaAlkU/Pdz4gvecw3eSZdfD8Q6J4zmjBaCejDCQtjNK61YN8Z/vhLmV4aYmYMrsP7j/Ym3598+/h2fXK/t+Azc81i/2/hXM8X8tIqK9cNL5iXfCb3F2tJ6VRRT3t8tL70tcGv7H/RWr1AYNM7q7qakZ6tgfuN39TVeXbom3SX5h+vi5mocb6HV/qa6O01y5UYMldEILjyU4Pv8Er/cIH/GPmQ0G0s/jAivY3kL9/Lbfw8Ov+Auvopd/+ifR4dknpv/o6fZFfNem31xMSwD8mvrDy6f38fLYD/5sWnmj1abo9uU+57Z17+b3d2WQ/uzf7+munZ7//t6tF/vt/+/n2ybd/4ni7zNbL6Xz80ytNBpqh/Ta8jsK/KQ1uGg0I8+v6lLzhBbgdBvZP/yQWHVJyHlJgZdv8wuWkWR22VUq+1bX8sV5tt9X2DFCvCrLkZFzlC/LdycSlxTKd2n4v2EOAW8mWs8yuxpbTfgMZJbD1Jo0WPnJDCfet0kSwzb2hXshQfw1vMLnltI227bf8IqegI0wNE0f84hhD7FIe+OABSf10ku8iMp1tH+zMKDLF3B/MaK3y4OvL/4LwWHjmImbfBpCNa+z8fLp/b0aIfjrZp2Ws/EG2nU1nDymFPcnuP5juzfLzr8++gu0mGzeA6y+NB9tZluef7m1nD+6TcTnPs20SL1L0uwe7u/f3ptPJ+b0PRbVr5n6OEfm5ZLD/N/DLQKLh13uZV6tSZPfX1u90QcTYgOfk/KcvKNNp0t4mmnpW1P43lM78DVzjzb957974q9/nr/fl+TkFS04T/TpkrH6BGqPf+tf83R5Symrv3sPJ9vTTXcplYUGJ/ASi6Q4tMJ/vTGmF9EBF/Tf4dX+D41leZmQk1SVnCDOa/0l+79PtaQ6OnO3c287uT3cJwmRnNqU/d/aNsgCE9fQtpRdmqvgYwr2dWZZN92jK7lMSi6zWwfbBXnafzNjk09kkP9iZHJxbCL/+k7z4aQ7Hfm0LYO/8wV5+/95k++H+PRoEpeC2sx0azs7e/u7+wafTfG86cSg8qYtmki1zCegEwjm9fTDbzbcf7JwT19zbeUie22Rne2eS39/Ze7i7++DThw7CSbac5HWd6ZKYDILM787e/Xx79vDeOUnGvXz74f2dfHtnuj/Z38/vHUwf5hbCr/c0qyk9LgGeGcO9e/eIP7fPP6VUIktWdm9K7+f3HkzyvcmDh/u79n2KaMtZelIRd0hQLjCmNGv5bGd/Ozt4SP7A/f3Z9uR8d0bK4cH+3u7Dvf0HDxyMH/t2tbxIf68KpPwNHCEeTCdE9Qfb9ym5SVnFh9Pthzv5AYGYPng4mz14QCk9N4znlI9ASuLH7Pv3zyf3aRLukeG9zy4wTUo2vY/3Z6SbKDV63xHyx77IywnZcsxF4kbxcHL+6e7OfWQyaRTZATHUg3vZ9u7+7l6+u7M7PXjoZvPXfUnJnLkkU+T1/b2H+c7983vbD+6T603a4MH2ZG9Gr9/fefBwmmc79+7dd1P5ep4tL+bE05xWURo8vHfvwZTm7vwBvbe/e48yvbsEZvfTyad7tLB6P/80czR4fT1b5teSaZH3H5zvkV66f3/7wad7NJUZEfLh/Wx3e3fv/sN9mtmDB/uOBr/hV2VG7JRR2rGe/Vq/iQWS3588yB7s7Gw/mB4QFXaJHx4SS1IsQYqPFO3+w717jh++SwkuEoq2Yp4i5/TuitXUXT+b81vqmsnkOg1VVLAk8jv8Ngeem0q4/NoW2K95/Gses7frfDd88OvIB9arE9mOAnjyaz7pAngSA/DrDAE4+TVPZh0AJzEAv94QgKe/5tMuBk9jAH6DIQCnv+ZpF8BpDEAyBODZr/msC+BZDMBvNATg81/z8y6Az2MAfpMhAN/+Nb/dBfDtGIDfjF799WIAzn7Nsy6AM++931ze0L9+iyE0vvNrfqcL5TsxNH6rIQC/16/5e3UB/F4xAL/NEIDnv+bzLoDnMQC/3RCAL37NL7oAvogB+B2GALz4NV90AbyIAfidhgB8+Wt+2QXwZQzALxgC8PLXfNkF8DIGIB0C8BO/5k90AfxEDMBHQ9z06td81QXwygPw4wE3/W5DaLz+NV93obyOofELhwC8+TXfdAG8iQHYGgLw1a/5VRfAVzEA3xoC8JO/5k92AfxkDMBoCMB3f83vdgF8NwZgrABcQw/I7/1r/t6iwQXA7x0DsDOEwe/za/4+XQx+nxiAvU0Y/NSv+VM+Bj8VA/Bj8rVnuDQ1zmmbX+/ukjIDNmVzIZB+jHzkBecMvJyNmMBf00D6dX7Bj501yDJMynzOuLnvkl/wmzwrSgoXCcRZmy+aC0D4Nfb+rF/n1/g1f41f49f4v+nBTzy/Dn75nV9fN9RsfFLx8hMSWOPXVU2LP8+Lpv310extft38epdYb2x+3d+/KX6Q//qUiGio5W9AmftVVuf1r09N0PzHuBV++3V/3V/j1/i1f+1f+zf4DX7HCPwTfe1339j3J7+XAP14c6ufNF3+2K9FyPI/5vmxXxv//Dr0T/Kbmc9/HXy2CSkQ5TfUP5Be/rVTbfx5WU2ysvgBR2SmOVr82K8LuOjmdgNCD0ljP/61N0/Bj6H5r4MubkSEh0s++7295ydnT3/96brE4s6vt/j9l+RF/Rq/xq/5G/wGP/YbUQv6/6+Hif118+X28Ve/IfEWcSYY4zeVgOW3sSz76xDj/G0/TxgHxPs19f/MMzytwji/Gf3/1/v16J9f+/d/fvIb/6a/2a+tn/0GvwFa/8a/KU/+N8xUTEGgcLvBfh2mQhc3IvIeTPVjHlORVoLuJIX0I+XzI+UzrHw0T/3r/vHRdNp0j+Lk3Qf59qc7+5R2mdGKUTbbozD1/P7e5N7Bp+fns6+/WnW2fXby5YvtPaRhXr1+vf3ls2fbuwerd24BgbJfv+b/yxCDiv6RUP1IqG4lVH9cPEe9f393b+fg4fa9/NN725T6u7/98B5lNXfPHzy8d0Bp0mzy9Vehe7z7oiNTvw7J1P+78Jr9yE79SKRuK1J/YpR1s509Wue+T8tNnz6kBYZ9yqkeTCa05DXJKaW+u3v+MDv/Rlj35auzF28GLNX/61D7ka36kWDdWrD+hCj3HjycZrMdcqz2djJassKa0cP700/Bcff28/0s280efpPcG7NW/2/DbPZraYZJgvTf4Efy9SP52ihfmj/89X6kjH+NHzHLrZRx3JV4mGf5/Xv3aMV+ur+3vX/v4R6temd723sPdz99+GCak5c++0ZU3ukXx2fPI17Orz/o5fwcooZ12B8J1o8EKxCs9/Nypg8OZtnubLZ9f3r/0+39+/f2tx+e7x4Q9+7lD/K9e/fP82/GR1fu7Xo5Pzbo5fzcYTb7tRL1chKsi/0aP4rSfyRmtxWz3AXFv8aPgtAf8c178s2vI3zz69AyaMIr67/O+Y9Y6Nf4EQu9Bwv9Wj9imF/jRwxzG4b5df/AmN+1P7l/fu/B3oPtvYMJrYV8SqsiB5Pzne17n94/pywTJW937399v+v3f53Xl7//k2zpXEAYyV/nF/wGJ01zUmZN8+veu8iXeZ2V6Sxvs6JM9U/9a1k9qfNsNq3Xi0nzqriYt00xy3/Br/P7/66vn/xavxaBowzVr0Ps/3f9PGF/sMCvqf9nzmfmFPb/zej/v96vh39+/zdnb56f/sa/6W/2a5uPMdJfc/c3/k2Zjb9h8fgNDAPfbsBfRzzQxY2IvId4JL+GE49f69f9jd7k9aJJvzxPv2pyBP+z3+bXOsc/P8p6/ki53qxcLQNVzECcAv2xH/HQr/EjHnofHvpTf+Hj1dGT63TdFMuLtJ3n6RfFss3r07IsmmqZbl3lI/pylFbr+k56lU+aoqVPrqt1ml3UeZ62VQp2KK/Tq6KdA0KTpz5jjtPv5ukiu06n82x5kUdapFkL8OmsaKZ1jtGl2XLG8Kp1S8a4LaYEhrCckvtQLNeMakVoAVrRGLQEq+k0X7U8krCPBp9dp9kKuJ7X1SJtiwXjj5/j9PHd1dFvnDye7x+dEQF4StbkH6zqapXX7XVasxvw+C41oGaro6+W5NUQeIJaXxXUQ7GcFdOMpm9ECKXV1ZKRmFara36Vx8StU1B4qAP6Ut+jRssW6PtjHKcvyzyj3mbV8j/5g/7slpqf14XQtaKPBQjRfE5OFxMEpJ/U1RV9WdXUG3UedHBOny6r5TbN4iKvp0VWjlJCiCafkKsE2Rq/T8AjGDLRXThgsW4IwQm5TEueQAJOL1zVRUuQAWRRNFAYaXGO9oTvLC2Lt7lO3oiJgz7qnKgwW09pmpbXKfG1jju3Uwss8Z0QcLWuVxVY6/GkTu8eyb/HZZm2dTYDt9VvG8x0noE2aQWSenwyyctKWIigFei+WUECL3naaOw+N3yujiIRuqoXmWVPYsu0zC/om2x2SQyaOtZ448+fkMZ0XWCC6YtZTsywJE4kJGjsl+ReplnarBeE+zXDNw5qRVr3ssivAIm6p8lgnuZpyZt2nJ61gAp0LGQCOslZLut8ni8bGtmIWtQircumLdo1IeOjP05/H5rRhiSunKVZeZVdN2ZqpRm9rcSvq/Oc59W+PAKxiY/rgvgfnVxjzBCBaVFP14umzZbTnLTIJCci0kiJ2JgXkL681ini6cWskzpQ6oUTDDHuiMMIMMAndT7NixWzDeD4k8Wyvm6kpf9qhGqkfzJ8BVrNqpwmq7Wf0fRUZTEt2qrenpYFJpew5z6aebGisbVXOfH9uhn/wuWkWR06HnpeZJOiLNprxyPHJbTbxRy6IisW6JwmivR2KP0dzqVf16vtttqeMUqYD1GuNN0zQuaaaJzXdVXzcCuVv8YQlef2/Jx4nQbWpNN1XefLKYsg6c11nU2vI+p6EJsMSu1a9GhXWx+XTTVSras6JGdGLZZAetmWmKUmp15zVpjTTBTaxTqrM2ovXXMDIhwmlsacMS7ElCw+voYIWeWN+4KFiUeroyCraURuRjRvC/Bg+p/8QX8eIVs0/8kf9OczCfJ303INoSStUpB9K6gxQZgVPN9ioLIamBbEJmz7VI2oXhnqf6SgwfXMql3gmA0Ffc2AuD3rUSLC1byYEtPwVE6IM+kPQCEJY5Gmd6cZDGOoSInu9AdZ7Gw1V+1wWRWzkGi/D4R2HRMyDIFFmkhVQJRB/GBM1NqSktjCyn9dNG9JRS0Zl4Jck6zm2TbkRbvSSIdqjnSrWBoKTXIZDqGEpsv8oixIM07zO9YklBVZISilgvDgP6rVivyo9ZJA6id1fpkv17n+BUbiXxuaOpo1cpjQFysKy3DnlAiAOIKipEiJuHV6WdSETMNaR9TMjIZMU86NiJt/0RpUIL0I4KMu7GuPwL5RgJV1xBynzwCe+E70bXu9ylnlC0y82FYt+vh6dNuAVCDdIVaY4bJY0BczuCjZBXl/F6rtf7fdkJHOzkekjZoVoICByQpdFhWp4PaqcnzYQKWSTiIebWBtWEdBGxLRMbTSWJKRfOWGe1UQcSZoJfhsqQOZqx99h7VpwdSr8+1mDZ/P+Lei/+itBnZ1qhMsY1Q6sl06Xy+Zkldz4ed0npF/sMqKGYzJOVPH9xPU8hf1jHmd+LJYkheCBk7rf+nN+haBaCo4XOkinxWZ+aKBcKmYQxUXrPCIVitOdWEKWT+LItRuCHPhFoVAToODwZgv2fQj+zZO37CvKG8G6hDDYoagpiQxBbpjP0V0gM4OrCaUHXF8gWnCW+JJsVeXi4VxdA25g+3LW0YIfp9L37HN8pQqjEclHatXz69ov8IK1PVIplXtl/hGzvqzlcBomTDGsrMKWs7ITuYqyPYNkrBVsQQ6o/SiqmaMlfIKtMU52VdxFsQALXwmeEm5xauqBnOR20DYuKm3ZrUCNvQ62ea1uOhsPTIQr0bIxiNeGUjsGLA0oCn9BVo0rM9Voabn5KCQqmLG8fQK6d1zDHRWee762zxfKUUk2ckSfk6zL4prS3U9T3R8khdFA30hTr0JRO70nJ6XpGohQBxYLP3QyZcC0CQc3woq2ryUbqHf/F1GVhLe3jKdlNUFTQ19vEZ0Z73S9YScM2CdNXfEmY2NAGrVwm6NaHOXWzzATB0E+iSHpGMERkX2Z+dOz4IKlSEhDBTMpf0x8EeGWdYl/i2LI3aJzsuMPH/yLK/TLTTn0MDnNZKF/+QP+rMgvSS1F0TwO6l9/V2+rFbzalJMyeJkU0oekNAgWoPXPyd12/AoaHiEAOm10r16npWQ2Fl+nkn3ZMmXIkriX7Lvu6TX8cVl1nCMdA5lxCEiIdIg7LskyRupxGt00bgoEsgQu7GppOFAW/OcgaSNQ6aaNFMKekYkPO8oMiYK5O9W7HFz5FrVy4oNB8apyoUUYBPXgDaM4OCUo5ZFBat2604QbeU1ZEIw9IfmgmVEQBS+Fw3TSKwdelJ37SJbTDBjJk4JvrRektiDDRPfrIg/OhOvgX9DRmSRV0tSaDSXPCE258B0kuZkgClWgVYljjwmHqXYkly5tMyuoMCoxU3/CMeSDB+vQDAWWXo7jHs7qR3Pdez7PSOWtAvYKvjzE/F2CSS//ZPFlBiyIEfNYttXMcJ5DgMIIAUSKVZvuCttkb5E6EbqOEuJpc8/++iuMu2KP//oCDHJ47vZ0RjAOZf661Ia9bfi5XHKqP42v9bv8uv8Wr/2b/Prmdwq//ubzWa/zW9AfyDTala7/rhfM7bc9WA2OX9I60nbe5+eT7b3Jw8fbmf3Zp9u70z2P53uTHb3sweffsBy14vs8vd/3ZJj87y6KJb4lSyDW/v6tWi9//9deMl6nKPaHxPFbnf/4WRn/9PJ9sN8N9/en02n21l272B7ZzabPdg5zx8c5JNvDrsviQ0dzX4dotn/m7CaGaaLs96vmwA9SquQ0BE9f2kM8en9/ex+tvfp9v29+7vb+9P83nb28GBn+97+/f1Ps4Ps3uT+10e8/P2ngsD4ojh3bPdzjIjPZx0SRZel7z+cPPz0/mxne+9BTnP7kKZ1Mrl3f/veg8nBp/v7k/zhvf2vj1nVpxHY7OcaE8zUDVotOo279x/cf7Bzj/RGfv/hNnV+fzvbuU8oHuQPdh9OH+4e7N/7+ij+/rAQi2x1C3764SHyvvy0//DTh+ef7u5u3/90jzrd3Xmw/fDT893tew8nebZ3/2C2f//g62NW9Wk0yE8/RExAJMtP5/YfrEj+Wr/Lrz8P9dZv+AX5reRIvKb3iYp/cFTl7n/68MHs3g7hNb336fb+p/v3tic79zIyU5NP7316Pzu/P33w9ZH//ReMAkdMAbP9vwCZgOE6tPpDoujt7Z7v7d3b2d/O72XU872D3e2DWT4h80SSsJN/ur/7af710auixALX/b8BG3HamNN+HVr7/tt+nqx9Y/3319T/87I3r0zL2vdvRv//9X49+ufX/v2fn/zGv+lv9mvrZ7/Bb4DWv/FvyuvX3/C6OFMQKNxusF9nXRxd3IjIe6yL/9iv4a+Lq4pKiIf+rJ8nPPRr6eDwMEMxIwkP8aDx2TfMJ2AR5r/bDejr8Am6uBGR9+ATTKzjE9LJv9GbK6x215yEIKX8J0fV4HQyvXf//j55cw9398nj/ZRsxsFBvn1vSn7KzoQCidnXtxlnvz9lxKrfvxVEfn/Ky19vzyklsKIvx6ulFwT+vxA5MXA/krQfSdpNktbxfuK8TNF3RmmMe9sPdmZ7FA/sZ9sPd6ez7f2d3YOD7OHOpx/i5t5O0H6dQUH7OUVu9mv9+j/yjfDPj3yj95TEH/lGOjg8P9LYt9fYv/Fz8ony2dnSOEd/SlQtnu+f704ePDjffnA+vb+9f05Zruz+/u52vjOZHXy693BvN//6MaKqxZIxoXzqBu/o/43Y/cg9+pGw3U7YjHvUiHsUZ+aDTx/c29u7v7P96XSP0qX3p3vbWX4v384/vT+ZTHd2dh5O7t+Kmb8WMzv/6P+N2M1+rR/7kYOEf37kIL2nLP7IQdLB4fmRzr69zv4NXr1+bXyjPz6qEj/dOZ/eO3iQb5/fo3WG/b0JhYz7B+fb+UF2P6dE+sHsQfahKrFumk1u0f/LEPuRR/Qj6bqddHU8ojgfH+x8+mCWzR5uZw8+RfLz4fl2tptNt/PswXlOy3nnk52fHT52ztD/yxCb/Vq/4W8qC7W6ZPsjX+hHvtCtpdDzhX7kCP1IVd9OVZN6zp3D8Wv8yMT/iG/ek29+HeGb3/hHlutHlutrMtePLJd5fqSBvoYG+pHl+hHffB2+Ucv1m/7Icv3Icn1N5vqR5TLPjzTQ19BAP7JcP+Kbr8M3arl+c6yansNo/Tq/1q/12/w657qIyv/+ZrOZaqTfQHKyv/GbvF40aXWeftXkKWVlfyaa+7y/s7vzYPbpdr63/2B7/97swfbD3dlke+fT3Xt7D6b3pw9397927rP8/VvgML4ozh3//5yiIbKnFPqNfAoRgX5JDLO9Bw/v33/wcLJ9/0G2u70/2/t0+yDPdrZ3Jvf39z7du/dguvf1V8rLqkshzHSIxw8bj5nhqAG++vVf1sVlNr0mgv3SGMGynX2ay/x8++EepdT3P919sH2wO/10e2eW5ZOHE0qxT75+Nr38/VfSe8hTP8eIBFzl0ecPjKG1S7P2IMMcPrx3f3v//g6x+v7e/vZOfvBwZ5f6vP/wgyayRyCw1M81JrNf67f8kc37NX5k8260eb/u7zytVtd1cTFv0y+KJWml9LQsi6Zapns7u/dJqP6o6BpednDw4GB/d2/73v2dKS2SH+xsT87PST3e232wN83OH2T7O1+bly1KhAKZqOXF5Z4Vr/8HX2lvbJ/FAAA=" />
+<input type="hidden" name="__VIEWSTATE" id="
+__VIEWSTATE" value="" />
+</div>
+
+<script src="/FCWSite/Include/spamproof.js" type="text/javascript"></script>
+
+    <div class="containermainC"><div class="containermainB"><div class="containermainA" style="background-image: url(/files/ImageControl/4b5f3727-28b3-4689-8bf0-365f5c61be15/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Serv_Ban.jpg);"><div class="containermainA2" id="new"><div class="containermainA3"><div class="containermain">
+                    
+                    
+
+<!--stopindex-->
+<div class="headerB"><div class="headerA"><div class="header">
+
+    
+	
+
+<div class="topnav">
+	<ul>
+        
+                <li class="">
+                   <a href="/offices/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl00_imgNavigationImage" class="navImage" src="/files/ImageControl/52e4b009-f028-4ee0-8fd1-014b21f20f8f/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_offices.gif" alt="Offices" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/13fcf601-4125-466c-8293-0243ac637c0a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_offices.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/52e4b009-f028-4ee0-8fd1-014b21f20f8f/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_offices.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/d53f34ef-c9e6-4ce2-9f0f-020e0e347926/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lon_offices.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/communityinvestment/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl01_imgNavigationImage" class="navImage" src="/files/ImageControl/dace5753-5729-4bbb-9a06-03466c8917dd/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_communityinvestment.gif" alt="Community investment" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/75a70c6d-f322-49dd-af29-0580ab6f0fd8/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_communityinvestment.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/dace5753-5729-4bbb-9a06-03466c8917dd/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_communityinvestment.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/deeecd7a-b16c-433e-9bff-047a5a2e3a42/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lon_communityinvestment.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/NewsRoom/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl02_imgNavigationImage" class="navImage" src="/files/ImageControl/b758741a-74cf-486c-a849-66cdd1858f2a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/NewsRoom-off.gif" alt="News Room" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/cfa6141b-cfa1-464d-b9c8-6a99a83b3345/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/NewsRoom-over.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/b758741a-74cf-486c-a849-66cdd1858f2a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/NewsRoom-off.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/54ef39e0-81c2-40f0-bb30-6a4ffe5daf6b/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/NewsRoom-on.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/aboutus/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl03_imgNavigationImage" class="navImage" src="/files/ImageControl/5b4aa917-b537-496e-931f-970960792080/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/aboutus-off.gif" alt="About Us" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/bd62d113-1eb5-4138-8bbe-990a00f1503d/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/aboutus-over.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/5b4aa917-b537-496e-931f-970960792080/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/aboutus-off.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/42035991-b434-46b3-abdc-97232cba872f/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/about-us-on.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/careers/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl04_imgNavigationImage" class="navImage" src="/files/ImageControl/fad41011-2f4b-48a7-a9fe-05f27d453c4c/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_careers.gif" alt="Careers" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/212238d4-59a5-4354-8b96-10a3bbf0f066/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_careers.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/fad41011-2f4b-48a7-a9fe-05f27d453c4c/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_careers.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/c1d0f616-1d16-47fc-8061-0e415acfb798/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lon_careers.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/alumni/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl05_imgNavigationImage" class="navImage" src="/files/ImageControl/54d4dbd4-338f-45b2-bb55-10adc410e358/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_alumni.gif" alt="Alumni" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/dd1208c9-ca69-4bcb-ada6-1af7d5ceecd7/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_alumni.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/54d4dbd4-338f-45b2-bb55-10adc410e358/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_alumni.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/61a7f695-316b-4782-9880-15e119c31a9b/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lon_alumni.gif' /></a>
+                </li>	    
+             
+                <li class="">
+                   <a href="/Japan/"><img id="ctl00_Header1_ctl00_rptTopNav_ctl06_imgNavigationImage" class="navImage" src="/files/ImageControl/ee3b8d11-ca6f-4a9b-8e8a-07f795cc3ec7/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/Secondary-Nav-JapanDesk-off.gif" alt="Japan Desk" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/5381e650-34b8-4667-b75b-094a465830a8/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/Secondary-Nav-JapanDesk-over.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/ee3b8d11-ca6f-4a9b-8e8a-07f795cc3ec7/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/Secondary-Nav-JapanDesk-off.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/943113ac-a8e2-4c34-9aa5-088325a0356a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/Secondary-Nav-JapanDesk-on.gif' /></a>
+                </li>	    
+             
+        
+                    	                     <li>                    <a href="http://www.minterellison.cn" target="_blank">                        <span class="mouseOff"><img id="ctl00_Header1_ctl00_pdrTopNavigationRightSide_ctl00_imgTopNavigationImageRight" class="imgOnOff" src="/files/ImageControl/3bab7cd7-7cfe-4927-bb02-079eca77bf9a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_international.gif" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/3bab7cd7-7cfe-4927-bb02-079eca77bf9a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_international.gif' /></span>                        <span class="mouseOn"><img id="ctl00_Header1_ctl00_pdrTopNavigationRightSide_ctl00_imgTopNavigationImageRightMouseOver" src="/files/ImageControl/6183816b-19bc-4020-a307-0a000179b357/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_international.gif" alt="China minisite" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/6183816b-19bc-4020-a307-0a000179b357/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_international.gif' /></span>                    </a>                </li>            
+
+        
+        
+    </ul>
+</div>
+
+    <div class="clear"></div>
+
+    
+	
+
+<div class="logo"><a href="/"><img id="ctl00_Header1_ctl01_imgSiteLogo" src="/files/ImageControl/a3650a10-6b71-4d50-8ddd-0ff9fd1871b6/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/ME-Logo-2015.png" alt="Minter Ellison Logo" style="border-width:0px;" /></a></div>
+
+    
+    
+
+<script src="/FCWSite/Include/Client/Scripts/SiteSearch.js" type="text/javascript" language="javascript"></script>
+<script src="/FCWSite/Include/Client/Scripts/jquery/jquery.autocomplete.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+
+
+    var options, ac;
+    jQuery(function() {
+        options = {
+            serviceUrl: 'http://' + location.host + '/SearchAutocomplete.aspx',
+            width: 201,
+            params: { count: '50' }
+        };
+        ac = $('#query').autocomplete(options);
+    });
+
+    jQuery(window).resize(function() {
+        ac.hide();
+        $('#query').blur();
+    });
+
+    //toggling classes on search click
+    jQuery(document).ready(        
+    function()
+    {  
+       $(".autocomplete_ssearch").focus(function()
+       {
+            $("#sitesearch").addClass("sitesearchOver");            
+            $("#sitesearch").removeClass("sitesearch");  
+       });
+       
+       $(".autocomplete_ssearch").blur(function()
+       {        
+            $("#sitesearch").addClass("sitesearch");            
+            $("#sitesearch").removeClass("sitesearchOver");            
+           
+       });
+   });
+
+
+</script>
+
+
+
+<div class="sitesearch" id="sitesearch">
+    <ul>
+        <li> 
+            <input type="hidden" class="defaultSearchLabel" value='Search' />
+            <input type="hidden" class="defaultErrorLabel" value='Search Term is Empty!' />
+            <input type="hidden" class="siteSearchResultsLink" value='/sitesearch/' />           
+            
+            <input type="text" class="text autocomplete_ssearch"            
+                        value='Search'
+                        onblur='javascript:if (this.value == "") { this.value = "Search"; }' 
+                        onfocus='javascript:if (this.value == "Search") this.value = "";' 
+                        tabindex="1" 
+                        name="q" 
+                        id="query"/>
+            
+        </li>
+        <li>            
+            <input type="submit" value="" class="button siteSearchButton" />
+        </li>
+    </ul>
+</div>
+
+    
+    
+
+<div class="nav1">
+	<ul class="nav1">
+        <li class="mega"><div class="navitem"><a href="/services/" id="ctl00_Header1_ctl03_rptMainNav_ctl00_Link1"><img id="ctl00_Header1_ctl03_rptMainNav_ctl00_imgNavigationImage" class="navImage" src="/files/ImageControl/79688abe-cdfc-4cd5-ae1a-061380509875/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/findservices.gif" alt="Find Services" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/eec3b741-bea2-4258-ada6-08d960ed26ba/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/findservices_on.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/79688abe-cdfc-4cd5-ae1a-061380509875/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/findservices.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/3d2f1047-a998-4d47-9327-0630e307b661/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/findservices_active.gif' /></a></div>
+
+<!--[if lte IE 6]><iframe class="menu mmServices"></iframe><![endif]-->
+<div class="menu">
+    <div class="servicesmenu">
+        <table class="menu">
+            <tr class="top"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+            <tr class="middle">
+                <td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+                <td class="center">
+                    <table>
+                		<tr>
+                        	<td class="leftcol">
+                        	    <div class="leftcol">
+
+                                    
+                            		<h2>Services</h2>
+                            		
+<ul>
+    
+            <li class="sub"><a href="/competition-market-regulation-law/">Competition and Market Regulation</a></li>        
+        
+            <li class="sub"><a href="/construction/">Construction</a></li>        
+        
+            <li class="sub"><a href="/corporate/">Corporate</a></li>        
+        
+            <li class="sub"><a href="/employment/">Employment</a></li>        
+        
+            <li class="sub"><a href="/environment-and-planning/">Environment and Planning</a></li>        
+        
+            <li class="sub"><a href="/finance/">Finance</a></li>        
+        
+            <li class="sub"><a href="/funds-management/">Funds Management</a></li>        
+        
+            <li class="sub"><a href="/insurance/">Insurance</a></li>        
+        
+            <li class="sub"><a href="/intellectual-property/">Intellectual Property</a></li>        
+        
+            <li class="sub"><a href="/litigation-and-dispute-resolution/">Litigation and Dispute Resolution</a></li>        
+        
+            <li class="sub"><a href="/real-estate/">Real Estate</a></li>        
+        
+            <li class="sub"><a href="/reconstruction/">Reconstruction</a></li>        
+        
+            <li class="sub"><a href="/tax/">Tax</a></li>        
+        
+            <li class="sub"><a href="/technology/">Technology</a></li>        
+        
+</ul>
+
+
+
+                                 </div>
+                            </td>
+                            <td class="rightcol">
+                                <div class="rightcol">
+                            		
+                            		
+                            		<h2>Industries</h2>
+                            		
+<ul>
+    
+            <li class="sub"><a href="/energy-and-resources/">Energy and Resources</a></li>        
+        
+            <li class="sub"><a href="/financial-services/">Financial Services</a></li>        
+        
+            <li class="sub"><a href="/government/">Government</a></li>        
+        
+            <li class="sub"><a href="/health-and-ageing/">Health and Ageing</a></li>        
+        
+            <li class="sub"><a href="/infrastructure/">Infrastructure</a></li>        
+        
+            <li class="sub"><a href="/industries-other/">Other Industries</a></li>        
+        
+            <li class="sub"><a href="/technology-media-and-telecommunications/">Technology, Media and Telecommunications</a></li>        
+        
+</ul>
+
+
+                            		
+                            		
+                                    
+    
+    <div class="relatedlinks">
+        <ul>
+            
+                    <li class="relatedLink"><a class="link" href="/casestudies/">Case Studies</a></li>
+                <li class="separator">&#124;</li>
+                    <li class="relatedLink"><a class="link" href="/credentials/">Credentials</a></li>
+                
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+            </tr>
+            <tr class="bottom"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+        </table>
+    </div>
+</div></li><li class="mega"><div class="navitem"><a href="/beinformed/" id="ctl00_Header1_ctl03_rptMainNav_ctl01_Link1"><img id="ctl00_Header1_ctl03_rptMainNav_ctl01_imgNavigationImage" class="navImage" src="/files/ImageControl/7303f46b-1fec-4f5f-97d8-018896350384/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/beinformed.gif" alt="Be Informed" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/d3380afe-5ac9-47e0-91e2-0668837572c1/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/beinformed_on.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/7303f46b-1fec-4f5f-97d8-018896350384/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/beinformed.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/e64ba2fc-40fd-436f-929a-053719c6f09a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/beinformed_active.gif' /></a></div>
+
+<!--[if lte IE 6]><iframe class="menu mmBeInformed"></iframe><![endif]-->
+<div class="menu">    
+    <div class="newsmenu">
+        <table class="menu">
+            <tr class="top"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+            <tr class="middle">
+                <td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+                <td class="center">
+                    <table>
+                        <tr>
+                            <td class="onecol">
+                                <div class="onecol">
+                                    
+                                    
+    <ul>
+        
+                <li class=""><a href="/publications/">Publications </a></li>        
+            
+                <li class=""><a href="/products/">Products, Toolkits & Guides</a></li>        
+            
+                <li class=""><a href="/research/">Research </a></li>        
+                
+    </ul>
+
+
+                                    
+                                    
+
+<div class="highlights">
+     
+                <div class="highlight">
+                    
+                        <div class="image"><img id="ctl00_Header1_ctl03_rptMainNav_ctl01_ctl01_ctl01_pdrBeInformedHighlights_ctl00_imgBeInformedHighlight" src="/files/ImageControl/965efd07-a967-466c-b5bc-03e31db4a3db/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Home_HL-CHQA-launch.jpg" alt="Corporate HQ Advisory News Hub" style="border-width:0px;" /></div>
+                    
+                    <div class="content">
+	                    <div class="heading">
+    	                    <h2>
+    	                    
+    	                        <a href="http://chqa.minterellison.com/" target="">
+    	                            Corporate HQ Advisory News Hub
+    	                        </a>
+                            
+                            
+    	                    </h2>
+                        </div>
+                        <p>Visit our CHQA News Hub&nbsp;to stay&nbsp;up-to-date with the&nbsp;latest in corporate governance and law.</p>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+             
+                <div class="highlight">
+                    
+                    <div class="content">
+	                    <div class="heading">
+    	                    <h2>
+    	                    
+                            
+                                
+                            
+    	                    </h2>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            
+
+</div>  
+
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+            </tr>
+            <tr class="bottom"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+        </table>
+    </div>
+</div></li><li class="mega"><div class="navitem"><a href="/people/" id="ctl00_Header1_ctl03_rptMainNav_ctl02_Link1"><img id="ctl00_Header1_ctl03_rptMainNav_ctl02_imgNavigationImage" class="navImage" src="/files/ImageControl/14d5876f-cbe1-425d-80d6-0e4788d81e8a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/meetme.gif" alt="Meet Minter Ellison" style="border-width:0px;" /><input class="mouseOverImageOnUrl" type="hidden" value='/files/ImageControl/79aaee62-a759-4fea-b4ab-1181152ccbf3/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/meetme_on.gif' /><input class="navImgOff" type="hidden" value='/files/ImageControl/14d5876f-cbe1-425d-80d6-0e4788d81e8a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/meetme.gif' /><input class="navImgOn" type="hidden" value='/files/ImageControl/efc43de1-6b4e-4e7a-acd9-0fba57c2defb/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/meetme_active.gif' /></a></div>
+
+<!--[if lte IE 6]><iframe class="menu mmMeetMe"></iframe><![endif]-->
+<div class="menu lastitem">
+    <div class="aboutmenu">
+        <table class="menu">
+            <tr class="top"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+            <tr class="middle">
+                <td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+                <td class="center">
+                    <table>
+                        <tr>
+                            <td class="leftcol">
+                                <div class="leftcol">
+                                    <h2>People</h2>
+                                        
+                                        
+                                        
+  
+  <script src="/FCWSite/Include/Client/Scripts/PeopleSearchMegaMenu.js" type="text/javascript" language="javascript"></script>
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function(){         
+        try{
+            $('select.customDropdown').customStyle();
+            }
+            catch(err){}
+    }); 
+    </script>
+
+  
+  
+<div class="form">
+    <ul class="fields">
+        <li>
+            <div>
+        	    <input type="hidden" class="defaultLastNameLabel" value='Last Name' />
+        	    <input type="text" class="text mmLastName" name="mmLastName"           
+                        value='Last Name'
+                        onblur='javascript:if (this.value == "") { this.value = "Last Name"; }' 
+                        onfocus='javascript:if (this.value == "Last Name") this.value = "";' />
+            </div>
+        </li>
+        <li>
+            <div>
+                <input type="hidden" class="defaultFirstNameLabel" value='First Name' />
+                <input type="text" class="text mmFirstName" name="mmFirstName"            
+                        value='First Name'
+                        onblur='javascript:if (this.value == "") { this.value = "First Name"; }' 
+                        onfocus='javascript:if (this.value == "First Name") this.value = "";' />
+            </div>
+        </li>           
+        <li>
+            <div>
+                <select class="customDropdown" id="ddlOffices">
+                    <option value="">Office</option>
+                    
+                            <option value="9d96239b-c612-4a10-9c69-007cdf0ca308">Adelaide</option>        
+                        
+                            <option value="d0d6be36-ce59-4d03-a5c1-00b0dcd0304d">Auckland</option>        
+                        
+                            <option value="30daac23-e5d5-4a38-82a5-03b6dbe80b8f">Beijing</option>        
+                        
+                            <option value="2f72e53b-9432-40ed-a012-0241486ce2cb">Brisbane</option>        
+                        
+                            <option value="f53b8d1e-70f8-4309-97b0-0be502911769">Canberra</option>        
+                        
+                            <option value="3466025e-d93f-423e-950e-0c4b44e38c9e">Darwin</option>        
+                        
+                            <option value="2f333917-f6a6-425d-a3ce-0e37be2b7941">Gold Coast</option>        
+                        
+                            <option value="c007ed04-a897-454d-bf1d-117421924771">Hong Kong</option>        
+                        
+                            <option value="f7cbb6d7-5bea-4c9c-90e8-11c79dd77661">London</option>        
+                        
+                            <option value="5fb54323-da5c-4f5b-9ac5-11cdcbf26b59">Melbourne</option>        
+                        
+                            <option value="c9bf6105-0617-4a83-a73a-1412e101c89b">Perth</option>        
+                        
+                            <option value="429e05f3-75d8-4837-b2da-15079cea0335">Shanghai</option>        
+                        
+                            <option value="f9337c0e-f7da-4131-b137-16b628715e6a">Sydney</option>        
+                        
+                            <option value="7f2acd55-7626-4aea-95a1-125944258749">Ulaanbaatar</option>        
+                        
+                            <option value="e5b7a700-7c87-415d-997b-014e7d814923">Wellington</option>        
+                        
+                </select>
+            </div>
+        </li>
+    </ul>
+    <div class="clear"></div>
+    <input type="hidden" class="peopleSearchResultsLink" value='/people/' />
+    <ul class="buttons">
+        <li><input class="peopleSearchButton" type="submit" value="Submit" /></li>
+    </ul>
+</div>
+
+                                </div>
+                            </td>
+                            <td class="rightcol">                                            
+                                <div class="rightcol">
+                                    
+                                    
+                                    <h2>Search by Last Name</h2>
+                                    
+
+<div class="alpha row1">
+    <span class="letter"><a href='/people/list.aspx?LastName=A'>A</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=B'>B</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=C'>C</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=D'>D</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=E'>E</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=F'>F</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=G'>G</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=H'>H</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=I'>I</a></span></div><div class="alpha row2"><span class="letter"><a href='/people/list.aspx?LastName=J'>J</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=K'>K</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=L'>L</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=M'>M</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=N'>N</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=O'>O</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=P'>P</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=Q'>Q</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=R'>R</a></span></div><div class="alpha row3"><span class="letter"><a href='/people/list.aspx?LastName=S'>S</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=T'>T</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=U'>U</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=V'>V</a></span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=W'>W</a></span><span class="separator">&#124;</span><span class="letter">X</span><span class="separator">&#124;</span><span class="letter"><a href='/people/list.aspx?LastName=Y'>Y</a></span><span class="separator">&#124;</span><span class="letter">Z</span>
+</div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="onecol" colspan="2">
+                                <div class="onecol">
+                                    
+                                    
+                                    
+    
+    <div class="relatedlinks">
+        <ul>
+            
+                    <li class="relatedLink"><a class="link" href="/news/">Firm News</a></li>
+                
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td>
+            </tr>
+            <tr class="bottom"><td class="left"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="center"><img src="/fcwsite/img/spacer.gif" alt="" /></td><td class="right"><img src="/fcwsite/img/spacer.gif" alt="" /></td></tr>
+        </table>
+    </div>
+</div></li>
+    </ul>
+</div>
+
+</div></div></div>
+<!--startindex-->
+                    
+                    <div class="middleC">
+                        <div class="middleB">
+                            <div class="middleA">
+                                <div class="middle">
+                                    
+                                    
+    
+
+                                    <div class="mainbodyB">
+                                        <div class="mainbodyA">
+                                            <div class="mainbody">
+                                                
+                                                  
+
+                                                
+                                                
+
+ <div class="pagetools">
+	<ul>
+	    
+    	
+    	    <li class="rss">
+    	        
+            </li>
+            <li class="separator">&#46;</li>
+    	
+	    
+	    
+	    
+    	<li class="print">
+    	    <a href="javascript:void(0)" onclick='javascript:if (self.print) self.print(); else window.print(); return false;'>
+    	        <span class="mouseOff"><img id="ctl00_ctl00_imgPrintIcon" class="imgOnOff" src="/files/ImageControl/a0265e51-4699-4426-8bbb-1be9ed11f9af/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-PRINT-OFF-18px.jpg" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value='/files/ImageControl/a0265e51-4699-4426-8bbb-1be9ed11f9af/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-PRINT-OFF-18px.jpg' /></span>
+                <span class="mouseOn"><img id="ctl00_ctl00_imgPrintIconOn" src="/files/ImageControl/89cad021-20af-4897-95c6-20134e4aa1a9/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-PRINT-ON-18px.jpg" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value='/files/ImageControl/89cad021-20af-4897-95c6-20134e4aa1a9/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-PRINT-ON-18px.jpg' /></span>
+    	    </a>
+    	</li>
+    	<li class="separator">&#46;</li>
+    	
+    	
+            
+    	
+    	<li class="email">
+    	    <a href="mailto:?body=http://www.minterellison.com/termsofuse/" target="_blank">
+    	        <span class="mouseOff"><img id="ctl00_ctl00_imgEmailIcon" class="imgOnOff" src="/files/ImageControl/9eae533d-bc42-4392-a7a2-291697ce938d/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-EMAIL-OFF-18px.jpg" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value='/files/ImageControl/9eae533d-bc42-4392-a7a2-291697ce938d/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-EMAIL-OFF-18px.jpg' /></span>
+                <span class="mouseOn"><img id="ctl00_ctl00_imgEmailIconOn" src="/files/ImageControl/c78da1dd-5c56-4534-9f18-292e7e235fef/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-EMAIL-ON-18px.jpg" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value='/files/ImageControl/c78da1dd-5c56-4534-9f18-292e7e235fef/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I-ICON-2012-EMAIL-ON-18px.jpg' /></span>
+    	    </a>
+    	</li>
+    	
+    	
+    	
+    </ul>
+    <div class="clear"></div>
+</div>
+
+                                                
+                                                
+    
+    
+
+    <span id="ctl00_contentMain_PageProperties1" class="general detail generaldetail noBreadcrumbsRightside"></span>    
+    
+    
+        
+    
+    <div class="details">
+        
+        
+    <div class="heading">
+        <h1>Terms of Use</h1>
+    </div>
+
+        
+        
+        
+    <div class="content">
+        <p><p>By using the MinterEllison (we, us, our) website, you agree to comply with these Terms of Use. We may change these Terms of Use at our discretion and without notice. By continuing to use this website you accept the Terms of Use as they apply from time to time. </p>
+<h4>Intellectual property rights</h4>
+<p>Unless otherwise indicated, we own the copyright and other intellectual property rights in the content of this website. Please don’t infringe those rights. While you may browse or print the content for non-commercial, personal or internal business use, you must obtain our prior written permission if you’d like to use, copy or reproduce any part of the website for any other purpose. <br /><br />All trade marks appearing on this website belong to their respective owners. </p>
+<h4>General information and not legal advice </h4>
+<p>The content on our website is intended only to provide a summary and general overview on matters of interest. It is not intended to be comprehensive, nor to constitute legal advice. You should always obtain legal or other professional advice, appropriate to your own circumstances, before acting or relying on any of that content. <br /><br />Use of this website, or the receipt of any information from us or this website, is not intended to create, nor does it create, a solicitor-client relationship between us.&nbsp;</p>
+<h4>Liability</h4>
+<p>Although we aim to ensure the content on this website is up-to-date, there may be delays, errors or omissions that could affect its currency or accuracy. We may change the content on this website at any time without notice. Also, as the internet is inherently insecure, we can’t guarantee the security of data contained on the website. <br /><br />The website and its content are provided entirely “as is”. We exclude all implied conditions and warranties with respect to the website and its content, excluding any implied condition or warranty the exclusion of which would breach any statute or cause any part of this paragraph to be void. <br /><br />Your use of this website, and your reliance on its content, is entirely at your own risk. In particular, we exclude our liability to you (including because of our negligence) for any lost profit, lost opportunity, lost revenue, lost data, losses resulting from security failure or computer viruses, or any indirect or consequential loss, resulting from your use of our website or its content. For all other types of loss, our total liability to you (including because of our negligence) resulting from your use of this website or its content is limited in aggregate to $1. <br /><br />If, despite the previous two paragraphs, a court says that we are liable to you, that liability will be limited (at our election) to either re-supplying the affected service or content to you or refunding what you have paid us for it. </p>
+<h4>
+<p>Third party links </p></h4>
+<p>Our website (or social media websites on which we maintain a presence) may contain links to other sites over which we have no control. Those links are provided for your convenience only, and we are not responsible for their use, effect or content. <br /><br />We make no representations or warranties as to, and accept no responsibility for, the accuracy of information on those sites, nor do we endorse any information, opinions, goods or services referred to on them. </p>
+<h4>Password secrecy </h4>
+<p>We may choose to issue you with a username and password to enable you to access particular features on our website. If we do, you must keep those details confidential (and you are responsible for their misuse if you don’t).&nbsp;</p>
+<h4>Posting comments</h4>
+<p>Our website may enable you to post comments (for example, on blogs, forums or other public areas). You are responsible for all comments that you post (or that are posted using your username and password). <br /><br />You must not post any comment that: </p>
+<ul>
+<li>is inflammatory (commonly referred to as ‘trolling’) 
+<li>is xenophobic, racist, abusive, harassing or hateful 
+<li>is false, defamatory, inaccurate, threatening, invasive of a person’s privacy, or constitutes personal abuse directed at other users 
+<li>is obscene, sexually explicit or pornographic, or contains links to other sites that contain or promote obscene, sexually explicit or pornographic material 
+<li>constitutes commercial advertising, the promotion of gambling or the promotion of your own site (commonly referred to as ‘spamming’) 
+<li>infringes someone else’s copyright, or 
+<li>violates any Australian law. </li></li></li></li></li></li></li></ul>
+<h4>Applicable law </h4>
+<p>These Terms of Use, and your use of our website, are governed by the laws of Victoria, Australia.&nbsp;</p>
+<h4>Privacy</h4>
+<p>You can read our Privacy Policy <a href="/privacypolicy">here</a>.</p></p>
+    </div>
+
+   	</div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div></div></div>
+    
+    
+
+<!--stopindex-->
+<div class="footerB"><div class="footerA"><div class="footer">
+    
+	<div class="footerlinksleft">
+    	<ul>
+
+        	
+        	        <li>                            <a href="/Remote_Access/">                    <span class="mouseOff"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl00_imgNavigationImage" class="imgOnOff" src="/files/ImageControl/7dbf9adc-26fb-4b99-a3d6-0b46c0b14a76/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Nav_StaffLogin_Static.jpg" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/7dbf9adc-26fb-4b99-a3d6-0b46c0b14a76/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Nav_StaffLogin_Static.jpg' /></span>                    <span class="mouseOn"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl00_imgNavigationImageMouseover" src="/files/ImageControl/149b046b-9e1e-4dcc-aa38-0ddd70fe78eb/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Nav_StaffLogin_Over.jpg" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/149b046b-9e1e-4dcc-aa38-0ddd70fe78eb/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_Nav_StaffLogin_Over.jpg' /></span>                </a>                    </li>            <li>                            <a href="/contactus/">                    <span class="mouseOff"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl01_imgNavigationImage" class="imgOnOff" src="/files/ImageControl/c54a5a26-5251-4ce3-a980-34546a8a3b5b/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_contact.gif" alt="Contact Us" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/c54a5a26-5251-4ce3-a980-34546a8a3b5b/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_contact.gif' /></span>                    <span class="mouseOn"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl01_imgNavigationImageMouseover" src="/files/ImageControl/59b965d0-27ee-4938-bb35-37b8644be934/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_contact.gif" alt="Contact Us" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/59b965d0-27ee-4938-bb35-37b8644be934/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_contact.gif' /></span>                </a>                    </li>            <li>                            <a href="/sitemap/">                    <span class="mouseOff"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl02_imgNavigationImage" class="imgOnOff" src="/files/ImageControl/1575703b-4e59-4a45-a055-38e719c91843/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_sitemap.gif" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/1575703b-4e59-4a45-a055-38e719c91843/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_sitemap.gif' /></span>                    <span class="mouseOn"><img id="ctl00_Footer1_ctl00_rptFooterNav_ctl02_imgNavigationImageMouseover" src="/files/ImageControl/4969f611-5628-4107-96f1-39bea258d458/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_sitemap.gif" alt="Contact Us" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/4969f611-5628-4107-96f1-39bea258d458/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_sitemap.gif' /></span>                </a>                    </li>    
+        	
+        	
+        	
+        	     
+                    <li>
+                        
+                    </li>
+                
+
+            
+        </ul>
+        <ul class="externallinks">
+        	
+        	
+        	    <li class="externallink">
+        	        <a href="https://twitter.com/minterellison" target="_blank">
+                        <span class="mouseOff"><img id="ctl00_Footer1_imgRSS" class="imgOnOff" src="/files/ImageControl/cbc35540-2914-4c63-b88e-3c0550be1ed7/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_twitter_grey-homepage.png" alt="Twitter link" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/cbc35540-2914-4c63-b88e-3c0550be1ed7/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_twitter_grey-homepage.png' /></span>
+                        <span class="mouseOn"><img id="ctl00_Footer1_imgRSSOn" src="/files/ImageControl/e78a4b93-70d2-4e4a-91cd-40188a906458/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_twitter_grey-homepage.png" alt="Mobile Site" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/e78a4b93-70d2-4e4a-91cd-40188a906458/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_twitter_grey-homepage.png' /></span>
+                    </a>
+                </li>
+            
+            
+            
+                <li class="externallink">
+        	        <a href="http://www.linkedin.com/company/minter-ellison" target="_blank">
+                        <span class="mouseOff"><img id="ctl00_Footer1_img2" class="imgOnOff" src="/files/ImageControl/f4f1b77f-7fc5-4f35-a541-e0bd862921ee/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_linkedin_grey-homepage.png" alt="LinkedIn link" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/f4f1b77f-7fc5-4f35-a541-e0bd862921ee/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_linkedin_grey-homepage.png' /></span>
+                        <span class="mouseOn"><img id="ctl00_Footer1_img2on" src="/files/ImageControl/86732250-6c2b-45c2-ae3e-e65bbc0009b5/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_linkedin_grey-homepage.png" alt="Mobile site" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/86732250-6c2b-45c2-ae3e-e65bbc0009b5/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_linkedin_grey-homepage.png' /></span>
+                    </a>
+                </li>
+            
+            
+            
+                <li class="externallink">
+        	        <a href="http://www.minterellison.com/rss/rss.aspx?id=2" target="_blank">
+                        <span class="mouseOff"><img id="ctl00_Footer1_img3" class="imgOnOff" src="/files/ImageControl/60fc387e-f343-42ba-948f-e8a5edeb8d7a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_rss_grey-homepage.png" alt="RSS link" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/60fc387e-f343-42ba-948f-e8a5edeb8d7a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_rss_grey-homepage.png' /></span>
+                        <span class="mouseOn"><img id="ctl00_Footer1_img3on" src="/files/ImageControl/8067dad9-a764-4c9f-a1ac-ea7fe365fb0a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_rss_grey-homepage.png" alt="Mobile site" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/8067dad9-a764-4c9f-a1ac-ea7fe365fb0a/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/I_logo_rss_grey-homepage.png' /></span>
+                    </a>
+                </li>
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+    
+    <div class="footerlinksright">
+    	<ul>
+    	    
+        	<li class="share">
+        	    <!-- AddThis Button BEGIN -->
+                <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4e4cac6d0cc8016c"><img src="/fcwsite/img/footer/share.gif" alt="Share" title="Share" /></a>
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e4cac6d0cc8016c"></script>
+                <!-- AddThis Button END -->
+        	</li>
+        	
+        	
+        	        <li>                            <a href="/termsofuse/">                    <span class="mouseOff"><img id="ctl00_Footer1_ctl01_rptFooterNav_ctl00_imgNavigationImage" class="imgOnOff" src="/files/ImageControl/850107d6-e247-43d7-91db-061327c5c914/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_terms.gif" alt="Terms of Use " style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/850107d6-e247-43d7-91db-061327c5c914/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_terms.gif' /></span>                    <span class="mouseOn"><img id="ctl00_Footer1_ctl01_rptFooterNav_ctl00_imgNavigationImageMouseover" src="/files/ImageControl/2795579b-57a1-4d26-8ea0-0b5426237c25/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_terms.gif" alt="Terms of Use" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/2795579b-57a1-4d26-8ea0-0b5426237c25/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_terms.gif' /></span>                </a>                    </li>            <li>                            <a href="/privacypolicy/">                    <span class="mouseOff"><img id="ctl00_Footer1_ctl01_rptFooterNav_ctl01_imgNavigationImage" class="imgOnOff" src="/files/ImageControl/a04010ef-92d9-4617-81c6-0daeb9b764ba/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_privacy.gif" alt="Privacy" style="border-width:0px;" /><input class="mouseOffSrc" type="hidden" value=' /files/ImageControl/a04010ef-92d9-4617-81c6-0daeb9b764ba/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/l_privacy.gif' /></span>                    <span class="mouseOn"><img id="ctl00_Footer1_ctl01_rptFooterNav_ctl01_imgNavigationImageMouseover" src="/files/ImageControl/1ea07aa1-4935-4507-9424-0e8901a91595/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_privacy.gif" alt="Privacy" style="border-width:0px;" /><input class="mouseOnSrc" type="hidden" value=' /files/ImageControl/1ea07aa1-4935-4507-9424-0e8901a91595/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/lo_privacy.gif' /></span>                </a>                    </li>                	
+        	
+        	
+        	<li class="copyright">            	    
+        	    <img id="ctl00_Footer1_imgCopyright" src="/files/ImageControl/a8878412-350c-4280-bff0-03172caf7a40/7483b893-e478-44a4-8fed-f49aa917d8cf/Presentation/Image/copyright2016-engv2.gif" alt="copyright Minter Ellison 2015" style="border-width:0px;" />
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</div></div></div>
+<!--startindex-->
+
+</form>
+</body>
+</html>

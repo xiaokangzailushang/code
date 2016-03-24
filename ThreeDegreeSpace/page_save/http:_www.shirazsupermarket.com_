@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Shiraz Wholesale Market : :</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function blink(time, interval){
+    var timer = window.setInterval(function(){
+        $  ("#weekspeacial").css("opacity", "0.1");
+        window.setTimeout(function(){
+            $  ("#weekspeacial").css("opacity", "1");
+        }, 100);
+    }, interval);
+    window.setTimeout(function(){clearInterval(timer);}, time);
+	//blink(5000, 1000);
+}
+// blink(5000, 1000);
+//-->
+</script>
+
+<link href="css/shiraz.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/topmenusrollover_10.png','images/topmenusrollover_11.png','images/topmenusrollover_12.png','images/topmenusrollover_13.png')">
+<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="301" valign="top"><table width="301" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="images/logo.png" width="301" height="210" /></td>
+          </tr>
+        </table></td>
+        <td width="659" align="center" valign="middle" background="images/logo_bg.jpg"><table height="56" border="0" cellpadding="0" cellspacing="0" id="Table_01">
+          <tr>
+            <td height="56">
+            <table width="116" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images/departmentmenusup_091.png',1)"><img src="images/departmentmenusup_09.png" alt="Home" name="Image21" width="116" height="56" border="0" id="Image21" /></a></td>
+                </tr>
+            </table>
+            
+           </td>
+            <td>
+                        <table width="116" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="aboutus.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images/topmenusrollover_10.png',1)"><img src="images/topmenus_10.png" alt="About Us" name="Image22" width="116" height="56" border="0" id="departmentsubmenuss_10.png" /></a></td>
+                </tr>
+            </table>
+                        </td>
+            <td><table width="141" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="departments.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images/topmenusrollover_11.png',1)"><img src="images/topmenus_11.png" alt="Departments" name="Image23" width="141" height="56" border="0" id="Image23" /></a></td>
+                </tr>
+            </table></td>
+            <td><table width="76" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="press.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','images/topmenusrollover_12.png',1)"><img src="images/topmenus_12.png" alt="Press" name="Image24" width="76" height="56" border="0" id="Image24" /></a></td>
+                </tr>
+            </table></td>
+            <td><table width="141" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="contactus.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image25','','images/topmenusrollover_13.png',1)"><img src="images/topmenus_13.png" alt="Contact Us" name="Image25" width="141" height="56" border="0" id="Image25" /></a></td>
+                </tr>
+            </table></td>
+          </tr>
+            <tr>
+        <td colspan="5" valign="middle"> <div style="background:url(images/week.png) no-repeat; height:60px; width:300px; float:right; margin-top:15px;" >
+<div style="margin:0 auto; width:80%;">
+<div id="weekspeacial" style="width:100%; padding-top:13px;  ">
+<a href="#weeklyspecial" id="week_text" rel="facebox" style="text-align:center; color:#fff; text-decoration:none; padding-left:55px;font-size: 20px;
+    font-weight: normal; font-family:Arial, Helvetica, sans-serif; ">Weekly Special</a></div> </div>
+</div>
+        
+        </td>
+      </tr>
+      
+              </table></td>
+      </tr>
+      
+      
+    </table></td>
+  </tr> <!-- Header Ends-->  
+ <!-- Home page banner -->
+<tr>
+    <td>
+  
+    <table width="960" border="0" cellspacing="0" cellpadding="0">
+      
+     
+      <tr>
+        <td><img src="images/banner.png" width="960" height="246" /></td>
+      </tr>
+    </table>
+    
+    </td>
+  </tr>  <!-- Home page Header banner ends-->
+  <tr>
+    <td><table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/bgline.png" width="960" height="27" /></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="442" valign="top" background="images/bodybg.png"><table width="960" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="15" colspan="3"></td>
+            </tr>
+          <tr>
+            <td width="36">&nbsp;</td>
+            <td width="902"><table width="902" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="655" valign="top"><table width="655" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td colspan="2" class="Headings1">WELCOME!</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" class="Headings2">THANKS FOR VISITING OUR SITE</td>
+                  </tr>
+                  <tr>
+                    <td height="15" colspan="2"></td>
+                  </tr>
+                  <tr>
+                    <td width="226" valign="top"><table width="226" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><img src="http://wspgtest.com/003/shiraz/upload_images/fruits.jpg" width="226" height="169" /></td> <!--<img src="images/home_image1.png" width="226" height="169" />-->
+                      </tr> 
+                    </table></td>
+                    <td width="429" valign="top"><table width="429" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td height="12" colspan="3"></td>
+                        </tr>
+                      <tr>
+                        <td width="13">&nbsp;</td>
+                        <td width="403" class="Headings3"><div align="justify">Shiraz Market, is truly an International Supermarket!  We offer a variety of products from all around the world including the Middle East, Persian, Turkish, Indian, Egyptian, Asian, Mediteterranean and also American brands.  You can trust Shiraz Market to carry your favorite International foods. We also carry vegetarian items and organic foods, along with delicious market-fresh produce that arrives daily.</div></td>
+                        <td width="13">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td height="14" colspan="3"></td>
+                        </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td class="text1"><div align="justify">The Shiraz Market difference begins with our Middle Eastern bread baked fresh daily in our store.  This special bread can't be found at any other supermarket. We also serve all kinds of Kabobs and Middle Eastern sandwiches. We cater to all cultures, so everyone feels welcome here at Shiraz Market. You'll find lots of locals eating in our dining area rather than taking their food home, so feel free to come in and sit, eat, talk and watch TV, then shop around for the extraordinary, which can be found on every aisle of the store.<br />
+At Shiraz Market we treat our customer like family. We are committed to providing our valued patrons with top quality and service at affordable prices.<br />
+We value your comments and ideas!
+</div></td>
+                        <td>&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td height="30" valign="middle" class="more"><a href="aboutus.php" class="more">Read More</a><a href="aboutus.html" class="more"></a></td>
+                        <td>&nbsp;</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="20" colspan="2">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2"><table width="655" height="271" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="290" valign="top"><table width="290" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="38" valign="top" class="Headings1">PRESS</td>
+                          </tr>
+                          
+                          <tr>
+                            <td height="15"></td>
+                          </tr>
+                          
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                         
+                        </table></td>
+                        <td width="45">&nbsp;</td>
+                        <td width="260" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td height="38" colspan="3" valign="top" class="Headings1">DEPARTMENTS</td>
+                            </tr>
+                          <tr>
+                            <td width="43" valign="top"><img src="images/a_symbol.png" width="40" height="42" /></td>
+                            <td width="18">&nbsp;</td>
+                            <td width="199" height="67" valign="top">
+                                                        <div align="justify"><span class="Headings3">Produce</span> <span class="text1">
+                                                        When you enter our produce department, you'll soon see aisles of ripe, juicy fruits and luscious vegetables. </span></div></td>
+                          </tr>
+                          <tr>
+                            <td valign="top"><img src="images/b_symbol.png" width="41" height="42" /></td>
+                            <td>&nbsp;</td>
+                            <td height="67" valign="top">
+                                                        <div align="justify"><span class="Headings3">Grocery </span><span class="text1">
+                                                        We offer a wide variety of grocery items from all around the world including the Middle East, Mediterranean and many more.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/> </span></div><br/></td>
+                          </tr>
+                          <tr>
+                            <td valign="top"><img src="images/c_symbol.png" width="40" height="41" /></td>
+                            <td>&nbsp;</td>
+                            <td height="67" valign="top">
+                                                        <div align="justify"><span class="Headings3">Bakery </span><span class="text1">
+                                                        This is the place that most of us dream of. Fresh hot bread (Taftoon). Hot from our Tandoori Oven everyday of the week. </span></div></td>
+                          </tr>
+                          <tr>
+                            <td height="20" colspan="3"><a href="departments.php" class="more">Read More</a></td>
+                            </tr>
+                        </table></td>
+                        <td width="60">&nbsp;</td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                  
+                </table></td>
+                <td width="247"><table width="247" border="0" cellspacing="0" cellpadding="0"><tr><td>
+                <link href="facebox/src/facebox.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="css/facebook.css" rel="stylesheet" type="text/css" />
+<script src="facebox/lib/jquery.js" type="text/javascript"></script>
+<script src="facebox/src/facebox.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript"> 
+
+jQuery(document).ready(function($) {
+      $('a[rel*=facebox]').facebox({
+        loadingImage : 'http://www.shirazsupermarket.com//facebox/src/loading.gif',
+        closeImage   : 'http://www.shirazsupermarket.com//facebox/src/closelabel.png'
+		
+      })
+   
+     var t;
+    const fparam = 500;
+    const uparam = 250;
+    window.flickr = function(){
+		$("#week_text").css("color","#FFF");
+        if(Math.round(Math.random())){
+            $("#weekspeacial").css("visibility","hidden");
+            t = setTimeout('window.unflickr()',uparam);
+        }
+        else{
+			t = setTimeout('window.flickr()',fparam);
+			}
+    }
+    window.unflickr = function(){
+		$("#week_text").css("color","#FC0");
+        if(Math.round(Math.random())){
+            $("#weekspeacial").css("visibility","visible");
+            t = setTimeout('window.flickr()',fparam);
+        }
+        else{
+			t = setTimeout('window.unflickr()',uparam);
+		}
+    }
+
+    t = setTimeout('window.flickr()',fparam);
+
+}); 
+</script>
+<table width="247" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><img src="images/leftadd1.png" width="247" height="129" border="0" usemap="#Map" />
+                        <map name="Map" id="Map5">
+                          <area shape="rect" coords="191,97,236,122" href="foodmenu.php" />
+                      </map></td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/leftadd2.png" width="247" height="130" border="0" usemap="#Map2" />
+                        <map name="Map2" id="Map22">
+                          <area shape="rect" coords="192,100,235,123" href="foodmenu.php" />
+                      </map></td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/leftadd3.png" width="247" height="130" border="0" usemap="#Map3" />
+                        <map name="Map3" id="Map32">
+                          <area shape="rect" coords="190,101,233,126" href="foodmenu.php" />
+                      </map></td>
+                  </tr>
+                  <tr>
+                    <td><img src="images/leftadd4.png" width="247" height="129" border="0" usemap="#Map4" />
+                        <map name="Map4" id="Map42">
+                          <area shape="rect" coords="190,97,234,122" href="foodmenu.php" />
+                      </map></td>
+                  </tr>
+                  <tr>
+                    <td><a href="#dailyspecial" rel="facebox" style="text-decoration:none;"><img src="images/sd.jpg" width="247" height="129" border="0" alt="Daily Special" /></a></td>
+                  </tr>
+                </table>
+                <div id="dailyspecial" style="display:none; "><p>&nbsp;</p>
+<div style="border:1px solid #ccc; padding:5px;"><span style="font-size: larger; "><u><strong>Monday</strong></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Zereshk Polo with Chicken</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Barberries sugared and saut&eacute;ed in Zaffron, served on<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basmati rice with baked chicken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>$9.99</strong><br />
+<br />
+</span><hr />
+<span style="font-size: larger; "> <u><strong>Tuesday</strong></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Khoresht Karafs</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sauteed celery, chunks of meat (beef) with spices braised to<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perfection served with basmati rice and saffron&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>$9.99</strong><br />
+<br />
+</span><hr />
+<span style="font-size: larger; "> <u><strong>Wednesday</strong></u>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Khoresht Gheymeh Bademjan</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sauteed chunks of meat (beef), eggplant, tomatoes, and yellow split peas.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Braised to perfection and served on basmati rice and saffron&nbsp;&nbsp;&nbsp;&nbsp;<strong> $9.99</strong><br />
+<br />
+</span><hr />
+<span style="font-size: larger; "> <u><strong>Thursday&nbsp;</strong></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Khoresht Ghormeh Sabzi</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sauteed chunks of meat (beef), fresh parsley, leeks, cilantro and spices<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Braised to perfection served with basmati rice and saffron&nbsp;&nbsp;&nbsp;&nbsp;<strong> $9.99</strong><br />
+<br />
+</span><hr />
+<span style="font-size: larger; "> <u><strong>Friday</strong></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp; Baghali Polo with Lamb Shank</strong>&nbsp; <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basmati rice, fava beans and dill served with halal lamb shank&nbsp;&nbsp;&nbsp;&nbsp; <strong>$10.99</strong><br />
+&nbsp;</span></div>
+<p><span style="font-size: larger; ">&nbsp;</span></p></div>
+                                 
+                                  <div id="weeklyspecial" style="display:none; "><p>&nbsp;Testing</p></div>                </td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+            <td width="22">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="11" colspan="3"></td>
+            </tr>
+        </table>
+          </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="960" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="36" height="45" background="images/downbg.png">&nbsp;</td>
+        <td width="575" background="images/downbg.png" class="allrights">Content copyright 2016. Shiraz. All rights reserved.</td>
+        <td width="327" background="images/downbg.png"><a href="index.php" class="down2">Home</a> : <a href="aboutus.php" class="down2">About Us</a> : <a href="departments.php" class="down2">Departments</a> : <a href="press.php" class="down2">Press</a> : <a href="contactus.php" class="down2">Contact Us</a></td>
+        <td width="22" background="images/downbg.png">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  </table>
+</body>
+</html>
+
+<map name="Map" id="Map"><area shape="rect" coords="191,97,236,122" href="departments.html" />
+</map>
+<map name="Map2" id="Map2"><area shape="rect" coords="192,100,235,123" href="departments.html" />
+</map>
+<map name="Map3" id="Map3"><area shape="rect" coords="190,101,233,126" href="departments.html" />
+</map>
+<map name="Map4" id="Map4"><area shape="rect" coords="190,97,234,122" href="departments.html" />
+</map></body>
+</html>

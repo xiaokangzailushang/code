@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="http://fraisfarms.com.au/index.php/where-to-buy" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Frais Farms Melbourne Gippsland Australia Baby Cos Salads Sweet Stem Broccoli" />
+  <meta name="description" content="Frais Farms is an Australian agricultural company based in Lindenow, East Gippsland, Victoria where we grow, wash &amp; package baby leaf salads" />
+  <title>Frais Farms - Where to Buy</title>
+  <link href="http://fraisfarms.com.au/index.php/where-to-buy" rel="canonical" />
+  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+  <!-- start - swMenuPro 9.0_J2.5-J3.0 javascript and CSS links -->
+  <link type='text/css' href='http://fraisfarms.com.au/modules/mod_swmenupro/styles/menu90.css' rel='stylesheet' />
+  <script type="text/javascript" src="http://fraisfarms.com.au/modules/mod_swmenupro/transmenu.js"></script>
+
+<!--End SWmenuPro CSS and Javascript-->
+
+</head>
+<body>
+<div align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="/images/sp.gif" width="1" height="50" alt="Frais Farms Melbourne Gippsland Australia Baby Cos Salads Sweet Stem Broccoli" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#47aa42"><img src="/images/sp.gif" width="1" height="8" alt="Frais Farms Melbourne Gippsland Australia Baby Cos Salads Sweet Stem Broccoli" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff"><img src="/images/sp.gif" width="1" height="10" alt="Frais Farms Melbourne Gippsland Australia Baby Cos Salads Sweet Stem Broccoli" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="/images/logo.gif" width="336" height="83" /></td>
+    <td><img src="/images/sp.gif" width="8" height="83" /></td>
+    <td valign="bottom">		<div class="moduletable">
+					
+<!--swMenuPro9.0_J2.5-3.0 transmenu by http://www.swmenupro.com-->
+<table id="menu_wrap90" class="swmenu90" align="center"><tr><td><div id="td_menu_wrap90" >
+<table cellspacing="0" cellpadding="0" id="menu90" class="menu90" > 
+<tr> 
+<td class=""> 
+<a  class="item1" id="menu90101" href="/"  >Home</a>
+</td> 
+<td class=""> 
+<a  class="item1" id="menu90105" href="/index.php/about-us"  >Our Farm</a>
+</td> 
+<td class=""> 
+<a  class="item1" id="menu90106" href="/index.php/products"  >Our Products</a>
+</td> 
+<td id='trans-active90' class=""> 
+<a  class="item1" id="menu90111" href="/index.php/where-to-buy"  >Where to Buy</a>
+</td> 
+<td class=""> 
+<a  class="item1" id="menu90110" href="/index.php/recipes"  >Recipes</a>
+</td> 
+<td class=" last90"> 
+<a  class="item1" id="menu90112" href="/index.php/contact"  >Contact Our Farm</a>
+</td> 
+</tr> 
+</table></div></td></tr></table><hr style="display:block;clear:left;margin:-0.66em 0;visibility:hidden;" />  
+<div id="subwrap90"> 
+<script type="text/javascript">
+<!--
+if (TransMenu.isSupported()) {
+var ms = new TransMenuSet(TransMenu.direction.down, 0,0, TransMenu.reference.bottomLeft);
+var menu90106 = ms.addMenu(document.getElementById("menu90106"));
+ menu90106.addItem("Baby Cos", "/index.php/products/baby-cos", "0");
+menu90106.addItem("Bellaverde Sweet Stem Broccoli", "/index.php/products/sweet-stem-broccoli", "0");
+var menu90110 = ms.addMenu(document.getElementById("menu90110"));
+ menu90110.addItem("Baby Cos Recipes", "/index.php/recipes/baby-cos-recipes", "0");
+menu90110.addItem("Bellaverde Sweet Stem Broccoli Recipes", "/index.php/recipes/sweet-stem-broccoli-recipes", "0");
+function init90() {
+if (TransMenu.isSupported()) {
+TransMenu.initialize();
+document.getElementById("menu90101").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+};
+document.getElementById("menu90101").onmouseout = function() { this.className = ""; };
+document.getElementById("menu90105").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+};
+document.getElementById("menu90105").onmouseout = function() { this.className = ""; };
+menu90106.onactivate = function() {document.getElementById("menu90106").className = "hover"; };
+ menu90106.ondeactivate = function() {document.getElementById("menu90106").className = ""; };
+ document.getElementById("menu90111").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+};
+document.getElementById("menu90111").onmouseout = function() { this.className = ""; };
+menu90110.onactivate = function() {document.getElementById("menu90110").className = "hover"; };
+ menu90110.ondeactivate = function() {document.getElementById("menu90110").className = ""; };
+ document.getElementById("menu90112").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+};
+document.getElementById("menu90112").onmouseout = function() { this.className = ""; };
+}}
+TransMenu.dingbatSize = 0;
+TransMenu.spacerGif = "";
+TransMenu.dingbatOn = "";
+TransMenu.dingbatOff = ""; 
+TransMenu.sub_indicator = false;
+TransMenu.menuPadding = 0;
+TransMenu.itemPadding = 0;
+TransMenu.shadowSize = 2;
+TransMenu.shadowOffset = 3;
+TransMenu.shadowColor = "#888";
+TransMenu.shadowPng = "http://fraisfarms.com.au//modules/mod_swmenupro/images/transmenu/grey-40.png";
+TransMenu.backgroundColor = "#47AA42";
+TransMenu.backgroundPng = "http://fraisfarms.com.au//modules/mod_swmenupro/images/transmenu/white-90.png";
+TransMenu.hideDelay = 210;
+TransMenu.slideTime = 105;
+TransMenu.modid = 90;
+TransMenu.selecthack = false;
+TransMenu.autoposition = 1;
+TransMenu.fontFace = "";
+TransMenu.fontColor = "#47AA42";
+TransMenu.activeId = "menu90111";
+TransMenu.preview = "0";
+TransMenu.renderAll();
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", init90, false );
+else if ( typeof window.attachEvent != "undefined" ) {
+window.attachEvent( "onload", init90 );
+}else{
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) {
+oldOnload( e );
+init90();
+}
+}else
+window.onload = init90();
+}
+}
+
+//--> 
+</script></div>  
+
+<script type='text/javascript' >
+
+</script>
+
+<!--End SWmenuPro menu module-->
+		</div>
+	</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff"><img src="/images/sp.gif" width="1" height="10" /></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25">&nbsp;</td>
+    <td>
+<div id="system-message-container">
+<div id="system-message">
+</div>
+</div>
+					<div class="item-page">
+				<div class="page-header">
+		<h2>
+												Wholesalers									</h2>
+							</div>
+					
+	
+	
+		
+								<h2 style="margin: 0px; font-size: 12px; font-family: Helvetica; text-align: center;"><span class="contentheading">Victoria</span></h2>
+<h1 style="margin: 0px; font-size: 12px; font-family: Helvetica; text-align: center;"> </h1>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Costco Docklands Warehouse</strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">383 Footscray Road, Docklands VIC 3008</p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Costco Ringwood Warehouse</strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">29 Bond Street Ringwood VIC 3134</p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Melba Fresh Pty Ltd</strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-style: italic; text-align: justify; font-size: 16px; line-height: 20px;">Melbourne Wholesale Fruit, Vegetable and Flower Markets</span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="text-align: justify;"><span class="street-address" style="padding: 0px; margin: 0px; box-sizing: border-box;">Stores 96-99, 542 Footscray Road</span><span style="font-size: 16px; line-height: 20px; text-align: center;">, </span><span class="locality" style="padding: 0px; margin: 0px; box-sizing: border-box;">West Melbourne </span><span class="region" style="padding: 0px; margin: 0px; box-sizing: border-box;">Victoria 3003</span><span style="font-size: 16px; line-height: 20px; text-align: center;">, </span><span class="country" style="padding: 0px; margin: 0px; box-sizing: border-box;">Australia</span></span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="text-align: justify; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; line-height: 23px;">Phone: </span><span style="font-weight: bold; color: #000000; font-family: Verdana; font-size: 10pt;">+61 3 9687 2950</span><span style="text-align: justify;"> </span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><a href="http://www.melbafresh.com.au">www.melbafresh.com.au</a></p>
+<p class="fn org" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-family: 'Helvetica Neue'; font-weight: bold; font-size: 18px; text-align: center; color: #9e9082; line-height: 20px;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box;"><span style="color: #9e9082; font-family: 'Helvetica Neue';">HC Produce</span></span></strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-style: italic; text-align: justify; font-size: 16px; line-height: 20px;">Melbourne Wholesale Fruit, Vegetable and Flower Markets</span></p>
+<p class="adr" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; text-align: center;"><span class="street-address" style="padding: 0px; margin: 0px; box-sizing: border-box;">Stores 201-202, 542 Footscray Road</span>, <span class="locality" style="padding: 0px; margin: 0px; box-sizing: border-box;">West Melbourne </span><span class="region" style="padding: 0px; margin: 0px; box-sizing: border-box;">Victoria 3003</span>, <span class="country" style="padding: 0px; margin: 0px; box-sizing: border-box;">Australia</span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Phone: <span style="font-weight: bold; color: #000000; font-family: Verdana; font-size: 10pt;">+61 4 1839 1945</span><span style="text-align: justify;"> </span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="text-align: justify; line-height: 20px;"><span style="color: #9e9082; font-family: 'Helvetica Neue'; font-size: large;"><b>Aveling Fresh</b></span></span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: italic; text-align: justify; line-height: 20px;">Melbourne Wholesale Fruit, Vegetable and Flower Markets</span></p>
+<p class="adr" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 20px; text-align: center;"><span class="street-address" style="padding: 0px; margin: 0px; box-sizing: border-box;">Store 216, 542 Footscray Road</span>, <span class="locality" style="padding: 0px; margin: 0px; box-sizing: border-box;">West Melbourne</span> <span class="region" style="padding: 0px; margin: 0px; box-sizing: border-box;">Victoria 3003</span>, <span class="country" style="padding: 0px; margin: 0px; box-sizing: border-box;">Australia</span></p>
+<h5 class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Phone <span style="color: #000000; font-family: Verdana; font-size: 10pt;">+61 4 1701 2565</span></h5>
+<h2 style="text-align: center;"><span class="contentheading">ACT</span></h2>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Costco Canberra Warehouse</strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">39-41 Mustang Avenue, Majura Park, Canberra Airport 2609</p>
+<h2 style="text-align: center;"><span class="contentheading">New South Wales</span></h2>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><b>Costco Auburn Warehouse</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="color: #9e9082; font-family: 'Helvetica Neue'; font-size: large;"><span style="line-height: 20px;">17-21 Parramatta Road, Lidcombe NSW 2141</span></span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Costco Crossroads Warehouse</strong></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">20 Parkers Farms Place, NSW 2170 </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><span style="color: #9e9082; font-family: 'Helvetica Neue'; font-size: large;"><span style="line-height: 20px;"><b>Lemdell Pty Ltd</b></span></span></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Stores 165-167, B Shed, Sydney Markets NSW Australia</p>
+<p style="text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 23px;">Phone: </span><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box; font-weight: bold;">+61 2 9764 4888</span></p>
+<p style="text-align: center;"><a href="http://www.lemdell.com.au">www.lemdell.com.au</a></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><b style="line-height: 20px; color: #9e9082; font-family: 'Helvetica Neue'; font-size: large; text-align: justify;">Stuart Dickson Produce Pty Ltd</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Stores 231-237, C Shed, Sydney Markets NSW Australia</p>
+<p style="text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 23px;">Phone: </span><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box; font-weight: bold;">+61 2 9764 3788</span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><b style="line-height: 20px; color: #9e9082; font-family: 'Helvetica Neue'; font-size: large; text-align: justify;">Raw Fresh Pty Ltd</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Stores 126-127, B Shed, Sydney Markets NSW Australia </p>
+<p style="text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 23px;">Phone: </span><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box; font-weight: bold;">+61 4 1418 6612</span> </p>
+<h2>Queensland</h2>
+<p style="text-align: center;"><b style="line-height: 20px; color: #9e9082; font-family: 'Helvetica Neue'; font-size: large; text-align: justify;">Costco North Lakes Warehouse</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">17-39 Cook Court, North Lakes QLD 4509</p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p style="text-align: center;"><b style="line-height: 20px; color: #9e9082; font-family: 'Helvetica Neue'; font-size: large; text-align: justify;">Murray Bros</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Stores 1-4, B Shed, Brisbane Markets QLD Australia 4106</p>
+<p style="text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 23px;">Phone: </span><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box; font-weight: bold;">+61 7 3875 8100</span></p>
+<p style="text-align: center;"><a href="http://www.murraybros.com.au">www.murraybros.com.au</a></p>
+<h2>South Australia</h2>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"><strong>Costco Adelaide Warehouse</strong> </p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">404-406 Churchill Road, Kilburn SA 5084</p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;"> </p>
+<p style="text-align: center;"><b style="line-height: 20px; color: #9e9082; font-family: 'Helvetica Neue'; font-size: large; text-align: justify;">Scalzi Produce Pty Ltd</b></p>
+<p class="num" style="padding: 0px; margin: 10px 0px; box-sizing: border-box; font-size: 18px; line-height: 23px; color: #a89b9e; font-family: Arial, Helvetica, sans-serif; text-align: center;">Store 47, Warehouse E, Adelaide Produce Markets SA Australia 5095 </p>
+<p style="text-align: center;"><span style="color: #a89b9e; font-family: Arial, Helvetica, sans-serif; font-size: 18px; line-height: 23px;">Phone: </span><span class="tel" style="padding: 0px; margin: 0px; box-sizing: border-box; font-weight: bold;">+61 8 8349 6899</span></p>
+<p style="text-align: center;"><a href="http://www.scalzi.com.au">www.scalzi.com.au</a></p>
+<h3 style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; border: 0px; margin: 20px 0px 5px; padding: 0px; vertical-align: baseline; clear: none; font-weight: normal; color: #444444; text-shadow: none; line-height: 23px; text-align: start;"> </h3> 
+	
+						 </div>
+</td>
+    <td width="25">&nbsp;</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" height="40" style="font-size: 8px; color:#fff; background-color: #47aa42">&copy; 2014 
+			<a class="stopka" href="/">Frais Farms Pty Ltd</a>&nbsp;&nbsp; |&nbsp;&nbsp;
+		<a class="stopka" title="Website Design by Professional Reliable Web Design Melbourne Narre Warren Berwick Hallam" target="_blank" href="http://www.bestwebdesignmelbourne.com.au">Website Design & Engineering by Best Web Design Melbourne</a>&nbsp;&nbsp; 
+		|&nbsp;&nbsp; <a rel="nofollow" target="_blank" class="stopka" href="/administrator">Admin</a></td>
+  </tr>
+</table>
+</div>
+	
+</body>
+</html>

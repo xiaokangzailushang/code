@@ -1,0 +1,630 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+<meta charset="UTF-8" />
+<meta property="og:title" content="Local Harvest - Find good food, close to you" /> 
+<meta property="og:description" content="Enter your postcode to find farmers markets, restaurants, fruit and vegie boxes, community gardens, courses, organic retailers, cafes, pick-your-own farms, food coops and more. Plus grow-your-own guides and grower's stories. " /> 
+<meta property="og:image" content="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/local-harvest-facebook.gif" />
+<title>Local Harvest | Finding good food, close to you</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/combine.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/combine2.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/combine3.css" />
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/ie7.css" />
+<![endif]-->
+<link rel="pingback" href="http://www.localharvest.org.au/xmlrpc.php" />
+<script type="text/javascript" src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/js/local_harvest.js"></script>
+<script type="text/javascript" src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/js/preload.js"></script>
+<link rel="alternate" type="application/rss+xml" title="Local Harvest &raquo; Find Comments Feed" href="http://www.localharvest.org.au/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.localharvest.org.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=2d438da4fe5d11d41ece9bae6964e685"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.localharvest.org.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=2d438da4fe5d11d41ece9bae6964e685' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-includes/js/jquery/jquery.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-content/themes/LocalHarvest/js/gui.helper.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<link rel='https://api.w.org/' href='http://www.localharvest.org.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.localharvest.org.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.localharvest.org.au/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="http://www.localharvest.org.au/" />
+<link rel='shortlink' href='http://www.localharvest.org.au/' />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.localharvest.org.au/?wordfence_logHuman=1&hid=842C270805E80D074C9295B28C122E3F');
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2478130-29']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body class="home page page-id-99 page-template page-template-home-temeplate page-template-home-temeplate-php">
+<!--[if IE]>
+<div id="ie">
+<![endif]-->
+<!--[if IE 6]>
+<div id="ie6">
+<![endif]-->
+<!--[if IE 7]>
+<div id="ie7">
+<![endif]-->
+<!--[if IE 8]>
+<div id="ie8">
+<![endif]-->
+
+
+<div id="wrapper">
+	<div id="beta-bar">
+		<div class="holder">
+
+<span class="icon green" style="width:auto;"><a href="http://www.localharvest.org.au/take-the-challenge/" title="Challenge Week, 1st-7th April, read the participant blogs" style="font-size:80%;">  It's time to Bite & Blog! - Challenge Week is coming, 3rd-9th April &rarr;</a></span>
+			
+			
+					<!--		<span class="icon green" style="width:auto;"><a href="http://www.slf.org.au/event/great-local-lunch/" title="Take your seat at the feast - SLF's The Great Local Lunch - Sun 14th Feb" style="font-size:80%;">Come to the feast - The Great Local Lunch - Sun 14th Feb </a></span>-->
+					
+						<!--	<span class="icon green" style="width:auto;"><a href="http://www.localharvest.org.au/take-the-challenge/" title="Sign up for the Local harvest Challenge Week, 5th March-11th April, 2015" style="font-size:80%;">What happened during this year's Local Harvest Challenge Week? </a></span>
+			-->
+				<!--	<span class="icon green" style="width:auto;"><a href="http://www.slf.org.au/" title="Sustainable Living Festival" style="font-size:80%;" target="_blank">Beat the Heat at this year's Sustainable Living Festival  7th Feb - 1st March </a></span>-->
+<!--<span class="icon green" style="width:auto;"><a href="http://fairfoodweek.org.au/" title="Fair Food Week, 10-19th October 2014, discover events across the country" style="font-size:80%;" target="_blank">Fair Food Week, 10-19th October 2014, discover events across the country</a></span>-->
+				<!--<span class="icon green" style="width:auto;"><a href="http://www.localharvest.org.au/take-the-challenge/challenge-participants-2014/" title="Read stories from the Local Harvest Challenge Week, April 2014" style="font-size:80%;">Read stories from the Local Harvest Challenge Week, April 2014</a></span>-->
+			<!--<span class="icon green" style="width:auto;"><a href="http://www.localharvest.org.au/go-local-this-christmas/" title="Go Local this Christmas" style="font-size:80%;" target="_blank">Go Local this Christmas</a></span>-->
+        	<!--<span class="icon green" style="width:auto;"><a href="http://fairfoodweek.org.au/" title="Fair Food Week, 19-25th August 2013, discover events across the country" style="font-size:80%;" target="_blank">Fair Food Week, 19-25th August 2013</a></span>-->
+			<!--<span class="icon green" style="width:auto;"><a href="http://www.localharvest.org.au/take-the-challenge/challenge-participants/" title="Challenge Week, 1st-7th April, read the participant blogs" style="font-size:80%;">Challenge Week, 1st-7th April, read the participant blogs &rarr;</a></span>-->
+			<!--<span class="icon green"><a href="http://www.gmagazine.com.au/greenawards/" target="_blank" title="Winner of the 2012 Green Lifestyle Awards in 'online Eco Info' category" style="font-size:80%;">Winner in 2012 Green Lifestyle Awards &rarr;</a></span>-->
+			<!--<span class="icon beta"><a href="http://www.localharvest.org.au/beta/">More website features coming soon &rarr;</a></span>-->
+			<!--<span class="icon christmas"><a href="http://www.localharvest.org.au/go-local-this-christmas/" target="_blank" title="Go Local this Christmas">Go Local this Christmas &rarr;</a></span>-->
+			<ul id="beta-nav" class="menu">
+				<li><a class="button biggreen" href="/subscribe/">Keep me updated</a></li>
+				<!--<li><a class="button biggreen" href="javascript:openPopup('newsletterPopup');">Keep me updated</a></li>-->
+				<li><a class="button white" href="http://www.localharvest.org.au/contact-us/">Contact us</a></li>
+				<li><a class="icon facebook" href="http://www.facebook.com/localharvest.org.au" target="_blank"></a></li>
+				<li><a class="icon twitter" href="https://twitter.com/localharvester/" target="_blank"></a></li>
+			</ul>
+			<a style="float:right;margin-top:33px;position:relative;z-index:1;border:none;text-decoration:none;" href="http://www.localharvest.org.au/a-little-local-knowledge/"><img style="border:none;" src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/animation.png" height="87px" width="253px" /></a>
+		</div>
+	</div>
+	<div id="header" class="holder">
+		<a href="http://www.localharvest.org.au/" title="Local Harvest" rel="home">
+			<img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/local-harvest-logo.png" />
+		</a>
+	</div>
+	
+    
+	<div id="access" class="nav holder">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-99 current_page_item menu-item-106"><a title="Find-page" href="http://www.localharvest.org.au/">Find</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-230"><a title="Learn-page" href="http://www.localharvest.org.au/category/learn/">Learn</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.localharvest.org.au/stories/">Stories</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://www.localharvest.org.au/take-the-challenge/">Take the Challenge</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.localharvest.org.au/why-is-local-important/">Why is local important?</a></li>
+</ul></div>		    			<div class="find-nav">
+            	<form action="/" method="post" name="lh_form_findnav" id="lh_form_findnav" target="_top">
+    		    <input type="hidden" name="lh_form_id" value="lh_form_findnav">
+    		    <input type="hidden" name="lh_form_action" value="search_lh">
+   		   		<input type="hidden" name="PostCode" value="3000">
+  		   		<input type="hidden" name="Radius" value="200">
+ 		   		<input type="hidden" name="Sort" value="lhOrganisations.Name">
+				<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Eat out' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Buy Direct' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Grow & share' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Learn & participate' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Meet the farmer' ORDER BY lhTypes.Order-->
+				<input name="Types[]" type="checkbox" value="restaurant" id="find-nav-chbox-restaurant" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="cafe" id="find-nav-chbox-cafe" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="catering" id="find-nav-chbox-catering" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="breweries" id="find-nav-chbox-breweries" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="organic-retailer" id="find-nav-chbox-organic-retailer" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="conventional-retailer" id="find-nav-chbox-conventional-retailer" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="box-system" id="find-nav-chbox-box-system" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="food-coop" id="find-nav-chbox-food-coop" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="eggs-dairy-meat" id="find-nav-chbox-eggs-dairy-meat" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="garden-supplier" id="find-nav-chbox-garden-supplier" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="community-garden" id="find-nav-chbox-community-garden" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="food-swap" id="find-nav-chbox-food-swap" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="home-production" id="find-nav-chbox-home-production" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="community-group" id="find-nav-chbox-community-group" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="course" id="find-nav-chbox-course" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="event" id="find-nav-chbox-event" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="farmers-market" id="find-nav-chbox-farmers-market" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="csa-farm" id="find-nav-chbox-csa-farm" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="organic-grower" id="find-nav-chbox-organic-grower" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="biodynamic-grower" id="find-nav-chbox-biodynamic-grower" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="farm-non-farmgate" id="find-nav-chbox-farm-non-farmgate" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="farmgate" id="find-nav-chbox-farmgate" style="visibility:hidden;" >
+<input name="Types[]" type="checkbox" value="pick-your-own-farm" id="find-nav-chbox-pick-your-own-farm" style="visibility:hidden;" >
+ 				<ul id="find-nav-list">
+                    <li><span class="icon eatery dark"></span><h3>Eat out</h3><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-restaurant');" title="Restaurant">Restaurant</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-cafe');" title="Cafe">Cafe</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-catering');" title="Catering">Catering</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-breweries');" title="Brewery">Brewery</a></li><li><span class="icon money dark"></span><h3>Buy Direct</h3><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-organic-retailer');" title="Organic retailer">Organic retailer</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-conventional-retailer');" title="Conventional retailer">Conventional retailer</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-box-system');" title="Box system">Box system</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-food-coop');" title="Food coop">Food coop</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-eggs-dairy-meat');" title="Eggs, meat &amp; dairy">Eggs, meat & dairy</a></li><li><span class="icon fruit dark"></span><h3>Grow & share</h3><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-garden-supplier');" title="Garden supplier">Garden supplier</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-community-garden');" title="Community garden">Community garden</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-food-swap');" title="Food swap">Food swap</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-home-production');" title="Home production">Home production</a></li><li><span class="icon hand dark"></span><h3>Learn & participate</h3><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-community-group');" title="Community group">Community group</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-course');" title="Course">Course</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-event');" title="Event">Event</a></li><li><span class="icon farmer dark"></span><h3>Meet the farmer</h3><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-farmers-market');" title="Farmers market">Farmers market</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-csa-farm');" title="Community farm">Community farm</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-organic-grower');" title="Organic grower">Organic grower</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-biodynamic-grower');" title="Biodynamic grower">Biodynamic grower</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-farm-non-farmgate');" title="Conventional grower">Conventional grower</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-farmgate');" title="Farmgate sales">Farmgate sales</a><a href="javascript:void(0);" onclick="lh_filter_type('find-nav-chbox-pick-your-own-farm');" title="Pick your own">Pick your own</a></li>				</ul>
+                </form>
+			</div> <!-- .find-nav -->
+		    	</div> <!-- #access -->
+	
+
+	<div id="main">
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyCF0goC_x7Q0xJQmXDcBdm7enKVz6ePZ3M&region=AUS&libraries=geometry"></script>
+<script src="/wp-content/plugins/local_harvest/json_all_listings.json" type="text/javascript"></script>
+<script src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/js/local_harvest_mapping.js" type="text/javascript"></script>
+
+
+<div id="container" role="main">
+	<div class="decoration-main">
+	<div class="paperback-top"><div class="paperback-bottom">
+	
+	
+
+   <!-- VIEW TABS -->
+        <div id="homeTabsHolder" class="holder">
+        <a href="javascript:;" onclick="homeTab('filter')" title="Filters" class="homeMapTab">Filters</a>&nbsp;&nbsp;
+        <a href="javascript:;" onclick="homeTab('map')" title="Map" class="homeMapTab">Map</a>&nbsp;&nbsp;
+        <a href="javascript:;" onclick="homeTab('list')" title="List View" class="homeMapTab">List View</a>&nbsp;&nbsp;
+        <a href="javascript:;" onclick="homeTab('add')" title="Add a Listing" class="homeMapTab">Add a Listing</a>&nbsp;&nbsp;
+    </div>
+    
+	<div id="mapHolder" class="holder">
+
+
+		<div id="info"></div>
+
+	    <div id="filterTextSelection"></div>
+
+		<!-- Advance Filter -->
+		<div class="advance-filter" id="filter_block">
+			<form name="lh_form_action">
+        	<ul>
+        	<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Eat out' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Buy Direct' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Grow & share' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Learn & participate' ORDER BY lhTypes.Order-->
+<!--SELECT lhTypes.* FROM lhTypes WHERE lhTypes.Group = 'Meet the farmer' ORDER BY lhTypes.Order-->
+            <li><span class="icon eatery25"></span><h3>Eat out</h3><div class="clr"></div>
+<label for="chkb-restaurant" id="chkbl-restaurant" onclick="lh_toggle_chkb('chkb-restaurant','chkbl-restaurant');" title="Restaurant" class="selected">Restaurant</label>
+<input name="Types[]" id="chkb-restaurant" type="checkbox" value="restaurant" checked="checked" /><label for="chkb-cafe" id="chkbl-cafe" onclick="lh_toggle_chkb('chkb-cafe','chkbl-cafe');" title="Cafe" class="selected">Cafe</label>
+<input name="Types[]" id="chkb-cafe" type="checkbox" value="cafe" checked="checked" /><label for="chkb-catering" id="chkbl-catering" onclick="lh_toggle_chkb('chkb-catering','chkbl-catering');" title="Catering" class="selected">Catering</label>
+<input name="Types[]" id="chkb-catering" type="checkbox" value="catering" checked="checked" /><label for="chkb-breweries" id="chkbl-breweries" onclick="lh_toggle_chkb('chkb-breweries','chkbl-breweries');" title="Brewery" class="selected">Brewery</label>
+<input name="Types[]" id="chkb-breweries" type="checkbox" value="breweries" checked="checked" /></li>
+<li><span class="icon money25"></span><h3>Buy Direct</h3><div class="clr"></div>
+<label for="chkb-organic-retailer" id="chkbl-organic-retailer" onclick="lh_toggle_chkb('chkb-organic-retailer','chkbl-organic-retailer');" title="Organic retailer" class="selected">Organic retailer</label>
+<input name="Types[]" id="chkb-organic-retailer" type="checkbox" value="organic-retailer" checked="checked" /><label for="chkb-conventional-retailer" id="chkbl-conventional-retailer" onclick="lh_toggle_chkb('chkb-conventional-retailer','chkbl-conventional-retailer');" title="Conventional retailer" class="selected">Conventional retail..</label>
+<input name="Types[]" id="chkb-conventional-retailer" type="checkbox" value="conventional-retailer" checked="checked" /><label for="chkb-box-system" id="chkbl-box-system" onclick="lh_toggle_chkb('chkb-box-system','chkbl-box-system');" title="Box system" class="selected">Box system</label>
+<input name="Types[]" id="chkb-box-system" type="checkbox" value="box-system" checked="checked" /><label for="chkb-food-coop" id="chkbl-food-coop" onclick="lh_toggle_chkb('chkb-food-coop','chkbl-food-coop');" title="Food coop" class="selected">Food coop</label>
+<input name="Types[]" id="chkb-food-coop" type="checkbox" value="food-coop" checked="checked" /><label for="chkb-eggs-dairy-meat" id="chkbl-eggs-dairy-meat" onclick="lh_toggle_chkb('chkb-eggs-dairy-meat','chkbl-eggs-dairy-meat');" title="Eggs, meat &amp; dairy" class="selected">Eggs, meat & dairy</label>
+<input name="Types[]" id="chkb-eggs-dairy-meat" type="checkbox" value="eggs-dairy-meat" checked="checked" /></li>
+<li><span class="icon fruit25"></span><h3>Grow & share</h3><div class="clr"></div>
+<label for="chkb-garden-supplier" id="chkbl-garden-supplier" onclick="lh_toggle_chkb('chkb-garden-supplier','chkbl-garden-supplier');" title="Garden supplier" class="selected">Garden supplier</label>
+<input name="Types[]" id="chkb-garden-supplier" type="checkbox" value="garden-supplier" checked="checked" /><label for="chkb-community-garden" id="chkbl-community-garden" onclick="lh_toggle_chkb('chkb-community-garden','chkbl-community-garden');" title="Community garden" class="selected">Community garden</label>
+<input name="Types[]" id="chkb-community-garden" type="checkbox" value="community-garden" checked="checked" /><label for="chkb-food-swap" id="chkbl-food-swap" onclick="lh_toggle_chkb('chkb-food-swap','chkbl-food-swap');" title="Food swap" class="selected">Food swap</label>
+<input name="Types[]" id="chkb-food-swap" type="checkbox" value="food-swap" checked="checked" /><label for="chkb-home-production" id="chkbl-home-production" onclick="lh_toggle_chkb('chkb-home-production','chkbl-home-production');" title="Home production" class="selected">Home production</label>
+<input name="Types[]" id="chkb-home-production" type="checkbox" value="home-production" checked="checked" /></li>
+<li><span class="icon hand25"></span><h3>Learn & participate</h3><div class="clr"></div>
+<label for="chkb-community-group" id="chkbl-community-group" onclick="lh_toggle_chkb('chkb-community-group','chkbl-community-group');" title="Community group" class="selected">Community group</label>
+<input name="Types[]" id="chkb-community-group" type="checkbox" value="community-group" checked="checked" /><label for="chkb-course" id="chkbl-course" onclick="lh_toggle_chkb('chkb-course','chkbl-course');" title="Course" class="selected">Course</label>
+<input name="Types[]" id="chkb-course" type="checkbox" value="course" checked="checked" /><label for="chkb-event" id="chkbl-event" onclick="lh_toggle_chkb('chkb-event','chkbl-event');" title="Event" class="selected">Event</label>
+<input name="Types[]" id="chkb-event" type="checkbox" value="event" checked="checked" /></li>
+<li><span class="icon farmer25"></span><h3>Meet the farmer</h3><div class="clr"></div>
+<label for="chkb-farmers-market" id="chkbl-farmers-market" onclick="lh_toggle_chkb('chkb-farmers-market','chkbl-farmers-market');" title="Farmers market" class="selected">Farmers market</label>
+<input name="Types[]" id="chkb-farmers-market" type="checkbox" value="farmers-market" checked="checked" /><label for="chkb-csa-farm" id="chkbl-csa-farm" onclick="lh_toggle_chkb('chkb-csa-farm','chkbl-csa-farm');" title="Community farm" class="selected">Community farm</label>
+<input name="Types[]" id="chkb-csa-farm" type="checkbox" value="csa-farm" checked="checked" /><label for="chkb-organic-grower" id="chkbl-organic-grower" onclick="lh_toggle_chkb('chkb-organic-grower','chkbl-organic-grower');" title="Organic grower" class="selected">Organic grower</label>
+<input name="Types[]" id="chkb-organic-grower" type="checkbox" value="organic-grower" checked="checked" /><label for="chkb-biodynamic-grower" id="chkbl-biodynamic-grower" onclick="lh_toggle_chkb('chkb-biodynamic-grower','chkbl-biodynamic-grower');" title="Biodynamic grower" class="selected">Biodynamic grower</label>
+<input name="Types[]" id="chkb-biodynamic-grower" type="checkbox" value="biodynamic-grower" checked="checked" /><label for="chkb-farm-non-farmgate" id="chkbl-farm-non-farmgate" onclick="lh_toggle_chkb('chkb-farm-non-farmgate','chkbl-farm-non-farmgate');" title="Conventional grower" class="selected">Conventional grower</label>
+<input name="Types[]" id="chkb-farm-non-farmgate" type="checkbox" value="farm-non-farmgate" checked="checked" /><label for="chkb-farmgate" id="chkbl-farmgate" onclick="lh_toggle_chkb('chkb-farmgate','chkbl-farmgate');" title="Farmgate sales" class="selected">Farmgate sales</label>
+<input name="Types[]" id="chkb-farmgate" type="checkbox" value="farmgate" checked="checked" /><label for="chkb-pick-your-own-farm" id="chkbl-pick-your-own-farm" onclick="lh_toggle_chkb('chkb-pick-your-own-farm','chkbl-pick-your-own-farm');" title="Pick your own" class="selected">Pick your own</label>
+<input name="Types[]" id="chkb-pick-your-own-farm" type="checkbox" value="pick-your-own-farm" checked="checked" /></li>
+			</ul>
+			<div class="clear"></div>
+ 			<div class="filter-bottom"><input type="button" class="button black" value="Select All" title="Select All" onclick="lhfilter_check_all('Types[]');"/> 
+			<input type="button" class="button black" value="Clear All" title="Clear All" onclick="lhfilter_check_none('Types[]');"/> 
+			<input type="button" class="button grey" value="Done" title="Done" onclick="homeTab('map'); refreshMap();"/></div>
+			</form>
+		</div>
+		              
+        <!-- MAP VIEW -->
+        <div id="map_block">
+        
+        	<!--
+			<div>
+			<input type="checkbox" value="Meet the farmer" id="g.Meet the farmer" checked="checked" onchange="refreshMap();">&nbsp;Meet the farmer<br>
+			<input type="checkbox" value="Eat out" id="g.Eat out" checked="checked" onchange="refreshMap();">&nbsp;Eat out<br>
+			<input type="checkbox" value="Grow & share" id="g.Grow & share" checked="checked" onchange="refreshMap();">&nbsp;Grow & share<br>
+			<input type="checkbox" value="Learn & participate"  id="g.Learn & participate" checked="checked" onchange="refreshMap();">&nbsp;Learn & participate<br>
+			<input type="checkbox" value="Buy Direct" id="g.Buy Direct" checked="checked" onchange="refreshMap();">&nbsp;Buy Direct<br>
+			<input type="checkbox" value="Other" id="g.Other" checked="checked" onchange="refreshMap();">&nbsp;Other<br>
+			</div>
+			-->
+			<span class="map-label" style="margin-left: 5px;">Location:</span>&nbsp;
+			<input type="text" name="ulocation" id="ulocation" value="" placeholder="Search Location" style="width:250px;" onkeypress="runSearch(event);">
+			<span style="font-size:0.8em;"><a href="javascript:;" onclick="findPosition();">where am I?</a></span>
+
+			<span class="map-label" style="margin-left: 5px;">Keyword:</span>&nbsp;
+			<input type="text" name="ksearch" id="ksearch" value="" placeholder="Keyword" style="width:250px;" onkeypress="runRefresh(event);">
+			
+            <div style="margin-bottom:10px;margin-top:10px;width:930px;height:400px; position:relative;">
+                <!--<img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/loading.gif">-->
+                <div style="width:930px;height:400px;top:0;left:0;position:absolute;background-color:transparent;" id="map"></div>
+            </div>
+ 
+            <div id="map_message" style="font-size:0.8em; text-align: left;"></div>
+            <!--<div>
+            <input checked="checked" type="checkbox" name="lh_refresh_map" id="lh_refresh_map" value="1" title="Refresh listings when zooming / moving around"/>
+            <label>Refresh listings when zooming / moving around</label>
+            </div>-->
+        </div>
+
+		<!-- LIST VIEW -->
+		<div id="list_canvas" style="display:none">
+			<div id="list_view_limit_wrapper" style="text-align: right;">
+				<select id="list_view_limit" onchange="refreshMap();">
+				<option value="10" selected>Show 10 Listings</option>
+				<option value="50">Show 50 Listings</option>
+				<option value="200">Show 200 Listings</option>
+				<option value="10000">Show All Listings</option>
+				</select>
+			</div>
+	        <div id="list_list"></div>
+        </div>
+
+		<!-- ADD LISTING VIEW -->        
+        <div id="add_tab" style="display:none;">	        
+        <p>If you know of a listing close to you that we may have missed, please fill in the <a href="http://www.localharvest.org.au/add-listing/">form</a>.</p>
+        <p>As a community project we rely on producers,             retailers and interested people, to add listings and             information. In time this will be comprehensive resource. <br />
+        <br />
+        Our             focus is &lsquo;local food&rsquo; and &lsquo;good food&rsquo;. This includes fresh             food that support growers in a direct way, and food with             features that are more sustainable or ethical than that             commonly available through the supermarket or mainstream             industrial food system.<br />
+        <br />
+        This             includes:<br />
+        </p>
+        <ul>
+        <li>Restaurants,                 Cafes, Catering, Micro-Breweries (Eat out)</li>
+        <li>Organic                 retailers, some non-organic retailers, Box system, Food                 co-ops, Free-range, Organic eggs, meat &amp; dairy (Buy                 Direct)</li>
+        <li>Farmers&rsquo;                 markets, Community farms (CSA), Organic growers, some                 non-Organic growers, farms with Farmgate sales, Pick                 your own farms (Meet the farmer) </li>
+        <li>Community                 gardens, Food swaps, SGA certified Garden suppliers,                 providers of Home production equipment and resources                 (Grow &amp; share)</li>
+        <li>Community                 groups, Courses and Events with a sustainability,                 food-related focus (Learn &amp; participate)</li>
+        <li>Other                 listings, included but not shown on the default map.                 These are: Organic wholesalers, Organic processors, some                 non-Organic wholesalers, some non-Organic processors,                 fair-trade coffee cafes and retailers (Other)</li>
+        </ul>
+        <p> See             the specifics of our criteria of inclusion <a href="http://www.localharvest.org.au/criteria-for-inclusion/">here</a>.<br />
+        <br />
+        You             can list suggested organisations <a href="http://www.localharvest.org.au/add-listing/">here</a>.             (Please check the map first to make sure it&rsquo;s not already             there).</p>
+        </div>
+
+	</div><!--#mapHolder-->
+	</div></div><!--.paperback-top, .paperback-bottom-->
+
+
+    
+    <style type="text/css">
+	#list_canvas {
+		position:relative;
+		text-align:left;
+	}	
+	</style>
+
+	<div class="holder map-padding">
+		<ul id="map-nav" class="menu">
+		<script>
+		function fbs_click() {
+			u=location.href;
+			t=document.title;
+			window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+			return false;
+		}
+		</script>
+		<li><a href="http://www.facebook.com/share.php?u=http://www.localharvest.com.au/" onclick="return fbs_click()" target="_blank" class="button blue"><span class="icon facebook-f"></span>Share</a></li>
+        <li><a href="http://twitter.com/home?status= - http://www.localharvest.org.au/ via @localharvester" title="Tweet" class="button cyan" title="Tweet"><span class="icon twitter-bird"></span>Tweet</a></li>
+		<!--<li><a href="#" class="button cyan" title="Tweet"><span class="icon twitter-bird"></span>Tweet</a></li>-->
+		        
+		<!--<li><a href="" class="button blue" title="Share" target="_blank"><span class="icon facebook-f"></span>Share</a></li>-->
+		<li><a href="/add-listing/" class="button green" title="Add a listing">Add a listing</a></li>
+		</ul> 
+		<div class="decoration-arrow-down"></div>
+		<h2>5 Things you can do locally</h2>
+	</div><!-- .holder -->
+	
+	<!-- 5 THINGS VIEW -->
+	<div id="fivethings_canvas"></div>
+	<!--<div id="legacy" class="holder">
+		<ul class="legacy-list">
+        	            <li><span class="icon eatery"></span><h3>Eat Out</h3>
+<span class="description">Restaurants, cafes and catering</span>
+<h4><div style="height:40px; overflow:hidden;"><a href="/listing-page/?listing_id=1272" title="Crossways Food For Life (0.2km)">Crossways Food For Life</a> <span class="distance">(1km)</div></span></h4>
+<p>Vegetarian Food, Opening hours: Mon-Sat 11.30am-2.... <a href="/listing-page/?listing_id=1272" title="more">more</a></p>
+</li>
+<li><span class="icon money"></span><h3>Buy Direct</h3>
+<span class="description">Boxes, bulk buying, organic, free range</span>
+<h4><div style="height:40px; overflow:hidden;"><a href="/listing-page/?listing_id=2510" title="City Chicks (0.0km)">City Chicks</a> <span class="distance">(1km)</div></span></h4>
+<p>Most trusted backyard chicken suppliers in Brisban... <a href="/listing-page/?listing_id=2510" title="more">more</a></p>
+</li>
+<li><span class="icon fruit"></span><h3>Grow & Share</h3>
+<span class="description">DIY, community gardens, food swaps</span>
+<h4><div style="height:40px; overflow:hidden;"><a href="/listing-page/?listing_id=2510" title="City Chicks (0.0km)">City Chicks</a> <span class="distance">(1km)</div></span></h4>
+<p>Most trusted backyard chicken suppliers in Brisban... <a href="/listing-page/?listing_id=2510" title="more">more</a></p>
+</li>
+<li><span class="icon hand"></span><h3>Learn & Participate</h3>
+<span class="description">Workshops and local groups</span>
+<h4><div style="height:40px; overflow:hidden;"><a href="/listing-page/?listing_id=1874" title="The Sharehood (0.0km)">The Sharehood</a> <span class="distance">(1km)</div></span></h4>
+<p>The Sharehood aims to build joyful, sustainable an... <a href="/listing-page/?listing_id=1874" title="more">more</a></p>
+</li>
+<li><span class="icon farmer"></span><h3>Meet The Farmer</h3>
+<span class="description">Buy from farmers or pick your own</span>
+<h4><div style="height:40px; overflow:hidden;"><a href="/listing-page/?listing_id=3110" title="Simply Free Range (0.0km)">Simply Free Range</a> <span class="distance">(1km)</div></span></h4>
+<p>Free Range Beef, Lmb, Chicken and Pork all year ro... <a href="/listing-page/?listing_id=3110" title="more">more</a></p>
+</li>
+		</ul>
+	</div><!--#legacy-->
+
+	<div id="homeSlider">
+		<a class="pre-button"></a>
+		<a class="next-button"></a>
+		<div class="slider-holder">
+		<ul class="slider-body">
+			<li>
+				<div class="slider-description">
+					<h2>Grow Your Own</h2>
+					<p>Guides to help you grow, harvest, preserve, and more...</p>
+					<a class="button green" href="http://www.localharvest.org.au/category/learn/">Explore</a>
+				</div>
+				<ul class="slider-images">
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/grow-thumb-01.jpg" /></li>
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/grow-thumb-02.jpg" /></li>
+					<li style="margin-right:0 !important;"><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/grow-thumb-03.jpg"/></li>
+				</ul>
+			</li>
+			<li>
+				<div class="slider-description">
+					<h2>Stories</h2>
+					<p>Yarns, recipes, struggles & successes from the Local Harvest community...</p>
+					<a class="button green" href="http://www.localharvest.org.au/stories/">Explore</a>
+				</div>
+				<ul class="slider-images">
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/stories-thumb-01.jpg" /></li>
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/stories-thumb-02.jpg" /></li>
+					<li style="margin-right:0 !important;"><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/stories-thumb-03.jpg"/></li>
+				</ul>
+			</li>
+			<li>
+				<div class="slider-description">
+					<h2>Local Challenge</h2>
+					<p>Take up the challenge to reduce your food miles for one week...</p>
+					<a class="button green" href="http://www.localharvest.org.au/take-the-challenge/">Explore</a>
+				</div>
+				<ul class="slider-images">
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/challenge-thumb-01.jpg" /></li>
+					<li><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/challenge-thumb-02.jpg" /></li>
+					<li style="margin-right:0 !important;"><img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/challenge-thumb-03.jpg"/></li>
+				</ul>
+			</li>
+		</ul>
+		</div> <!-- .slider-holder -->
+	</div>	<!-- #homeSlider -->
+
+	<div id="extraInfo">
+		<div class="extra-info">
+			<div class="extra-info-description">
+				<h2>Why go local?</h2>
+				<p>Eating locally benefits the environment, your health, farmers and your community...</p>
+				<a href="/why-is-local-important/" class="button lightbrown">Find out more</a>
+			</div>
+			<div class="writer-holder">
+				<ul class="writers">
+					<li>
+						<h3>
+							<img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/adam-hills.jpg" alt="Adam Hills"/>
+							<span class="writer-name">Adam Hills</span>
+							<span class="writer-description"><strong>Comedian</strong><br/>Spicks & Specks</span>
+						</h3>
+						<p>I am a moron. Seriously, a moron. My forefathers would be ashamed of me. Oh sure I can tweet such world-changing thoughts as what my breakfast consisted of, or shoot zombies for hours on end on a simulated computer game - but put me in a garden and ask me to fend for myself and I'm like a puppy in an electronics store. Fascinated but ultimately hopeless. <a href="http://www.localharvest.org.au/why-is-local-important/#friends">More from Adam</a></p>
+					</li>
+					<li>
+						<h3>
+							<img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/jackie-french.jpg" alt="Jackie French"/>
+							<span class="writer-name">Jackie French</span>
+							<span class="writer-description"><strong>Children's author</strong><br/>Earth Garden Columnist</span>
+						</h3>
+						<p>Local food, or food grown with love or cooked with pride and idealism, doesn't just keep you alive; it keeps you in contact with the earth, the seasons, and your community. It creates a web of friendship. Most of all, perhaps, it makes you deeply happy - sharing food, loving how it tastes, every mouthful with a story of fulfilment behind it. <a href="http://www.localharvest.org.au/why-is-local-important/#friends">More from Jackie</a></p>
+					</li>
+					<li>
+						<h3>
+							<img src="http://www.localharvest.org.au/wp-content/themes/LocalHarvest/images/jerry-coleby-williams.jpg" alt="Jerry Coleby-Williams"/>
+							<span class="writer-name">Jerry Coleby-Williams</span>
+							<span class="writer-description"><strong>Organic gardener</strong><br/>Director - Seed Savers Network</span>
+						</h3>
+						<p>I encourage people to convert streets and parks to permaculture, and to develop intensive organic food production at home. Since the passing of Peak Oil, strategies like these support Australian food sovereignty - and climate repair - in a Warming World. <a href="http://www.localharvest.org.au/why-is-local-important/#friends">More from Jerry</a></p>
+					</li>
+
+				</ul>
+			</div>
+		</div>
+		
+		<a href="http://www.sustainabletable.org.au/" target="_blank" class="book-holder"></a>
+		<div class="clr"></div>
+	</div> <!-- #extraInfo -->
+	
+	</div> <!-- .decoration-main -->
+</div><!-- #container -->
+
+<script type="text/javascript">
+lh_map_initialize();
+</script>	
+<!--
+-->
+
+
+        <div class="popup" id="newsletterPopup" style="display:none;">
+            <div class="popup-holder">
+            <div class="popup-underlay-top">
+                <div class="popup-underlay-bottom">
+                    <div class="popup-content">
+        
+                        <a class="icon close" href="javascript:closePopup('newsletterPopup');"></a>
+                        <h2><span class='icon bike large'></span>Keep me updated</h2>
+                        <div id="signup_error" style="display:none">Wait... you need to fix the errors below...</div>
+                        <div id="signup_msg" style="display:none"></div>
+        
+                            <span class="carrot-tilted"></span>
+                        <form name="signupForm" id="signupForm" action="/">
+                        <input type="hidden" name="list_challenge" value="0">
+                            <div class="form-message" style="display:none;"></div>
+                            <div class="field-wrapper">
+                                <div style="margin-bottom: 5px;"><label>Email Address *<label></div>
+                                <input type="text" id="newsletterEmail" name="newsletterEmail" placeholder="Email" />
+                                <span id="signup_error_email" class="error" style="display:none;">Enter a valid email address</span>
+                            </div>
+                            <div class="field-wrapper">
+                                <div style="margin-bottom: 5px;"><label>What can we call you? *<label></div>
+                                <input type="text" id="subName" name="subName" placeholder="e.g. Gardener Joe" class="default-value"/>
+                                <span id="signup_error_name" class="error" style="display:none;">Enter your name</span>
+                            </div>
+                            <div class="field-wrapper">
+                                <div style="margin-bottom: 5px;"><label>State *<label></div><select id="subState" name="subState">
+                                <option value="" selected="selected"></option>
+                                <option value="VIC">VIC</option>
+                                <option value="NSW">NSW</option>
+                                <option value="QLD">QLD</option>
+                                <option value="NT">NT</option>
+                                <option value="SA">SA</option>
+                                <option value="WA">WA</option>
+                                <option value="ACT">ACT</option>
+                                <option value="TAS">TAS</option>
+                                </select>
+                                <span id="signup_error_state" class="error" style="display:none;">Select your State</span>
+                            </div>
+                            <div class="clr"></div>
+                            <div class="optional-field">
+                                <h3>Optional Extras</h3>
+                                <p>Want to hear from some of our friends?</p>
+                                <input type="checkbox" name="list_ethical" id="list_ethical" value="1" checked="checked" /><label><span class="logo-ess"></span>Giving you the low-down on the environmental and social record of companies behind common brand names. Shop at the supermarket with a clear conscience!</label>
+                                <input type="checkbox" name="list_sustainable" id="list_sustainable" value="1" checked="checked" /><label><span class="logo-st"></span>Uses food as an entree to explore sustainability issues and support worldwide projects that help to restore the natural environment and ensure the safe and ongoing provision of food.</label>
+                                <div class="clr"></div>
+                            </div>
+                            <input type="button" value="Sign Me Up" class="button green" onclick="lh_submit_subscribe(document.forms['signupForm']);"/>
+                            <p class="subscription-info">You can <a href="http://www.ethical.org.au/cgi-bin/dada/mail.cgi/list/localharvest/" target="_blank">unsubscribe</a> any time. We totally respect your <a href="http://www.localharvest.org.au/privacy-policy/">privacy</a>.</p>
+                        </form>
+        
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div><!-- .popup -->
+
+
+	</div><!-- #main -->
+	<div id="footerWhole">
+		<div id="info">
+			<div class="decoration">
+				<div class="holder">
+					<div class="template-author">Made possible by a few of our good friends....<br/><span class="lighter-color">(the website, not the carrot)</span></div>
+					<div class="logos-holder">
+						<a href="http://www.ethical.org.au/" target="_blank" class="logo-ESS"></a>
+						<a href="http://www.slf.org.au/" target="_blank" class="logo-SLF"></a>
+						<a href="http://www.sustainabletable.org.au/" target="_blank" class="logo-ST"></a>
+					</div>
+					<div class="arrow-decoration"></div>
+				</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+			<div class="decoration">
+				<div class="holder">
+					<div class="site-info">
+						<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/au/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/au/88x31.png" /></a>
+					</div>
+					<div class="footer-menu-holder">
+						<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381"><a href="http://www.localharvest.org.au/about-us/">About us</a></li>
+<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="http://www.localharvest.org.au/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="http://www.localharvest.org.au/legal-information/">Legal Information</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="http://www.localharvest.org.au/contact-us/">Contact Us</a></li>
+</ul></div>					</div>
+				</div>								
+			</div>
+			<div class="holder">
+				<div class="dev-credits">
+						<span class="credit-text">Website design and development: <a href="http://welikesmall.org/" target="_blank">We Like Small</a> <a href="http://mrkrinkle.net/" target="_blank">Mr. Krinkle</a><!--<a href="#">Popular searches</a>--></span> 
+				</div>
+			</div>
+		</div>
+	</div> <!-- #footerwhole -->
+</div><!-- #wrapper -->
+
+
+
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-includes/js/comment-reply.min.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=2d438da4fe5d11d41ece9bae6964e685-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.localharvest.org.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<script type='text/javascript' src='http://www.localharvest.org.au/wp-includes/js/wp-embed.min.js?ver=2d438da4fe5d11d41ece9bae6964e685'></script>
+<!--[if IE 6]>
+</div>
+<![endif] //-->
+<!--[if IE 7]>
+</div>
+<![endif] //-->
+<!--[if IE 8]>
+</div>
+<![endif] //-->
+<!--[if IE]>
+</div>
+<![endif]-->
+</body>
+<!--home-temeplate.php--></html>
+

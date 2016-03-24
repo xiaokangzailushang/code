@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="ie"><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+  <head>
+    <title>Hardhat</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- <link rel="shortcut icon" href="/favicon.ico"> -->
+    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />    
+
+    <!-- REMOVE THIS STUFF AND THE FILES AS WELL !!! -->
+    
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571513-1']);
+  _gaq.push(['_trackPageview']);
+    
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+    <link href="/assets/application-4f5208d5c615e21653846596375bf63c.css" media="all" rel="stylesheet" />
+    <script async="async" src="/assets/application-b5a7b775f690b71277b7ae4f49bf4adc.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="sd/5MI+wn/Gw+Nbcg1VvDOFak+wcfSOExOWGEwdG3Ik=" name="csrf-token" />
+
+    <!--[if lt IE 9]>
+    <script src="/html5shiv-respond.js"></script>
+    <![endif]-->
+
+  </head>
+  <body class="nl-blurred">
+    <div class="container ">
+  
+      <section class="hhd-header">
+  <div class="hhd-logo desktop">
+    <a href="/" class="js-animated-link logo-test" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      Hardhat
+    </a>
+  </div>
+
+  <div class="hhd-logo-mobile mobile">
+    <a href="/" class="js-animated-link" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      <i class="icon--circle-hhd header mobile">Hardhat</i>
+    </a>
+  </div>
+  
+  <a class="js-trigger-overlay hhd-menu-hamburger" type="button">
+    <span></span>
+  </a>  
+</section>
+
+
+      <section class="hhd-head-banner js-banner-intro-animation">
+  <h1>Careers</h1>
+  <div class="divider black center"></div>
+</section>
+
+
+
+<section class="hhd-insight-all_articles">
+    <div class="all_articles-wrapper careers-listing">
+      <span class="all_articles-title">all careers</span>
+      <ul class="all_articles-list">
+      <li class="career all-articles_list-item show">
+        <a class="career__link" href="/careers/senior-strategist">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Strategy | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Senior Strategist
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 08.03.16</span>
+          </span>
+        </a>
+      </li>
+      <li class="career all-articles_list-item show">
+        <a class="career__link" href="/careers/senior-designer">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Design / UX Design | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Senior Designer
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 02.02.16</span>
+          </span>
+        </a>
+      </li>
+      <li class="career all-articles_list-item show">
+        <a class="career__link" href="/careers/social-media-coordinator">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Social | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Social Media Coordinator
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 18.01.16</span>
+          </span>
+        </a>
+      </li>
+      <li class="career all-articles_list-item show">
+        <a class="career__link" href="/careers/backend-developer">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Development | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Backend Developer
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 05.01.16</span>
+          </span>
+        </a>
+      </li>
+      <li class="career all-articles_list-item show">
+        <a class="career__link" href="/careers/digital-producer-account-manager">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Accounts | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Digital Producer / Account Manager
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 02.01.16</span>
+          </span>
+        </a>
+      </li>
+      <li class="career all-articles_list-item ">
+        <a class="career__link" href="/careers/calling-all-fronties">
+          <span class="all-articles-type_wrapper">
+            <span class="all-articles-type">Front-end Developer | Melbourne</span>
+          </span>
+          <span class="all-articles-text">
+            Calling all fronties!
+          </span>
+          <span class="all-articles-info_wrapper desktop">
+            <span class="all-articles-info"> Posted 04.12.15</span>
+          </span>
+        </a>
+      </li>
+</ul>
+
+    </div>
+
+    <button class="button black load-more-articles no-anchor" style=" ">
+      load more careers
+    </button>
+
+</section>
+
+ <section class="hhd-banners">
+  <div class="banners-container">
+      <div class="rbt-banner">
+        <a href="/real-big-things">
+            <img class="desktop" src="/images/rbt-banner.jpg" alt="Real Big Things event">
+        </a>
+      </div>
+    <div class="last-tweets">
+  <div class="last-tweets-title">
+    <i class="fa fa-twitter"></i> TWITTER
+  </div>
+  <div class="swiper-container">
+    <ul class="tweets-list swiper-wrapper">
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/711771745233965058">
+            Take a peek into the future of tech with @DanMonheit (no crystal ball needed): https://t.co/Rgz4tvN01L
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/703059876545581056">
+            RT @_rebeccajackson: #Sketchnotes from #RealBigThings HT @HardhatDigital @tweettarzan @ShaeLeeShack https://t.co/ULsHcgNvUu
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/703009323614482434">
+            @tweettarzan #sorrynotsorry
+            </a>
+          </p>
+        </li>
+    </ul>
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
+    </div>
+  </div>
+</section>
+
+
+
+       <section class="hhd-footer">
+    <div class="hhd-footer-container">
+      <div class="hhd-footer-container-left">
+        <i class="icon--circle-hhd"></i>
+        <br class="mobile" />
+        <br class="mobile" />
+        HUSTLE. HUMILITY. HEART.
+      </div>
+      <div class="hhd-footer-container-right">
+        <a target="_blank" href="https://www.facebook.com/hardhatdigital">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a target="_blank" href="https://twitter.com/HardhatDigital">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a target="_blank" href="https://instagram.com/hardhatdigital">
+          <i class="fa fa-instagram"></i>
+        </a>
+        <a target="_blank" href="http://www.linkedin.com/company/hardhat-digital">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+    </div>
+
+    <div class="overlay overlay-contentscale">
+  <button type="button" class="js-overlay-close hhd-menu-close">Close</button>
+  <nav>
+    <ul>
+      <li>
+        <a href="/about-us">About Us</a>
+      </li>
+      <li>
+        <a href="/our-work">Our Work</a>
+      </li>
+      <li>
+        <a href="/news">News</a>
+      </li>
+      <li>
+        <a href="/insights">Insights</a>
+      </li>
+      <li>
+        <a href="/careers">Careers</a>
+      </li>
+      <li>
+        <a href="/contact-us">Contact Us</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+    <script>
+      // ShareThis Asynchronous Javascript Loading
+      (function(){
+          window.switchTo5x=true; 
+          var e=document.createElement("script");
+          e.type="text/javascript";
+          e.async=true;
+          e.onload=function(){
+              try{
+                  stLight.options({publisher: "1a3ddf5f-2306-4752-9afa-1be11d9b8812", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+              }catch(e){ /* optionally do something to handle errors here */ }
+          }
+          e.src=('https:' == document.location.protocol ? 'https://ws' : 'http://w') + '.sharethis.com/button/buttons.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(e, s);
+      })();
+    </script>
+    <!-- <script type="text/javascript">var switchTo5x=true;</script> -->
+    <!-- <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script> -->
+    <!-- <script type="text/javascript">stLight.options({publisher: "1a3ddf5f&#45;2306&#45;4752&#45;9afa&#45;1be11d9b8812", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
+    <script src="//use.typekit.net/kip4yxc.js"></script>
+    <script>try{Typekit.load({async: true});}catch(e){}</script>
+  </body>
+</html>

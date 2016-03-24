@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="28 days">
+<META NAME="keywords" CONTENT="">
+<META NAME="description" CONTENT="Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution">
+<meta name="rating" content="General">
+<meta name="author" content="YourWebspace">
+<meta name="language" content="en-au">
+<script language="JavaScript" src="./js/overlib/overlib.js" type="text/javascript"></script>
+<script language="JavaScript" src="./js/gen_validatorv2.js" type="text/javascript"></script>
+<script language="JavaScript" src="./js/CalendarPopup.js" type="text/javascript"></script>
+<script language="JavaScript" src="richtext_compressed.js" type="text/javascript"></script>
+<script> 
+/*****************************************
+ * Simple RollOver script by Virtual_Max 
+ * http://come.to/vmax 
+ * Free to use untill this notice  present 
+ * unchanged in all copies and derivatives
+ *****************************************/
+function VMaxOver(link,id,overIm) {
+  if(document.images) {
+    im            = document.images[id];
+    im.outIm      = new Image();
+    im.overIm     = new Image();
+    im.outIm.src  = document.images[id].src;
+    im.overIm.src = overIm;
+    im.src        =im.overIm.src;
+    link.onmouseout  = new Function("var im=document."+id+"; im.src=im.outIm.src;");
+    link.onmouseover = new Function("var im=document."+id+"; im.src=im.overIm.src;");
+  }
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+<title>
+Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution - Plateau Food & Beverage Distributors: Home</title>
+	<script language="JavaScript" src="./menu.js"></script>
+	<script language="JavaScript" src="./menu_items.js"></script>
+	<script language="JavaScript" src="./menu_tpl.js"></script>
+	<link rel="stylesheet" href="./menu.css">
+<LINK href="theme/style7.php" rel=stylesheet type=text/css>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body leftmargin="0" topmargin="0">
+ <p>
+<div id="container">
+<table cellspacing="0" cellpadding="0" border="0" align="center" width="860" >
+	<tr>
+		<td colspan="2" valign="top" align="right" background="./images/title1.jpg" title="Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution">
+		<div id="title" title="Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution">
+		<!-- br /><img src="./images/cleardot.gif" vspace="3" -->
+
+		</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top" id="title3" colspan="2" align="right" background="./images/header3.jpg" title="Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution" width="100%">
+		<div title="Plateau Food & Beverage Distributors: Home - Wholesale Suppliers and Food & Beverage Distribution">&nbsp;
+		</div>
+		</td>
+	</tr>
+</table>
+<div id="main">
+<table width="1024" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" class="left" background="./images/menu_bg.jpg">
+<img src="./images/menu_top.jpg" />
+
+
+
+
+<script language="JavaScript">
+	new menu (MENU_ITEMS, MENU_TPL);
+</script>
+<img src="./images/cleardot.gif" vspace="65" border="0" /><br /><br />
+&nbsp;
+
+
+
+<div align="center">
+<!-- div align="center"><a href="./register_sem.php?sem_id=10">Central Coast<br>O P E N &nbsp; D A Y</a><br>
+	<hr width="80%" align="center">
+</div -->
+
+
+<a href="./member.php">ONLINE <br />SHOPPING<br /><img src="./images/icons/mid/cart.gif" border="0" /></a><p>
+
+
+
+<hr width="80%" align="center" />
+<a href="./member.php">SALES <br />REPS.<br /><img src="./images/icons/mid/edit.gif" border="0" /></a><p>
+<hr width="80%" align="center" />
+
+<a href="./register.php"><strong>Subscribe to our <br>Quarterly <br />Newsletter & <br />Monthly Specials</strong></a>
+<p><hr width="80%" align="center" /><br /><a href="./gall.php?gcat_no=109"><strong>SPECIALS</strong><br>
+ <img name="im1" src="./images/specials_off.jpg" onMouseOver="VMaxOver(this,'im1','images/specials_on.jpg')" border="0" /></a></div>
+ <div align="center"><form name="form" action="search.php" method="get">
+  Product Search<br /> <input type="text" name="q" size=10/><br />
+  <input type="submit" name="search" value="Search"/>
+</form></div> 
+
+
+
+
+
+
+<div align="center"><img src="./images/cw.jpg" /></div>
+</td>
+<td valign="top" align="left" width="860" background="./images/body.jpg" class="bodyslice">
+<div class="bodytext">
+
+<!-- table width="860" align="center" border=0>
+	<tr>
+		<td background="images/pagehead.gif" valign="top" width="397" height="50">
+		
+		
+		&nbsp;<font class="big">Our Company</font>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+</table -->
+<table width="860" align="center" border="0">
+	<tr>
+		<td valign="top">
+
+		<p align="justify" >
+		
+		<img src="uploads/cleardot.gif" width="1" align="right" hspace="5">
+		<h3>WELCOME TO PLATEAU FOOD &amp; BEVERAGE DISTRIBUTORS</h3>
+<p>&nbsp;</p>
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tbody>
+<tr>
+<td valign="top">
+<p align="justify">Plateau Food Distributors is an Australian family owned and run company with warehouses located in Sydney (Silverwater), In Canberra &amp;&nbsp;on the Central Coast of NSW (Wyong). Plateau operates out of modern, purpose built warehouses which operate under full OH&amp;S and <a href="http://www.plateaufoods.com.au/gall.php?gcat_no=116">HACCP certifications</a> and run a modern fleet of refrigerated&nbsp; trucks. &nbsp;<br /><br />We service clubs and hotels, pizza and kebab shops, cafes and restaurants, schools, convenience stores and catering companies.&nbsp; </p>
+
+<p align="justify">We offer a <span style="font-weight: bold;">free delivery service</span> throughout metropolitan Sydney, Newcastle and Central Coast region, Blue Mountains, Southern Highlands, Wollongong and Shellharbour.</p>
+
+<p align="justify">Plateau is a proud member of the Countrywide Network, which is 100% Australian owned and has over 100 members nationally.&nbsp; Countrywide is supported by Australia's largest food manufacturers and this means that we are able to offer a broader range at competitive pricing.</p>
+
+<p align="justify">At Plateau, our aim is to provide products and service to our customers that are of high quality and deliver value for money.&nbsp; We are dedicated to offering a high standard of professional and personal service at a competitive price.</p>
+
+<p align="center">&nbsp;</p>
+</td>
+<td valign="top">
+<p><img src="http://www.plateaufoods.com.au/uploads/plateau_front.jpg" /></p>
+</td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tbody>
+<tr>
+<td valign="top">
+<p align="center"><a href="http://www.plateaufoods.com.au/newitems.php"><img src="http://www.plateaufoods.com.au/uploads/blue_button_new.png" border="0" /></a></p>
+</td>
+<td valign="top">
+<p align="center"><a href="http://www.plateaufoods.com.au/specials.php"><img src="http://www.plateaufoods.com.au/uploads/blue_button_specials.png" border="0" /></a></p>
+</td>
+<td valign="top">
+<p align="center"><a href="http://www.plateaufoods.com.au/clearance.php"><img src="http://www.plateaufoods.com.au/uploads/blue_button_clear.png" border="0" /></a></p>
+</td></tr></tbody></table>
+<p><a href="http://turnuptheheat.countrywidebff.com/Home.aspx"></a>&nbsp;</p>
+
+<p align="justify"><a href="http://turnuptheheat.countrywidebff.com/Home.aspx"></a>&nbsp;</p>
+<a href="http://turnuptheheat.countrywidebff.com/Home.aspx">
+<div style="text-align: center;">
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tbody>
+<tr>
+<td width="50%">
+<p align="center"></p>
+</td>
+<td width="50%" align="center">
+<div style="text-align: center;"></div></td></tr></tbody></table></div></a>
+
+		</td>
+	</tr>
+</table><p>
+
+</div>
+</td></tr> </table>
+<div id="foot">
+<table width="100%" border="0">
+<tr>
+<td align="left" width="15%" valign="top"><font size="-6">.</font>
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</td>
+<td align="center">
+<!-- mccain.jpg<br>
+		sugaraustralia.jpg<br>
+		allied mills.jpg<br>
+		tj.jpg<br>
+		four n twenty.jpg<br>
+		patties.jpg<br>
+		GE_Macs Brand.Jan07 copy.jpg<br>
+		birchwaite.jpg<br>
+		bj.jpg<br>
+		TuscanyFoodsLogo.jpg<br>
+		 -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="650" height="100" title="banner">
+  <param name="movie" value="./sflash/banner.swf" />
+  <param name="quality" value="high" />
+  <param name=FlashVars value="image1=./sflash/mccain.jpg&image2=./sflash/sugaraustralia.jpg&image3=./sflash/allied mills.jpg&image4=./sflash/tj.jpg&image5=./sflash/four n twenty.jpg&image6=./sflash/patties.jpg&image7=./sflash/GE_Macs Brand.Jan07 copy.jpg&image8=./sflash/birchwaite.jpg&image9=./sflash/bj.jpg&image10=./sflash/TuscanyFoodsLogo.jpg&">
+  <embed src="./sflash/banner.swf" quality="high" 
+  FlashVars="image1=./sflash/mccain.jpg&image2=./sflash/sugaraustralia.jpg&image3=./sflash/allied mills.jpg&image4=./sflash/tj.jpg&image5=./sflash/four n twenty.jpg&image6=./sflash/patties.jpg&image7=./sflash/GE_Macs Brand.Jan07 copy.jpg&image8=./sflash/birchwaite.jpg&image9=./sflash/bj.jpg&image10=./sflash/TuscanyFoodsLogo.jpg&"
+  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="650" height="100"></embed>
+
+</object>
+
+
+<!-- Script 13.4 - 	footer.html -->
+<!-- Content starts here! -->
+<!-- div class="footertext" ></div -->
+<!-- div class="footertext" >
+15 Millennium Court, <br>Silverwater, NSW 2128<br />
+Phone: +61 2 9714 2400  Fax: +61 2 9714 2499<br />
+Email: <a href='mailto:enquiry@plateaufoods.com.au'>enquiry@plateaufoods.com.au</a><br />
+<br />
+
+</div -->
+
+</td>
+<td width="15%">
+</td>
+</tr>
+</table>
+</div> <!-- End Footer -->
+</div> <!-- End Main -->
+
+<br><div align="right" class="xsmall">Site by <a href="http://www.yourwebspace.com.au" class="xsmall" title="Ecommerce and Google page rank professionals">YourWebspace - Internet Marketing</a>&nbsp;&nbsp;&nbsp;</div>
+</div> <!-- End Container -->
+
+<!--Define HTML for all animated menus at the very end of the page (ie: right before </body> tag)!-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-13190070-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	
+</body>
+</html>
+</body>
+</html>

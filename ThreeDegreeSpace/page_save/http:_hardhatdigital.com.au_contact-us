@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="ie"><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+  <head>
+    <title>Hardhat - Contact Us</title>
+    <meta name="description" content="Looking for a new agency, a job or just a chat? We&#39;d love to hear from you.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <!-- <link rel="shortcut icon" href="/favicon.ico"> -->
+    <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />    
+
+    <!-- REMOVE THIS STUFF AND THE FILES AS WELL !!! -->
+    
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571513-1']);
+  _gaq.push(['_trackPageview']);
+    
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+    <link href="/assets/application-4f5208d5c615e21653846596375bf63c.css" media="all" rel="stylesheet" />
+    <script async="async" src="/assets/application-b5a7b775f690b71277b7ae4f49bf4adc.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="sd/5MI+wn/Gw+Nbcg1VvDOFak+wcfSOExOWGEwdG3Ik=" name="csrf-token" />
+
+    <!--[if lt IE 9]>
+    <script src="/html5shiv-respond.js"></script>
+    <![endif]-->
+
+  </head>
+  <body class="nl-blurred">
+    <div class="container ">
+  
+      <section class="hhd-header">
+  <div class="hhd-logo desktop">
+    <a href="/" class="js-animated-link logo-test" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      Hardhat
+    </a>
+  </div>
+
+  <div class="hhd-logo-mobile mobile">
+    <a href="/" class="js-animated-link" title="We’re Hardhat. We’ve been helping businesses do amazing things with the internet for over a decade.">
+      <i class="icon--circle-hhd header mobile">Hardhat</i>
+    </a>
+  </div>
+  
+  <a class="js-trigger-overlay hhd-menu-hamburger" type="button">
+    <span></span>
+  </a>  
+</section>
+
+
+      
+  
+
+<section class="hhd-head-banner no-padding js-banner-intro-animation">
+  <img src="/images/banner-contact.jpg" alt="telephone">
+</section>
+
+
+
+
+  <section class="hhd-contact-content js-fade-in-animation">
+    <div class="generic-content--contact">
+      <h1 class="contact-h1">contact us</h1>
+
+      <div class="new_enquiry nl-form nl-form-contact" id="nl-form">
+
+        <fieldset class="natural-language">
+
+          <span class="enquiry_type">
+            <p>I want to </p>
+            <select id="category" name="category"><option value="">[select]</option><option value="contact">contact</option>
+<option value="work_at">work at</option>
+<option value="work_with">work with</option></select>
+            <p>Hardhat.</p>
+          </span>
+          <br />
+          
+          <span class="enquiry_role" style="display:none">
+            <p style="">I'm looking for </p>
+            <select id="role" name="role"><option value="">[select]</option><option value="accounts">an account services</option>
+<option value="technology">a technology</option>
+<option value="UX/design">a UX/designer</option>
+<option value="social">a social media</option>
+<option value="strategy">a strategy</option>
+<option value="internship">an intern</option>
+<option value="other">another kind of</option></select>
+            <p>role</p>
+          </span>
+          
+          <span class="enquiry_company" style="display:none">
+            <p>and I am from </p>
+            <input id="company" name="company" placeholder="company name" type="text" />
+          </span>
+                    
+          <div class="nl-overlay"></div>
+
+        </fieldset> 
+        
+           
+      </div>
+
+      <form accept-charset="UTF-8" action="/contact-us" class="new_enquiry" enctype="multipart/form-data" id="new_enquiry" method="post" style="display:none"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sd/5MI+wn/Gw+Nbcg1VvDOFak+wcfSOExOWGEwdG3Ik=" /></div>
+
+        <fieldset class="contact-fields">
+
+          <blockquote>
+            <p class="no-quote">
+              Awesome! We’d really like to meet you.
+              <br />
+              Fill out your details and we’ll arrange a time.
+            </p>
+            <i class="arrow"></i>
+          </blockquote>
+          <input id="enquiry_bot_trap" name="enquiry[bot_trap]" type="hidden" value="2016-03-24 11:28:25 +1100" />
+          <select id="enquiry_category" name="enquiry[category]" style="display:none"><option value="">choose</option>
+<option value="contact">contact</option>
+<option value="work_at">work at</option>
+<option value="work_with">work with</option></select>
+          <select id="enquiry_role" name="enquiry[role]" style="display:none"><option value="">choose</option>
+<option value="accounts">an account services</option>
+<option value="technology">a technology</option>
+<option value="UX/design">a UX/designer</option>
+<option value="social">a social media</option>
+<option value="strategy">a strategy</option>
+<option value="internship">an intern</option>
+<option value="other">another kind of</option></select>
+          <input id="enquiry_company" name="enquiry[company]" placeholder="company name" style="display:none" type="text" />
+
+          <span class="input-wrapper ">
+            <label class="animated-input-label" for="name">
+              <span class="animated-input-label-content">Name*</span>
+            </label>
+            <input class="animated-input-field" id="enquiry_name" name="enquiry[name]" type="text" />
+          </span>
+
+          <span class="input-wrapper ">
+            <label class="animated-input-label" for="email">
+              <span class="animated-input-label-content">Email* </span>
+            </label>
+            <input class="animated-input-field" id="enquiry_email" name="enquiry[email]" type="text" />
+          </span>
+
+          <span class="input-wrapper ">
+            <label class="animated-input-label" for="phone">
+              <span class="animated-input-label-content">Phone* </span>
+            </label>
+            <input class="animated-input-field" id="enquiry_phone" name="enquiry[phone]" type="text" />
+          </span>
+
+          <span class="input-wrapper">
+            <label class="animated-input-label" for="portfolio_url">
+              <span class="animated-input-label-content">Online Portfolio (if applicable)</span>
+            </label>
+            <input class="animated-input-field" id="enquiry_portfolio_url" name="enquiry[portfolio_url]" type="text" />
+          </span>
+
+          <span class="input-wrapper--file-upload">
+            <label class="animated-input-label" for="resume">
+              <span class="animated-input-label-content upload-filename">Upload resume (if applicable)</span>
+            </label>
+            <span class="input-file-style"></span>
+           <input class="input-file" id="enquiry_resume" name="enquiry[resume]" type="file" />
+          </span>
+
+          <span class="input-wrapper--full-width input-wrapper--full-width-contact ">
+            <label class="animated-input-label input-label_text-area" for="message">
+              <span class="animated-input-label-content">Message*</span>
+            </label>
+            <textarea class="animated-input-field text-area-field" id="enquiry_message" name="enquiry[message]">
+</textarea>
+          </span> 
+
+          <input name="enquiry[subscribe]" type="hidden" value="0" /><input class="mail_subscriber" id="newsletter-subscribe" name="enquiry[subscribe]" type="checkbox" value="1" />
+        
+          <label for="newsletter-subscribe" class="mail_subscriber-label"></label>
+          <p class="mail_subscriber-description">
+            Want more Hardhat in your life? Sign up to Hat Tip to receive your weekly dose of amazing things from the internet, hand picked by the team. 
+          </p>
+          <!-- TO TEST IF IT WORKS! -->
+          <button class="button black no-anchor">
+              <input name="commit" type="submit" value="Send" />  
+          </button>
+
+        </fieldset>
+
+</form>
+    </div>
+    
+    <div class="generic-content-aside--wrapper--contact">
+    <div class="generic-content-aside-details--contact">
+      <span class="aside-title">
+        WHERE ARE WE?
+      </span>
+      <span class="article-details-left--contact">Email:</span>
+      <span class="article-details-right">
+        <a href="mailto:info@hhd.com.au">info@hhd.com.au</a>
+      </span>
+      <span class="aside-sub-title">
+        Melbourne
+      </span>      
+      <span class="contact-details-left--fullwidth">
+        <a href="https://goo.gl/maps/O8gD5" target="_blank">1/111 High St<br />Prahran VIC 3181</a>
+        </span>
+      <span class="article-details-left--contact">Phone:</span>
+      <span class="article-details-right">
+        (03) 8554 1444
+      </span>
+
+      <span class="aside-sub-title">
+        Sydney
+      </span>      
+      <span class="contact-details-left--fullwidth">
+        <a href="https://goo.gl/maps/PwPe4eZGZKN2" target="_blank">101/61 Marlborough St<br />Surry Hills NSW 2010</a>
+      </span>
+      <span class="article-details-left--contact">Phone:</span>
+      <span class="article-details-right">
+        (02) 9538 0847
+      </span>
+
+      <div class="social-cirles-wrapper">
+        <span class="social-circle">
+          <a target="_blank" href="https://www.facebook.com/hardhatdigital">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </span>
+        <span class="social-circle">
+          <a target="_blank" href="https://twitter.com/HardhatDigital">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </span>
+        <span class="social-circle">
+          <a target="_blank" href="https://instagram.com/hardhatdigital">
+            <i class="fa fa-instagram"></i>
+          </a>
+        </span>
+        <span class="social-circle">
+          <a target="_blank" href="http://www.linkedin.com/company/hardhat-digital">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+    
+  </section>
+
+  <section class="hhd-banners">
+  <div class="banners-container">
+      <div class="rbt-banner">
+        <a href="/real-big-things">
+            <img class="desktop" src="/images/rbt-banner.jpg" alt="Real Big Things event">
+        </a>
+      </div>
+    <div class="last-tweets">
+  <div class="last-tweets-title">
+    <i class="fa fa-twitter"></i> TWITTER
+  </div>
+  <div class="swiper-container">
+    <ul class="tweets-list swiper-wrapper">
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/703009323614482434">
+            @tweettarzan #sorrynotsorry
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/702989188203827200">
+            Well, that’s it for today. See you again Friday 27th May. Happy Friday! https://t.co/hNYEK3KRAK #realbigthings
+            </a>
+          </p>
+        </li>
+        <li class="tweet-list_item swiper-slide">
+          <p>
+            <a target="_blank" href="https://twitter.com/HardhatDigital/status/702982780133572608">
+            Great content consists of something that strikes a chord with people. @ShaeLeeShack #realbigthings
+            </a>
+          </p>
+        </li>
+    </ul>
+  </div>
+  <div class="swiper-pagination"></div>
+</div>
+    </div>
+  </div>
+</section>
+
+  
+
+
+
+
+       <section class="hhd-footer">
+    <div class="hhd-footer-container">
+      <div class="hhd-footer-container-left">
+        <i class="icon--circle-hhd"></i>
+        <br class="mobile" />
+        <br class="mobile" />
+        HUSTLE. HUMILITY. HEART.
+      </div>
+      <div class="hhd-footer-container-right">
+        <a target="_blank" href="https://www.facebook.com/hardhatdigital">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a target="_blank" href="https://twitter.com/HardhatDigital">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a target="_blank" href="https://instagram.com/hardhatdigital">
+          <i class="fa fa-instagram"></i>
+        </a>
+        <a target="_blank" href="http://www.linkedin.com/company/hardhat-digital">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+    </div>
+
+    <div class="overlay overlay-contentscale">
+  <button type="button" class="js-overlay-close hhd-menu-close">Close</button>
+  <nav>
+    <ul>
+      <li>
+        <a href="/about-us">About Us</a>
+      </li>
+      <li>
+        <a href="/our-work">Our Work</a>
+      </li>
+      <li>
+        <a href="/news">News</a>
+      </li>
+      <li>
+        <a href="/insights">Insights</a>
+      </li>
+      <li>
+        <a href="/careers">Careers</a>
+      </li>
+      <li>
+        <a href="/contact-us">Contact Us</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+    <script>
+      // ShareThis Asynchronous Javascript Loading
+      (function(){
+          window.switchTo5x=true; 
+          var e=document.createElement("script");
+          e.type="text/javascript";
+          e.async=true;
+          e.onload=function(){
+              try{
+                  stLight.options({publisher: "1a3ddf5f-2306-4752-9afa-1be11d9b8812", doNotHash: true, doNotCopy: true, hashAddressBar: false});
+              }catch(e){ /* optionally do something to handle errors here */ }
+          }
+          e.src=('https:' == document.location.protocol ? 'https://ws' : 'http://w') + '.sharethis.com/button/buttons.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(e, s);
+      })();
+    </script>
+    <!-- <script type="text/javascript">var switchTo5x=true;</script> -->
+    <!-- <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script> -->
+    <!-- <script type="text/javascript">stLight.options({publisher: "1a3ddf5f&#45;2306&#45;4752&#45;9afa&#45;1be11d9b8812", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> -->
+    <script src="//use.typekit.net/kip4yxc.js"></script>
+    <script>try{Typekit.load({async: true});}catch(e){}</script>
+  </body>
+</html>

@@ -1,0 +1,478 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://www.thermoprint.com.au/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Thermo-Print, product identification systems, thermal transfer barcode printers, barcode printers consumables, barcode printers labels, barcode printers ribbons, barcode printers technical support, Melbourne, Victoria, Australia" />
+  <meta name="description" content="Thermo-Print is a product identification systems company specialising in the supply of thermal transfer barcode printers and their related consumables, including blank labels and ribbons, along with dependable, proficient technical support, based in Melbourne." />
+  <title>Barcode Printers Melbourne Victoria Australia | Thermo-Print - HOME</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://www.thermoprint.com.au/index.php/component/search/?format=opensearch" rel="search" title="Search Barcode Printers Melbourne Victoria Australia | Thermo-Print" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="http://www.thermoprint.com.au/modules/mod_djimageslider/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_hikashop/css/frontend_default.css?v=200" type="text/css" />
+  <style type="text/css">
+
+		/* Styles for DJ Image Slider with module id 100 */
+		#djslider-loader100 {
+			margin: 0 auto;
+			position: relative;
+			height: 400px; 
+			width: 990px;
+		}
+		#djslider100 {
+			margin: 0 auto;
+			position: relative;
+			height: 400px; 
+			width: 990px;
+			display: none;
+		}
+		#slider-container100 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 400px; 
+			width: 990px;			
+		}
+		#djslider100 ul#slider100 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider100 ul#slider100 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 0px 0 !important;
+			position: relative;
+			height: 400px;
+			width: 990px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider100 li img {
+			width: 990px;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider100 li a img, #slider100 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* Navigation buttons */
+		#navigation100 {
+			position: relative;
+			top: 30px; 
+			margin: 0 5px;
+			text-align: center !important;
+		}
+		
+		#prev100 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 0;
+		}
+		#next100 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			right: 0;
+		}
+		
+		#play100, 
+		#pause100 {
+			cursor: pointer;
+			display: block;
+			position: absolute;
+			left: 47%;
+		}
+		
+#blank1BM{overflow:hidden;width:100%;}
+#hikashop_category_information_module_89 div.hikashop_subcontainer {
+	background:#FFFFFF;
+}
+#hikashop_category_information_module_89 .hikashop_rtop *,#hikashop_category_information_module_89 .hikashop_rbottom *{
+	background:#FFFFFF;
+}
+			
+#hikashop_category_information_module_89 div.hikashop_subcontainer,#hikashop_category_information_module_89 div.hikashop_subcontainer span {
+	text-align:center;
+}
+#hikashop_category_information_module_89 div.hikashop_container {
+	text-align:center;
+}
+			
+#hikashop_category_information_module_89 div.hikashop_container {
+	margin:10px 10px;
+}
+#hikashop_category_information_module_89 div.hikashop_category,#hikashop_category_information_module_89 div.hikashop_product{
+	float:left;
+	width:100%;
+}
+			
+#hikashop_category_information_module_89 .hikashop_subcontainer {
+		 -moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		-khtml-border-radius: 5px;
+		border-radius: 5px;
+}
+
+			
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_djimageslider/assets/slider.js" type="text/javascript"></script>
+  <script src="/media/com_hikashop/js/hikashop.js?v=200" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});(function($){ window.addEvent('domready',function(){this.Slider100 = new DJImageSlider({id: '100', slider_type: 2, slide_size: 990, visible_slides: 1, show_buttons: 1, show_arrows: 1, preload: 800},{auto: 1, transition: Fx.Transitions.linear, duration: 600, delay: 3600})}); })(document.id);
+<!--
+
+	function hikashopModifyQuantity(id,obj,add,form,type){
+		var d = document, cart_type="cart", addStr="", qty=1, e = null;
+		if(type) cart_type = type;
+		if(add) addStr = "&add=1";
+
+		if(obj){
+			qty = parseInt(obj.value);
+		}else if(document.getElementById("hikashop_product_quantity_field_"+id).value){
+			qty = document.getElementById("hikashop_product_quantity_field_"+id).value;
+		}
+		if(form && document[form]){
+			var varform = document[form];
+			if(cart_type == "wishlist"){
+				e = d.getElementById("hikashop_cart_type_"+id);
+				if(e) e.value = "wishlist";
+				f = d.getElementById("type");
+				if(f) f.value = "wishlist";
+			}else{
+				e = d.getElementById("hikashop_cart_type_"+id);
+				if(e) e.value = "cart";
+			}
+			if(varform.task) {
+				varform.task.value = "updatecart";
+			}
+			varform.submit();
+		}else{
+			var url = "/index.php/component/hikashop/product/updatecart/tmpl-component?from=module&product_id="+id+"&cart_type="+cart_type+"&quantity="+qty+addStr+"&return_url=aHR0cDovL3d3dy50aGVybW9wcmludC5jb20uYXUv";
+			var completeFct = function(result) {
+				if(cart_type != "wishlist") {
+					var hikaModule = window.document.getElementById("hikashop_cart_module");
+					if(hikaModule) hikaModule.innerHTML = result;
+				}
+				
+			}
+			try{
+				new Ajax(url, {method: "get", onComplete: completeFct}).request();
+			}catch(err){
+				new Request({url: url, method: "get", onComplete: completeFct}).send();
+			}
+		}
+		return false;
+	}
+
+//-->
+
+  </script>
+  
+  <!-- start - swMenuFree javascript and CSS links -->
+  <link type='text/css' href='http://www.thermoprint.com.au/modules/mod_swmenufree/styles/menu.css' rel='stylesheet' />
+  <script type="text/javascript" src="http://www.thermoprint.com.au/modules/mod_swmenufree/transmenu_Packed.js"></script>
+  <!-- end - swMenuFree javascript and CSS links -->
+
+                <link rel="stylesheet" type="text/css" href="/ff.css">
+</head>
+
+<body>
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="990">
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td width="500">
+					<img border="0" src="/images/leb1.gif" width="455" height="146"></td>
+					<td width="330">
+					<table border="0" cellpadding="0" cellspacing="11">
+						<tr>
+							<td>
+							<img border="0" src="/images/karty.gif" width="144" height="29"></td>
+						</tr>
+						<tr>
+							<td class="gora">		<div class="moduletable">
+					<div class="hikashop_cart_module" id="hikashop_cart_module">
+<div id="hikashop_cart" class="hikashop_cart">
+			The cart is empty		</div>
+		<div class="clear_both"></div></div>
+		</div>
+	</td>
+						</tr>
+					</table>
+					</td>
+					<td>
+					<table border="0" cellpadding="0" cellspacing="8">
+						<tr>
+							<td class="gora">Ph: <a rel="nofollow" href="tel:0397919988">(03) 97919988</a></td>
+						</tr>
+						<tr>
+							<td class="gora"><a href="/index.php/contact-us">Contact Information</a></td>
+						</tr>
+						<tr>
+							<td align="center"><br>		<div class="moduletable">
+					<form action="/index.php" method="post">
+	<div class="search">
+		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="16" value="type keywords..."  onblur="if (this.value=='') this.value='type keywords...';" onfocus="if (this.value=='type keywords...') this.value='';" /><br /><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();"/>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="101" />
+	</div>
+</form>
+		</div>
+	</td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td width="12"><img border="0" src="/images/lewy.gif" width="12" height="40"></td>
+					<td bgcolor="#ed1c24" align="center" valign="top">		<div class="moduletable">
+					
+<!--swMenuFree7.2_J2.5 transmenu by http://www.swmenupro.com-->
+<table id="menu_wrap" class="swmenu" align="center"><tr><td id="td_menu_wrap" class="td_menu_wrap">
+<table cellspacing="0" cellpadding="0" id="swmenu" class="swmenu" > 
+<tr> 
+<td id='trans-active'> 
+<a id="menu101" href="/" >HOME</a>
+</td> 
+<td> 
+<a id="menu125" href="/index.php/products" >PRODUCTS</a>
+</td> 
+<td> 
+<a id="menu126" href="/index.php/technical-support" >TECHNICAL SUPPORT</a>
+</td> 
+<td> 
+<a id="menu127" href="/index.php/about-us" >ABOUT US</a>
+</td> 
+<td class="last"> 
+<a id="menu128" href="/index.php/contact-us" >CONTACT US</a>
+</td> 
+</tr> 
+</table></td></tr></table><hr style="display:block;clear:left;margin:-0.66em 0;visibility:hidden;" />  
+<div id="subwrap"> 
+<script type="text/javascript">
+<!--
+if (TransMenu.isSupported()) {
+var ms = new TransMenuSet(TransMenu.direction.down, 0,0, TransMenu.reference.bottomLeft);
+var menu125 = ms.addMenu(document.getElementById("menu125"));
+ menu125.addItem("Printers", "/index.php/products/printers", "0");
+var menu134 = menu125.addMenu(menu125.items[0],0,0);
+menu134.addItem("Industrial Printers", "/index.php/products/printers/industrial-printers", "0");
+menu134.addItem("Desktop Printers", "/index.php/products/printers/desktop-printers", "0");
+menu134.addItem("Blister Card Printers", "/index.php/products/printers/blister-card-printers", "0");
+menu125.addItem("Software", "/index.php/products/software", "0");
+menu125.addItem("Labels", "/index.php/products/labels", "0");
+menu125.addItem("Ribbons", "/index.php/products/ribbons", "0");
+menu125.addItem("Browse by Brand", "/index.php/products/browse-by-brand", "0");
+function init() {
+if (TransMenu.isSupported()) {
+TransMenu.initialize();
+document.getElementById("menu101").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu101").onmouseout = function() { this.className = ""; }
+menu125.onactivate = function() {document.getElementById("menu125").className = "hover"; };
+ menu125.ondeactivate = function() {document.getElementById("menu125").className = ""; };
+ document.getElementById("menu126").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu126").onmouseout = function() { this.className = ""; }
+document.getElementById("menu127").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu127").onmouseout = function() { this.className = ""; }
+document.getElementById("menu128").onmouseover = function() {
+ms.hideCurrent();
+this.className = "hover";
+}
+document.getElementById("menu128").onmouseout = function() { this.className = ""; }
+}}
+TransMenu.dingbatSize = 0;
+TransMenu.spacerGif = "";
+TransMenu.dingbatOn = "";
+TransMenu.dingbatOff = ""; 
+TransMenu.sub_indicator = false;
+TransMenu.menuPadding = 0;
+TransMenu.itemPadding = 0;
+TransMenu.shadowSize = 2;
+TransMenu.shadowOffset = 3;
+TransMenu.shadowColor = "#888";
+TransMenu.shadowPng = "http://www.thermoprint.com.au/modules/mod_swmenufree/images/transmenu/grey-40.png";
+TransMenu.backgroundColor = "#ED1C24";
+TransMenu.backgroundPng = "http://www.thermoprint.com.au/modules/mod_swmenufree/images/transmenu/white-90.png";
+TransMenu.hideDelay = 316;
+TransMenu.slideTime = 158;
+TransMenu.selecthack = 0;
+TransMenu.autoposition = 0;
+TransMenu.fontFace = "";
+TransMenu.fontColor = "#FFFFFF";
+TransMenu.renderAll();
+if ( typeof window.addEventListener != "undefined" )
+window.addEventListener( "load", init, false );
+else if ( typeof window.attachEvent != "undefined" ) {
+window.attachEvent( "onload", init);
+}else{
+if ( window.onload != null ) {
+var oldOnload = window.onload;
+window.onload = function ( e ) {
+oldOnload( e );
+init();
+}
+}else
+window.onload = init();
+}
+}
+
+//--> 
+</script></div>  
+
+<!--End swMenuFree menu module-->
+		</div>
+	</td>
+					<td width="12"><img border="0" src="/images/prawy.gif" width="12" height="40"></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<img border="0" src="/images/sp.gif" width="1" height="4" alt="Thermo-Print, product identification systems, thermal transfer barcode printers, barcode printers consumables, barcode printers labels, barcode printers ribbons, barcode printers technical support, Melbourne, Victoria, Australia"></td>
+		</tr>
+		<tr>
+			<td>		<div class="moduletable">
+					
+	<div id="djslider-loader100" class="djslider-loader">
+    <div id="djslider100" class="djslider">
+        <div id="slider-container100" class="slider-container">
+        	<ul id="slider100">
+          		          			<li>
+            										<img src="/images/slides/banner2.jpg" alt="banner2" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/slides/banner1.JPG" alt="b1" />
+												
+												
+						
+					</li>
+                        	</ul>
+        </div>
+                <div id="navigation100" class="navigation-container">
+        	        	<img id="prev100" class="prev-button" src="http://www.thermoprint.com.au//modules/mod_djimageslider/assets/prev.png" alt="Previous" />
+			<img id="next100" class="next-button" src="http://www.thermoprint.com.au//modules/mod_djimageslider/assets/next.png" alt="Next" />
+									<img id="play100" class="play-button" src="http://www.thermoprint.com.au//modules/mod_djimageslider/assets/play.png" alt="Play" />
+			<img id="pause100" class="pause-button" src="http://www.thermoprint.com.au//modules/mod_djimageslider/assets/pause.png" alt="Pause" />
+			        </div>
+                    </div>
+	</div>
+	
+	<div style="clear: both"></div>		</div>
+			<div class="moduletable">
+					<div id="blank1BM" ><div align="center"><table border="0" cellpadding="0" cellspacing="15">
+						<tr>
+							<td align="center">
+							<a class="mov" href="/index.php/products/printers">
+							<img src="/images/c1.jpg" width="220" height="165"><br>
+							Barcode Label Printers</a></td>
+							<td align="center">
+							<a class="mov" href="/index.php/products/software">
+							<img src="/images/c2a.jpg" width="220" height="165"><br>
+							Barcode Label Software</a></td>
+<td>&nbsp;</td>						<td align="center">
+							<a class="mov" href="/index.php/products/labels">
+							<img src="/images/c3a.jpg" width="220" height="165"><br>
+							Barcode Labels</a></td>
+							<td align="center">
+							<a class="mov" href="/index.php/products/ribbons">
+							<img src="/images/c4.jpg" width="220" height="165"><br>
+							Ribbons</a></td>
+						</tr>
+					</table></div></div>
+
+		</div>
+	</td>
+		</tr>
+		<tr>
+			<td align="left">
+<div id="system-message-container">
+</div>
+                        <div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+
+
+
+
+
+
+
+<h1>Thermal Transfer Label Printers, Barcode Labels &amp; Accessories</h1>
+<p>Thermo-Print is a product identification systems company specialising in the supply of thermal transfer barcode printers and their related consumables, including blank labels and ribbons, along with dependable, proficient technical support. We are based in Melbourne and service our valued clients across metropolitan Melbourne and country Victoria, while our products are shipped Australia-wide.</p>
+<p>Why Thermo-Print?</p>
+<ul>
+<li><strong>Sales</strong> - we have the best range of barcode printers in stock</li>
+<li><strong>Service</strong> - we will deliver and install the barcode printer on time every time</li>
+<li><strong>Support</strong> - we will support and help you and your staff with any problems you may have.</li>
+</ul>
+<p>Would you like to know more? Please <a href="/index.php/products"> browse our online shop</a>, or <a href="/index.php/contact-us">contact us</a> for more information.</p>
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+
+
+</div>
+<br></td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td width="12"><img border="0" src="/images/lewy.gif" width="12" height="40"></td>
+					<td style="FONT-SIZE: 7pt; color:#FFFFFF; TEXT-ALIGN: center" bgcolor="#ed1c24">
+			&copy; <a class="st" href="http://www.thermoprint.com.au/">Thermo-Print Pty Ltd</a> 2012&nbsp;&nbsp; |&nbsp;&nbsp;
+			<a title="Website Design by Low Cost Website Design Web Page Design Melbourne Dandenong Berwick Hallam Pakenham" target="_blank" class="st" href="http://www.webdesigndandenong.com.au">Website Design by Best Web Design Dandenong</a>
+			&nbsp;&nbsp; |&nbsp;&nbsp;
+			<a class="st" href="/index.php/terms">Terms & Conditions</a>
+			&nbsp;&nbsp; |&nbsp;&nbsp;
+			<a target="_blank" class="st" href="/administrator">Admin</a></td>
+					<td width="12"><img border="0" src="/images/prawy.gif" width="12" height="40"></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+</body>
+</html>

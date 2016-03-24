@@ -1,0 +1,340 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Allwelt International Secure Payment</title>
+</head>
+
+<body style="font-family: Verdana">
+<div align="center">
+<table border="0" bgcolor="#ddf0f4" cellspacing="5" width="463" id="table10" style="font-size: 10pt">
+<tr>
+	<td colspan="2">
+	<p align="center" style="margin-top: 5px; margin-bottom: 15px">
+	<span style="font-weight: 700; font-size: 13pt">You are paying Allwelt 
+	International<br>
+	</span><span style="font-weight: 700">ABN 75 362 304 306</span><p align="center" style="margin-top: 5px; margin-bottom: 15px">
+	<span style="font-size: 15pt; font-weight: 700">2 EASY WAYS TO PAY:</span><ol>
+		<li>
+		<p align="left" style="margin-top: 5px; margin-bottom: 15px">
+		<span style="font-weight: 700">Pay by direct debit - please use your 
+		online banking facility to deposit the funds directly to:</span></li>
+	</ol>
+	<p align="left" style="margin-top: 5px; margin-bottom: 15px; margin-left:80px">
+	Commonwealth Bank of Australia<br>
+	Allwelt International<br>
+	063610 10353532</p>
+	<ol start="2">
+		<li>
+		<p align="left" style="margin-top: 5px; margin-bottom: 15px">
+		<span style="font-weight: 700">Pay by credit card - use the form below 
+		(this is a secure site, you can see a padlock in your browser):</span></li>
+	</ol>
+	</td>
+</tr>
+	<!--webbot BOT="GeneratedScript" PREVIEW=" " startspan --><script Language="JavaScript" Type="text/javascript"><!--
+function FrontPage_Form1_Validator(theForm)
+{
+
+  if (theForm.name.value == "")
+  {
+    alert("Please enter a value for the \"Name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  if (theForm.name.value.length < 2)
+  {
+    alert("Please enter at least 2 characters in the \"Name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ \t\r\n\f";
+  var checkStr = theForm.name.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter and whitespace characters in the \"Name\" field.");
+    theForm.name.focus();
+    return (false);
+  }
+
+  if (theForm.email.value == "")
+  {
+    alert("Please enter a value for the \"Email Address\" field.");
+    theForm.email.focus();
+    return (false);
+  }
+
+  if (theForm.email.value.length < 5)
+  {
+    alert("Please enter at least 5 characters in the \"Email Address\" field.");
+    theForm.email.focus();
+    return (false);
+  }
+
+  var checkOK = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzƒŠŒŽšœžŸÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ0123456789-@.-_";
+  var checkStr = theForm.email.value;
+  var allValid = true;
+  var validGroups = true;
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+  }
+  if (!allValid)
+  {
+    alert("Please enter only letter, digit and \"@.-_\" characters in the \"Email Address\" field.");
+    theForm.email.focus();
+    return (false);
+  }
+
+  if (theForm.amount.value == "")
+  {
+    alert("Please enter a value for the \"amount\" field.");
+    theForm.amount.focus();
+    return (false);
+  }
+
+  if (theForm.amount.value.length < 2)
+  {
+    alert("Please enter at least 2 characters in the \"amount\" field.");
+    theForm.amount.focus();
+    return (false);
+  }
+
+  var checkOK = "0123456789-.,";
+  var checkStr = theForm.amount.value;
+  var allValid = true;
+  var validGroups = true;
+  var decPoints = 0;
+  var allNum = "";
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+    if (ch == ".")
+    {
+      allNum += ".";
+      decPoints++;
+    }
+    else if (ch == "," && decPoints != 0)
+    {
+      validGroups = false;
+      break;
+    }
+    else if (ch != ",")
+      allNum += ch;
+  }
+  if (!allValid)
+  {
+    alert("Please enter only digit characters in the \"amount\" field.");
+    theForm.amount.focus();
+    return (false);
+  }
+
+  if (decPoints > 1 || !validGroups)
+  {
+    alert("Please enter a valid number in the \"amount\" field.");
+    theForm.amount.focus();
+    return (false);
+  }
+
+  if (theForm.creditcard.selectedIndex < 0)
+  {
+    alert("Please select one of the \"Credit Card\" options.");
+    theForm.creditcard.focus();
+    return (false);
+  }
+
+  if (theForm.creditcard.selectedIndex == 0)
+  {
+    alert("The first \"Credit Card\" option is not a valid selection.  Please choose one of the other options.");
+    theForm.creditcard.focus();
+    return (false);
+  }
+
+  if (theForm.nameoncard.value == "")
+  {
+    alert("Please enter a value for the \"Name on Credit Card\" field.");
+    theForm.nameoncard.focus();
+    return (false);
+  }
+
+  if (theForm.nameoncard.value.length < 4)
+  {
+    alert("Please enter at least 4 characters in the \"Name on Credit Card\" field.");
+    theForm.nameoncard.focus();
+    return (false);
+  }
+
+  if (theForm.cardnumber.value == "")
+  {
+    alert("Please enter a value for the \"Credit Card Number\" field.");
+    theForm.cardnumber.focus();
+    return (false);
+  }
+
+  if (theForm.cardnumber.value.length < 16)
+  {
+    alert("Please enter at least 16 characters in the \"Credit Card Number\" field.");
+    theForm.cardnumber.focus();
+    return (false);
+  }
+
+  var checkOK = "0123456789-. ";
+  var checkStr = theForm.cardnumber.value;
+  var allValid = true;
+  var validGroups = true;
+  var decPoints = 0;
+  var allNum = "";
+  for (i = 0;  i < checkStr.length;  i++)
+  {
+    ch = checkStr.charAt(i);
+    for (j = 0;  j < checkOK.length;  j++)
+      if (ch == checkOK.charAt(j))
+        break;
+    if (j == checkOK.length)
+    {
+      allValid = false;
+      break;
+    }
+    if (ch == ".")
+    {
+      allNum += ".";
+      decPoints++;
+    }
+    else if (ch == " " && decPoints != 0)
+    {
+      validGroups = false;
+      break;
+    }
+    else if (ch != " ")
+      allNum += ch;
+  }
+  if (!allValid)
+  {
+    alert("Please enter only digit characters in the \"Credit Card Number\" field.");
+    theForm.cardnumber.focus();
+    return (false);
+  }
+
+  if (decPoints > 1 || !validGroups)
+  {
+    alert("Please enter a valid number in the \"cardnumber\" field.");
+    theForm.cardnumber.focus();
+    return (false);
+  }
+
+  if (theForm.expiry.value == "")
+  {
+    alert("Please enter a value for the \"Credit Card Expiry Date\" field.");
+    theForm.expiry.focus();
+    return (false);
+  }
+
+  if (theForm.expiry.value.length < 4)
+  {
+    alert("Please enter at least 4 characters in the \"Credit Card Expiry Date\" field.");
+    theForm.expiry.focus();
+    return (false);
+  }
+  return (true);
+}
+//--></script><!--webbot BOT="GeneratedScript" endspan --><form action="thanks.php" method="post" onsubmit="return FrontPage_Form1_Validator(this)" language="JavaScript" name="FrontPage_Form1">
+<tr><td width="176"><span style="font-size: 9pt">Name *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-display-name="Name" s-data-type="String" b-allow-letters="TRUE" b-allow-whitespace="TRUE" b-value-required="TRUE" i-minimum-length="2" --><input type="text" size="30" name='name'></span></td></tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Email address *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-display-name="Email Address" s-data-type="String" b-allow-letters="TRUE" b-allow-digits="TRUE" s-allow-other-chars="@.-_" b-value-required="TRUE" i-minimum-length="5" --><input type="text" size="30" name='email'></span></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Invoice No *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<input type="text" size="30" name="invoice"></span></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Amount $ *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-data-type="Number" s-number-separators=",." b-value-required="TRUE" i-minimum-length="2" --><input type="text" size="30" name="amount"></span></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Email receipt required?</span></td>
+	<td width="268">
+	<select size="1" name="receipt">
+	<option selected>No</option>
+	<option>Yes</option>
+	</select></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Credit Card *</span></td>
+	<td width="268">
+	<!--webbot bot="Validation" s-display-name="Credit Card" b-value-required="TRUE" b-disallow-first-item="TRUE" --><select size="1" name="creditcard">
+	<option selected>Please select</option>
+	<option>Visa</option>
+	<option>Mastercard</option>
+	</select></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Name on Card *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-display-name="Name on Credit Card" b-value-required="TRUE" i-minimum-length="4" --><input type="text" size="30" name='nameoncard'></span></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Card Number *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-display-name="Credit Card Number" s-data-type="Number" s-number-separators=" ." b-value-required="TRUE" i-minimum-length="16" --><input type="text" size="30" name='cardnumber'></span></td>
+</tr>
+<tr>
+	<td width="176"><span style="font-size: 9pt">Expiry Date *</span></td>
+	<td width="268">
+	<span style="font-size: 9pt">
+	<!--webbot bot="Validation" s-display-name="Credit Card Expiry Date" b-value-required="TRUE" i-minimum-length="4" --><input type="text" size="30" name='expiry'></span></td>
+</tr>
+<tr><td valign="top" width="176"><span style="font-size: 9pt">Comments</span></td>
+	<td width="268">
+	<span style="font-size: 9pt"><textarea name="comments" rows="6" cols="30"></textarea></span></td></tr>
+<tr><td width="176">&nbsp;</td><td width="268"><span style="font-size: 9pt"><input type="submit" value="Send">&nbsp;
+	<input type="reset" value="Reset" name="B1"></span></td></tr>
+</table>
+</div>
+</form>	
+</body>
+
+</html>
