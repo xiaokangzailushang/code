@@ -36,7 +36,10 @@ class ThreedegreespiderSpider(scrapy.Spider):
     def parse_2nd_degree_space(self,response):
 	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
-	    f.write(response.body)
+            f.write(response.body)
+	    #texts = response.xpath('//*/text()')
+            #for text in texts:
+            #    f.write(text.extract())
 	f.close()
 	links = response.xpath('//*[@href]/@href')
 	for link in links.extract():
@@ -50,6 +53,9 @@ class ThreedegreespiderSpider(scrapy.Spider):
 	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
 	    f.write(response.body)
+	    #texts = response.xpath('//*/text()')
+            #for text in texts:
+            #    f.write(text.extract())
 	f.close()
 	links = response.xpath('//*[@href]/@href')
 	for link in links.extract():
@@ -62,6 +68,9 @@ class ThreedegreespiderSpider(scrapy.Spider):
 	fn = "./page_save/" + self.pattern.sub('_',response.url)
 	with open(fn,'w') as f:
 	    f.write(response.body)
+	    #texts = response.xpath('//*/text()')
+            #for text in texts:
+            #    f.write(text.extract())
 	f.close()
 
     def closed(self,reason):
