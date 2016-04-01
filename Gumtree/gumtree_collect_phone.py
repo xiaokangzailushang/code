@@ -2,11 +2,15 @@
 from selenium import webdriver
 
 import time
-
+import pickle
 def login_gumtree():
+	cookies = pickle.load(open('gumtree_cookie.pkl','rb')) 
 	try:
 		browser = webdriver.Firefox()
+		#browser = webdriver.Firefox('/home/jun/git/code/Gumtree/firefox/cookie.sqlite-wal')
 		browser.get('http://www.gumtree.com.au/')
+		for cookie in cookies:
+			browser.add_cookie(cookie)
 		sign_in = browser.find_element_by_xpath('//a[@class="sign-in"]')
 		sign_in.click()
 		time.sleep(1)
