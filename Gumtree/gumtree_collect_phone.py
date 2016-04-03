@@ -37,14 +37,14 @@ def collect_number_from_single_page(browser):
 	else:
 		for num in range(0,len(links)):
 			links[num].click()
-			time.sleep(10)
+			time.sleep(20)
 			try:	
 				show_number=browser.find_element_by_xpath('//span[@data-target=".ad-phone"]')
 			except Exception,e:
 				print "show_number caused exception.%s"%browser.current_url
 			else:
 				show_number.click()
-				time.sleep(5)
+				time.sleep(10)
 				number=browser.find_element_by_xpath('//span[@class="ad-phone c-pull-left c-icon-phone"]')
 				print number.text
 			finally:
