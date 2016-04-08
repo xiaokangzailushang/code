@@ -80,13 +80,9 @@ def search_keyword(driver,keyword):
 	inputElement.submit()
 	time.sleep(dT)
 
-
-if __name__ == '__main__':
+def google_link(keyword):
 	try:
-		#keyword = u'日本 药妆'
-		#keyword = 'xianjunzheng anu china'
-    		keyword = raw_input("Please input the keyword:")
-    		print "Keyword:%s searching ......\n"%keyword
+		
 		outputLinks = []
 		driver = webdriver.Firefox()
 		search_keyword(driver,keyword)
@@ -110,3 +106,9 @@ if __name__ == '__main__':
 				f.write(item)
 				f.write('\n')
 
+if __name__ == '__main__':
+	#keyword = u'日本 药妆'
+	#keyword = 'xianjunzheng anu china'
+    	keyword = raw_input("Please input the keyword:")
+    	print "Keyword:%s searching ......\n"%keyword
+    	google_link(keyword)
