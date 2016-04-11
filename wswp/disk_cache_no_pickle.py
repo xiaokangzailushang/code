@@ -53,18 +53,19 @@ class DiskCache:
         """
         path = self.url_to_path(url)
         if os.path.exists(path):
-            #with open(path, 'rb') as fp:
-	    [data,timestamp]=json.load(file(path))
+            #extract info from file, and convert timestamp from string into utcnow format
+	    #[data,timestamp]=json.load(file(path))
+	    #with encoding='gbk' can solve most of chinese website problems
+	    try:
+	        json_dict=json.load(file(path))[0]
+	    except:
+	        json_dict=json.load(file(path),encoding='gbk')[0]
+
+	    data = json_dict['data']
+	    timestamp = json_dict['timestamp']
 	    timestamp = datetime.strptime(timestamp,'%Y-%m-%d %H:%M:%S.%f')
-                #lines = fp.readlines()
-		#timestamp = lines[0].strip('\n')
-		#recover the timestamp, the timestamp in the file is in string format
-		#here change into timedate object
-		#timestamp = datetime.strptime(timestamp,'%Y-%m-%d %H:%M:%S.%f')
-		#result = lines[1:]
-		#result = ''.join(result)
 	    result = data
-            #result, timestamp = pickle.loads(data)
+            
             if self.has_expired(timestamp):
                 raise KeyError(url + ' has expired')
             return result
@@ -81,10 +82,12 @@ class DiskCache:
         if not os.path.exists(folder):
             os.makedirs(folder)
 
-        #data = pickle.dumps((result, datetime.utcnow()))
+        #using json to store data into file. Add utcnow to the data to judge the file is expired
+	#json can only take string as input, that is why convert utcnow into string
         data=result
-	data = [data,str(datetime.utcnow())]
-        json.dump(data,file(path,'w'))
+	data = [{'data':data,'timestamp':str(datetime.utcnow())}]
+	#data = [data,str(datetime.utcnow())]
+        json.dump(data,file(path,'w'),ensure_ascii=False)
 
 
     def __delitem__(self, url):
