@@ -37,15 +37,17 @@ class DiskCache:
 	by narmal editor. That is the main reason to create this none-pickle version cache.
 	edit by jun on 08/04/2016.
     """
-    def __init__(self, cache_dir='cache', expires=timedelta(days=30), compress=False):
+    def __init__(self, cache_dir='cache', expires=timedelta(days=30), compress=False, check=True):
         """
         cache_dir: the root level folder for the cache
         expires: timedelta of amount of time before a cache entry is considered expired
         compress: whether to compress data in the cache
+	check: whether need to check expired date
         """
         self.cache_dir = cache_dir
         self.expires = expires
         self.compress = compress
+	self.check = check
 
     
     def __getitem__(self, url):
@@ -66,7 +68,7 @@ class DiskCache:
 	    timestamp = datetime.strptime(timestamp,'%Y-%m-%d %H:%M:%S.%f')
 	    result = data
             
-            if self.has_expired(timestamp):
+            if self.has_expired(timestamp) and self.check:
                 raise KeyError(url + ' has expired')
             return result
         else:
@@ -87,8 +89,8 @@ class DiskCache:
         data=result
 	data = [{'data':data,'timestamp':str(datetime.utcnow())}]
 	#data = [data,str(datetime.utcnow())]
-        json.dump(data,file(path,'w'),ensure_ascii=False)
-
+        #json.dump(data,file(path,'w'),ensure_ascii=False)
+	json.dump(data,file(path,'w'),ensure_ascii=True)
 
     def __delitem__(self, url):
         """Remove the value at this key and any empty parent sub-directories

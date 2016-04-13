@@ -23,3 +23,9 @@ links[0].click()
 time.sleep(10)
 show_number=browser.find_element_by_xpath('//span[@data-target=".ad-phone"]')
 show_number.click()
+
+import selenium.webdriver.support.ui as ui
+wait=ui.WebDriverWait(browser,10)
+xxx.click()
+wait.until(lambda browser:browser.title.lower().startswith('washing machine general'))
+print "it is good"
