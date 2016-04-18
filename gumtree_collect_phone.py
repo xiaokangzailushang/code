@@ -104,11 +104,14 @@ if __name__=='__main__':
 		time.sleep(10)
 		#collect_number_from_single_page(browser=browser,cache=cache)
 		while go_to_next_link(browser):
+			time.sleep(10)
 			browser.find_element_by_xpath('//body').send_keys(Keys.CONTROL+Keys.TAB)
 			browser.find_element_by_xpath('//body').send_keys(Keys.CONTROL+Keys.TAB)
 			close_current_tab(browser)
 			time.sleep(10)
 			collect_number_from_single_page(browser=browser,cache=cache)
+			close_current_tab(browser)
+			time.sleep(10)
 		browser.close()
 	
 	
