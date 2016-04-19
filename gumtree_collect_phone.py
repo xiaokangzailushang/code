@@ -2,6 +2,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import wswp.disk_cache_no_pickle as disk_cache
 
 import time
@@ -57,6 +59,7 @@ def collect_number_from_single_page(browser,cache):
 	
 	current_url = browser.current_url
 	links = browser.find_elements_by_xpath('//span[@itemprop="name"]')
+	trys = 3
 	if not links:
 		print browser.current_url,"------ can't find span[@itemprop=name]"
 		return 0
@@ -72,7 +75,12 @@ def collect_number_from_single_page(browser,cache):
 				show_number.click()
 				time.sleep(10)
 				number=browser.find_element_by_xpath('//span[@class="ad-phone c-pull-left c-icon-phone"]')
+				while '*' in number.text and trys != 0:
+					time.sleep(10)
+					number=browser.find_element_by_xpath('//span[@class="ad-phone c-pull-left c-icon-phone"]')
+					trys = trys - 1
 				print number.text
+				trys = 3
 				cache[browser.current_url]=browser.page_source
 			finally:
 				browser.get(current_url)
@@ -97,6 +105,7 @@ def go_to_next_link(browser):
 if __name__=='__main__':
 	link = raw_input("Please input the address:")
 	browser = login_gumtree()
+	#browser.implicitly_wait(30)
 	cache = disk_cache.DiskCache(check=False)
 	if browser != 0 :
 		#open_new_tab_by_click(browser=browser,element=home_garden)
