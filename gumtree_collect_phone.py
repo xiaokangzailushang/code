@@ -8,7 +8,10 @@ import wswp.disk_cache_no_pickle as disk_cache
 
 import time
 import pickle
+import os
+import random
 
+d_T = 10
 
 def open_new_tab_by_click(browser,element):
 	"""
@@ -32,13 +35,12 @@ def open_new_tab(browser,link):
 	browser.get(link)
 
 def login_gumtree():
-	cookies = pickle.load(open('gumtree_cookie.pkl','rb')) 
 	try:
-		browser = webdriver.Firefox()
+		fp=webdriver.FirefoxProfile(os.environ['HOME']+'/.mozilla/firefox/pow2rtqi.default')
+		browser = webdriver.Firefox(fp)
 		#browser = webdriver.Firefox('/home/jun/git/code/Gumtree/firefox/cookie.sqlite-wal')
 		browser.get('http://www.gumtree.com.au/')
-		for cookie in cookies:
-			browser.add_cookie(cookie)
+		"""
 		sign_in = browser.find_element_by_xpath('//a[@class="sign-in"]')
 		sign_in.click()
 		time.sleep(1)
@@ -49,6 +51,7 @@ def login_gumtree():
 		time.sleep(5)
 		login_password.submit()
 		print "login success!"
+		"""
 		return browser
 	except:	
 		browser.quit()
@@ -66,17 +69,18 @@ def collect_number_from_single_page(browser,cache):
 	else:
 		for num in range(0,len(links)):
 			links[num].click()
-			time.sleep(20)
+			time.sleep(2*d_T+random.randint(0,3*d_T))
 			try:	
 				show_number=browser.find_element_by_xpath('//span[@data-target=".ad-phone"]')
 			except Exception,e:
 				print "show_number caused exception.%s"%browser.current_url
 			else:
+				time.sleep(d_T+random.randint(0,6*d_T))
 				show_number.click()
-				time.sleep(10)
+				time.sleep(d_T+random.randint(0,2*d_T))
 				number=browser.find_element_by_xpath('//span[@class="ad-phone c-pull-left c-icon-phone"]')
 				while '*' in number.text and trys != 0:
-					time.sleep(10)
+					time.sleep(d_T)
 					number=browser.find_element_by_xpath('//span[@class="ad-phone c-pull-left c-icon-phone"]')
 					trys = trys - 1
 				print number.text
@@ -84,7 +88,7 @@ def collect_number_from_single_page(browser,cache):
 				cache[browser.current_url]=browser.page_source
 			finally:
 				browser.get(current_url)
-				time.sleep(10)
+				time.sleep(d_T)
 				links = browser.find_elements_by_xpath('//span[@itemprop="name"]')
 		return 1
 
@@ -98,7 +102,6 @@ def go_to_next_link(browser):
 		return 0
 	else:
 		open_new_tab_by_click(browser=browser,element=next_tag)
-		#browser.find_element_by_xpath('//body').send_keys(Keys.CONTROL+Keys.TAB)
 		return 1
 
 
@@ -110,17 +113,16 @@ if __name__=='__main__':
 	if browser != 0 :
 		#open_new_tab_by_click(browser=browser,element=home_garden)
 		open_new_tab(browser,link)
-		time.sleep(10)
+		time.sleep(d_T+random.randint(0,3*d_T))
 		#collect_number_from_single_page(browser=browser,cache=cache)
 		while go_to_next_link(browser):
-			time.sleep(10)
+			time.sleep(d_T+random.randint(0,3*d_T))
 			browser.find_element_by_xpath('//body').send_keys(Keys.CONTROL+Keys.TAB)
 			browser.find_element_by_xpath('//body').send_keys(Keys.CONTROL+Keys.TAB)
 			close_current_tab(browser)
-			time.sleep(10)
+			time.sleep(d_T+random.randint(0,3*d_T))
 			collect_number_from_single_page(browser=browser,cache=cache)
-			close_current_tab(browser)
-			time.sleep(10)
+			time.sleep(d_T+random.randint(0,3*d_T))
 		browser.close()
 	
 	

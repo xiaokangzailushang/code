@@ -4,13 +4,11 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pickle
+import os
 
-cookies = pickle.load(open('newCookie.pkl','rb'))
-browser = webdriver.Firefox()
+fp=webdriver.FirefoxProfile(os.environ['HOME']+'/.mozilla/firefox/pow2rtqi.default')
+browser = webdriver.Firefox(fp)
 browser.get('http://www.gumtree.com.au/')
-for cookie in cookies:
-	if cookie['domain']=='.gumtree.com.au':
-		browser.add_cookie(cookie)
 	
 sign_in = browser.find_element_by_xpath('//a[@class="sign-in"]')
 sign_in.click()
