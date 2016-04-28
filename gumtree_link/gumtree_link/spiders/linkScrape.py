@@ -14,9 +14,6 @@ class LinkscrapeSpider(scrapy.Spider):
     def parse(self,response):
 	selectors = response.xpath('//h6[@class="rs-ad-title"]')
 	self.parse_name_link(selectors)
-	#links = response.xpath('//h6[@class="rs-ad-title"]/a/@href').extract()
-	#for link in links:
-	#    print(urlparse.urljoin('http://www.gumtree.com.au/',link))
 	
 	next_page = response.xpath('//a[@class="rs-paginator-btn next"]/@href').extract()
 	next_page = next_page[0]
