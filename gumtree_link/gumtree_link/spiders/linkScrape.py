@@ -20,18 +20,38 @@ class LinkscrapeSpider(scrapy.Spider):
 	self.db = self.client.gumtree
 	
     def collect_info(self,selector):
-	title = selector.cssselect('h6[class=rs-ad-title]')[0].text_content().strip('\n\r\t').strip()
-	price = selector.cssselect('span[class=j-original-price]')[0].text_content().strip('\n\r\t').strip()
-	location = selector.cssselect('div[class="rs-ad-field rs-ad-location"]')[0].text_content().strip('\n\r\t').replace('  ','')
-	description = selector.cssselect('p[class="rs-ad-description c-word-wrap"]')[0].text_content().strip('\n\r\t').strip()
-	date = selector.cssselect('div[class=rs-ad-date]')[0].text_content().strip('\n\r\t').strip()
-	link = selector.cssselect('a[itemprop=url]')[0].get('href')
-	link = 'http://www.gumtree.com.au/'+link
+	try:
+	    title = selector.cssselect('h6[class=rs-ad-title]')[0].text_content().strip('\n\r\t').strip()
+	except Exception,e:
+	    title = ''
+	try:
+	    price = selector.cssselect('span[class=j-original-price]')[0].text_content().strip('\n\r\t').strip()
+	except Exception,e:
+	    price = ''
+	try:
+	    location = selector.cssselect('div[class="rs-ad-field rs-ad-location"]')[0].text_content().strip('\n\r\t').replace('  ','')
+	except Exception,e:
+	    location = ''
+	try:
+	    description = selector.cssselect('p[class="rs-ad-description c-word-wrap"]')[0].text_content().strip('\n\r\t').strip()
+	except Exception,e:
+	    description = ''
+	try:
+	    date = selector.cssselect('div[class=rs-ad-date]')[0].text_content().strip('\n\r\t').strip()
+	except Exception,e:
+	    date = ''
+	try:
+	    link = selector.cssselect('a[itemprop=url]')[0].get('href')
+	    link = 'http://www.gumtree.com.au'+link
+	except Exception,e:
+	    link = ''
 	name = ''
 	mobile = ''
 	fetch = 0
 	myid = self.db.gumtree_link.count()
+	
 	item = dict(Title=title,Price=price,Location=location,Name=name,Mobile=mobile,Description=description,TimeStamp=date,Link=link,Fetch=fetch,Id=myid)
+	#print item
 	self.db.gumtree_link.insert(item)
 
 
