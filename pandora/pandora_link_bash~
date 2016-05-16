@@ -34,10 +34,4 @@ def get_chinese_url(info_dict):
 	url = pre + info_dict['category']+'/'+info_dict['name']
 	return url
 
-import os
-def change_filename(path,appendix):
-	filenames=os.listdir(path)
-	for fn in filenames:
-		os.rename(path+fs,path+fs+appendix)
-
 
