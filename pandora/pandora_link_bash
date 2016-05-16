@@ -1,0 +1,37 @@
+from selenium import webdriver
+
+browser = webdriver.Firefox()
+browser.get('http://estore-au.pandora.net/charms/')
+links = browser.find_elements_by_xpath('//a[@class="thumb-link"]')
+for link in links:
+	fb.write(link.get_attribute('href'))
+
+def parse_url(url):
+	info = {}
+	tmp = url.split('/')
+	info['category']=tmp[3]
+	if info['category']== 'necklaces':
+		info['category']='necklaces-and-pendants'
+	tmp = tmp[-1]
+	pattern = re.compile(r'[^/]+\.html')
+	result = pattern.search(url)
+	filename = ''
+	if result:
+		filename = result.group()[0:-5]
+	info['name']=filename	
+	return info
+
+import subprocess
+def ping_url(url):
+	try:
+		output=subprocess.check_output('ping -c 1 "+url,shell=True)
+	except Exception,e:
+		return False
+	return True
+
+def get_chinese_url(info_dict):
+	pre = 'http://www.pandora.net/zh-cn/explore/products/'
+	url = pre + info_dict['category']+'/'+info_dict['name']
+	return url
+
+
