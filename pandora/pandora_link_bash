@@ -40,4 +40,12 @@ def change_filename(path,appendix):
 	for fn in filenames:
 		os.rename(path+fs,path+fs+appendix)
 
+def find_chinese_link(keyword):
+	pattern=re.compile(keyword)
+	for line in lines:
+		result=pattern.search(line)
+		if result:
+			return line.strip('\n')
+
+
 
