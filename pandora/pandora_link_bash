@@ -47,5 +47,24 @@ def find_chinese_link(keyword):
 		if result:
 			return line.strip('\n')
 
+def find_price(keyword):
+	for price in pricelist:
+		result=price.find(keyword)
+		if result!=-1 and price[result:]==keyword+'\n':
+			return price[:result-1]
+	return ''
+
+pattern=re.compile(r'[^_]+')
+filenames=os.listdir('/home/jun/git/code/pandora/pandora/pic')
+>>> fb=open('/home/jun/git/code/pandora/price_chinese.txt','rb')
+>>> pricelist=fb.readlines()
+>>> for filename in filenames:
+...     result=pattern.search(filename.lower())
+...     if result:
+...             price=find_price(result.group())
+...             if price != '':
+...                     os.rename(filename,filename+'_'+price)
+... 
+>>> 
 
 
