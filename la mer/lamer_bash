@@ -1,0 +1,20 @@
+user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
+headers={'User-Agent':user_agent,} 
+>>> def save_jpg(url,filename):res = urllib2.Request(url,headers=headers);res=urllib2.urlopen(res);tmp = open(filename,'wb');tmp.write(res.read());tmp.close()
+
+>>> for i in range(39):
+...     url=urls[i];name=names[i];
+...     save_jpg(url,name)
+
+
+>>> lis=response.xpath('//li[contains(@class,"thumb")]')
+>>> len(lis)
+
+>>> result=lis[0].xpath('//img[@class="border"]/@src').extract()
+>>> img_urls=[]
+>>> for r in result:img_urls.append('http://www.cremedelamer.com.au'+r)
+... 
+>>> names=lis[0].xpath('//img[@class="border"]/@alt').extract()
+>>> len(names)
+39
+

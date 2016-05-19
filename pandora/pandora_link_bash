@@ -67,4 +67,18 @@ filenames=os.listdir('/home/jun/git/code/pandora/pandora/pic')
 ... 
 >>> 
 
+>>> import os
+>>> import re
+>>> pattern=re.compile(r'\$\d+')
+>>> filenames=os.listdir('/home/jun/Desktop/pandora_pic')
+>>> for filename in filenames:
+...     price=pattern.search(filename)
+...     if price:
+...             price=price.group()
+...             price=price[1:]
+...             price=int(price)
+...             price=int(price*5.5*1.18)
+...             newFilename=filename.replace('.jpg','_'+str(price)+'.jpg')
+...             os.rename(filename,newFilename)
+
 
