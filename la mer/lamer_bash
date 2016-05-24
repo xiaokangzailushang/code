@@ -18,3 +18,52 @@ headers={'User-Agent':user_agent,}
 >>> len(names)
 39
 
+
+
+from PySide.QtGui import *
+from PySide.QtCore import *
+from PySide.QtWebKit import *
+import lxml.html
+
+url='http://www.cremedelamer.com.au/products/9924/Shop'
+app=QApplication([])
+webview=QWebView()
+loop=QEventLoop()
+webview.loadFinished.connect(loop.quit)
+True
+webview.load(QUrl(url))
+loop.exec_()
+html=webview.page().mainFrame().toHtml()
+tree=lxml.html.fromstring(html)
+result=tree.cssselect('span[id=price-span]')
+
+from lxml import etree
+url='http://www.lamer.com.cn/products/9924'
+app=QApplication([])
+webview=QWebView()
+loop=QEventLoop()
+webview.loadFinished.connect(loop.quit)
+True
+webview.load(QUrl(url))
+loop.exec_()
+html=webview.page().mainFrame().toHtml()
+tree=lxml.html.fromstring(html)
+result=tree.xpath('//span[@id="price-span"]/text()')
+
+
+lis_css=tree.cssselect('li[itemtype="http://schema.org/Product"]')
+>>> for li in lis_css:
+...     price=''
+...     name=li.cssselect('span[itemprop="name"]')
+...     if name:name=name[0].text_content()
+...     c_name=li.cssselect('div[itemprop="sub_line"]')
+...     if c_name:c_name=c_name[0].text_content()
+...     prices=li.cssselect('span[class="single_sku_text"]')
+...     if prices:
+...             for p in prices:price=price+'_'+p.text_content()
+...     r=find_file(name)
+...     if r:
+...             newName=r+'_'+name+'_'+c_name+'_'+price
+...             os.rename(r,newName)
+
+
