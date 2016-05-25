@@ -1,0 +1,48 @@
+from PySide.QtGui import *
+from PySide.QtCore import *
+from PySide.QtWebKit import *
+import lxml.html
+
+url='https://au.burberry.com/womens-bags/'
+app=QApplication([])
+webview=QWebView()
+loop=QEventLoop()
+webview.loadFinished.connect(loop.quit)
+webview.load(QUrl(url))
+loop.exec_()
+html=webview.page().mainFrame().toHtml()
+tree=lxml.html.fromstring(html)
+>>> lis=tree.xpath('//li[contains(@class,"product aspect aspect-ratio")]')
+>>> len(lis)
+58
+
+>>> for i in range(58):
+...     price=lis[i].cssselect('span[class="product-price-amount -overlay-price-amount"]')
+...     if price:price=price[0].text_content();price=price.replace('\n','');price=price.replace(' ','');
+...     else:price=''
+...     title=lis[i].cssselect('div[class="product-title -overlay-title"]')
+...     if title:title=title[0].text_content();title=title.replace('\n','');title=title.replace(' ','');
+...     else:title=''
+...     href=lis[i].cssselect('a[href]')
+...     if href:href=href[0].get('href')
+...     else:href=''
+...	src=lis[i].cssselect('img[class="ctg-lazyload-img"]')
+...     if src:src=src[0].get('data-src');
+...     else:src=''
+...     print str(i)+':'+price+' '+title+' '+href+' '+src
+
+
+>>> html=open('/home/jun/git/code/burberry/au.burberry.com.htm')
+>>> lines=html.readlines()
+>>> type(lines)
+<type 'list'>
+>>> html_str='\n'.join(lines)
+>>> type(html_str)
+<type 'str'>
+>>> tree=lxml.html.fromstring(html_str)
+>>> lis=tree.xpath('//li[contains(@class,"product aspect aspect-ratio")]')
+>>> len(lis)
+60
+
+
+
